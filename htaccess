@@ -1,0 +1,92 @@
+Redirect permanent /oldfile.htm	/newfile.htm
+Redirect /~humberto/troglodita/	/~humberto/pelican-test/pages/troglodita.html
+Redirect /~humberto/research/cc-nie/case-studies/sequence/	/~humberto/pelican-test/pr-nets-sequence-case-study.html
+Redirect /~humberto/programmer-archaeologist/		   /~humberto/pelican-test/pages/programmer-archaeologist.html
+Redirect	/~humberto/teaching/compilers.html	   /~humberto/pelican-test/pages/teaching/compilers.html
+Redirect	/~humberto/blog/2013/11/09/juggling-rings-and-mills-mess/index.html /~humberto/pelican-test/learning-to-juggle-rings-and-3-ball-millss-mess.html
+Redirect	/~humberto/blog/2013/11/23/mathjax/index.html  /~humberto/pelican-test/mathjax.html
+Redirect	/~humberto/blog/2013/12/26/seattle-distributed-computing/index.html  /~humberto/pelican-test/seattle-distributed-computing.html
+Redirect	/~humberto/blog/2014/01/03/quick-row-on-paseo-lineal/index.html  /~humberto/pelican-test/quick-row-on-paseo-lineal.html
+Redirect	/~humberto/blog/2014/04/21/how-twitter-builds-distributed-systems/index.html /~humberto/pelican-test/how-twitter-builds-distributed-systems.html
+Redirect	/~humberto/blog/2014/05/11/plotting-top-10-network-flows/index.html
+
+Redirect	/~humberto/blog/2013/11/03/org-jekyll-is-awesome/index.html
+Redirect	/~humberto/blog/2013/11/04/sitemaps-and-links/index.html
+Redirect	/~humberto/blog/2013/11/10/frozen-blog/index.html
+Redirect	/~humberto/blog/2013/11/22/a-helper-for-org-and-jekyll/index.html
+Redirect	/~humberto/blog/2013/12/24/i-settled-on-octopress/index.html
+Redirect	/~humberto/blog/2013/12/27/org-mode-for-reproducible-research/index.html
+Redirect	/~humberto/blog/2014/01/15/sequence-assembly-finding-the-best-assembly/index.html
+Redirect	/~humberto/blog/2014/01/19/sequence-assembly-with-networkx/index.html
+Redirect	/~humberto/blog/2014/05/17/long-row-on-paseo-lineal/index.html
+Redirect	/~humberto/blog/2014/05/27/detecting-ssh-login-attempts-on-a-raspberry-pi/index.html
+Redirect	/~humberto/blog/2014/06/10/2014-tech-summit-hackathon-ama-data/index.html
+Redirect	/~humberto/blog/2014/07/12/rowed-9-miles-on-paseo-lineal-on-monday/index.html
+Redirect	/~humberto/blog/2014/07/20/ran-around-the-block/index.html
+Redirect	/~humberto/blog/2014/07/21/skating-in-san-juan-and-condado/index.html
+Redirect	/~humberto/blog/2014/07/28/flat-course/index.html
+Redirect	/~humberto/blog/2014/08/02/pr-nets/index.html
+Redirect	/~humberto/blog/2014/08/03/around-el-senorial/index.html
+Redirect	/~humberto/blog/2014/08/05/all-the-streets/index.html
+Redirect	/~humberto/blog/2014/11/14/courses-for-spring-2015/index.html
+Redirect	/~humberto/blog/2014/11/14/workshop-microarray-analysis-with-bioconductor/index.html
+Redirect	/~humberto/blog/2014/12/23/skating-around-the-condado-lagoon/index.html
+Redirect	/~humberto/blog/archives/index.html
+Redirect	/~humberto/blog/categories/blogging/index.html
+Redirect	/~humberto/blog/categories/hacking/index.html
+Redirect	/~humberto/blog/categories/juggling/index.html
+Redirect	/~humberto/blog/categories/learning/index.html
+Redirect	/~humberto/blog/categories/playing/index.html
+Redirect	/~humberto/blog/categories/rowing/index.html
+Redirect	/~humberto/blog/categories/running/index.html
+Redirect	/~humberto/blog/categories/skating/index.html
+Redirect	/~humberto/blog/categories/teaching/index.html
+Redirect	/~humberto/blog/index.html
+Redirect	/~humberto/blog/page/2/index.html
+Redirect	/~humberto/blog/page/3/index.html
+Redirect	/~humberto/cfwae-plus-plus/index.html
+Redirect	/~humberto/index.html
+Redirect	/~humberto/invited.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/assets/js/html5shiv.js
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/components.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/css.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/customize.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/carousel/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/grid/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/jumbotron/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/jumbotron-narrow/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/justified-nav/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/navbar/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/navbar-fixed-top/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/navbar-static-top/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/non-responsive/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/offcanvas/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/signin/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/starter-template/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/sticky-footer/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/sticky-footer-navbar/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/examples/theme/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/getting-started.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/index.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/javascript.html
+Redirect	/~humberto/javascripts/libs/bootstrap-3.0.0/js/tests/index.html
+Redirect	/~humberto/programmer-archaeologist/index.html
+Redirect	/~humberto/research/cc-nie/case-studies/sequence/index.html
+Redirect	/~humberto/research/cc-nie/index.html
+Redirect	/~humberto/research/index.html
+Redirect	/~humberto/teaching/ai.html
+Redirect	/~humberto/teaching/arch2013.html
+Redirect	/~humberto/teaching/arch2014.html
+Redirect	/~humberto/teaching/contact-F14.html
+Redirect	/~humberto/teaching/contact-S15.html
+Redirect	/~humberto/teaching/cybersec2014.html
+Redirect	/~humberto/teaching/hpc.html
+Redirect	/~humberto/teaching/index.html
+Redirect	/~humberto/teaching/plang2014/cfwae-plus-plus/index.html
+Redirect	/~humberto/teaching/plang2014/cfwae.html
+Redirect	/~humberto/teaching/plang2014/depython/index.html
+Redirect	/~humberto/teaching/plang2014-pyret.html
+Redirect	/~humberto/teaching/plang2014.html
+Redirect	/~humberto/teaching/plangpapers.html
+Redirect	/~humberto/teaching/seminar1.html
+Redirect	/~humberto/teaching/seminar2.html
