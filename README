@@ -1,0 +1,12 @@
+2014/12/30 - HOZ
+
+Test website for pelican. This blog has a couple of files that depend
+on the liquid_tags.notebook plugin. I haven't been able to make this
+plugin work with newer versions of pelican. I'm using the pelican
+3.3-1 in ubuntu. I think it also needs an older ipython (1.2.1).
+
+I put the pelican-themes and pelican-plugins parallel to this blog and
+use relative links in the pelicanconf.py.
+
+I just brought up a new ubuntu 14.04 and it needs ipython-notebook and
+pandoc installed too.
