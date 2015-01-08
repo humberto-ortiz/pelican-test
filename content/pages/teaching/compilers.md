@@ -83,9 +83,8 @@ The text for the course will be
 by Andrew Appel.
 
 Students with no functional programming experience will probably need
-an additional text on Standard ML. You can start with this
-<a href="http://homepages.inf.ed.ac.uk/stg/NOTES/">online tutorial</a>. If you need more help, I can suggest the free
-textbook by Andrew Harper of CMU
+an additional text on Standard ML.
+I can suggest the free textbook by Andrew Harper of CMU
 <a href="http://www.cs.cmu.edu/~rwh/smlbook/">Introduction to Standard ML</a>,
 or the books
 <a href="http://www.cl.cam.ac.uk/~lp15/MLbook/">ML for the Working Programmer</a> or
