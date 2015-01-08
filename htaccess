@@ -8,7 +8,9 @@ Redirect	/~humberto/blog/2013/11/23/mathjax/index.html  /~humberto/pelican-test/
 Redirect	/~humberto/blog/2013/12/26/seattle-distributed-computing/index.html  /~humberto/pelican-test/seattle-distributed-computing.html
 Redirect	/~humberto/blog/2014/01/03/quick-row-on-paseo-lineal/index.html  /~humberto/pelican-test/quick-row-on-paseo-lineal.html
 Redirect	/~humberto/blog/2014/04/21/how-twitter-builds-distributed-systems/index.html /~humberto/pelican-test/how-twitter-builds-distributed-systems.html
-Redirect	/~humberto/blog/2014/05/11/plotting-top-10-network-flows/index.html
+Redirect	/~humberto/blog/2014/05/11/plotting-top-10-network-flows/index.html	     /~humberto/pelican-test/plotting-top-10-network-flows.html
+Redirect	/~humberto/blog/2014/06/10/2014-tech-summit-hackathon-ama-data/index.html    /~humberto/pelican-test/2014-tech-summit-hackathon-ama-data.html
+Redirect	/~humberto/blog/2014/05/27/detecting-ssh-login-attempts-on-a-raspberry-pi/index.html	/~humberto/pelican-test/detecting-ssh-login-attempts-on-a-raspberry-pi.html
 
 Redirect	/~humberto/blog/2013/11/03/org-jekyll-is-awesome/index.html
 Redirect	/~humberto/blog/2013/11/04/sitemaps-and-links/index.html
@@ -19,8 +21,6 @@ Redirect	/~humberto/blog/2013/12/27/org-mode-for-reproducible-research/index.htm
 Redirect	/~humberto/blog/2014/01/15/sequence-assembly-finding-the-best-assembly/index.html
 Redirect	/~humberto/blog/2014/01/19/sequence-assembly-with-networkx/index.html
 Redirect	/~humberto/blog/2014/05/17/long-row-on-paseo-lineal/index.html
-Redirect	/~humberto/blog/2014/05/27/detecting-ssh-login-attempts-on-a-raspberry-pi/index.html
-Redirect	/~humberto/blog/2014/06/10/2014-tech-summit-hackathon-ama-data/index.html
 Redirect	/~humberto/blog/2014/07/12/rowed-9-miles-on-paseo-lineal-on-monday/index.html
 Redirect	/~humberto/blog/2014/07/20/ran-around-the-block/index.html
 Redirect	/~humberto/blog/2014/07/21/skating-in-san-juan-and-condado/index.html
