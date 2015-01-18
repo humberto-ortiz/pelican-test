@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=ccom.uprrp.edu
 SSH_PORT=22
 SSH_USER=humberto
-SSH_TARGET_DIR=/home/humberto/public_html/pelican-test
+SSH_TARGET_DIR=/home/humberto/public_html
 
 S3_BUCKET=my_s3_bucket
 
@@ -89,7 +89,7 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
@@ -128,14 +128,6 @@ ifdef NAME
 else
 	@echo 'Variable NAME is not defined.'
 	@echo 'Do make newpost NAME='"'"'Post Name'"'"
-endif
-
-editpost:
-ifdef NAME
-	${EDITOR} ${INPUTDIR}/${SLUG}.${EXT} &
-else
-	@echo 'Variable NAME is not defined.'
-	@echo 'Do make editpost NAME='"'"'Post Name'"'"
 endif
 
 newpage:
