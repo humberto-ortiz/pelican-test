@@ -4,7 +4,5 @@ Category: Teaching
 Tags: teaching
 Slug: spring-2015
 
-* [CCOM 4087 Compiler Design](http://ccom.uprrp.edu/~humberto/teaching/compilers.html)
-* [CCOM 3982 001 Undergraduate Seminar 2](http://ccom.uprrp.edu/~humberto/teaching/seminar2.html)
-
-
+* [CCOM 4087 Compiler Design](|filename|/pages/teaching/compilers.md)
+* [CCOM 3982 001 Undergraduate Seminar 2](|filename|/pages/teaching/seminar2.rst)
