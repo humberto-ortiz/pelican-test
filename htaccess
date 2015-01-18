@@ -1,16 +1,16 @@
 Redirect permanent /oldfile.htm	/newfile.htm
-Redirect /~humberto/troglodita/	/~humberto/pelican-test/pages/troglodita.html
-Redirect /~humberto/research/cc-nie/case-studies/sequence/	/~humberto/pelican-test/pr-nets-sequence-case-study.html
-Redirect /~humberto/programmer-archaeologist/		   /~humberto/pelican-test/pages/programmer-archaeologist.html
-Redirect	/~humberto/teaching/compilers.html	   /~humberto/pelican-test/pages/teaching/compilers.html
-Redirect	/~humberto/blog/2013/11/09/juggling-rings-and-mills-mess/index.html /~humberto/pelican-test/learning-to-juggle-rings-and-3-ball-millss-mess.html
-Redirect	/~humberto/blog/2013/11/23/mathjax/index.html  /~humberto/pelican-test/mathjax.html
-Redirect	/~humberto/blog/2013/12/26/seattle-distributed-computing/index.html  /~humberto/pelican-test/seattle-distributed-computing.html
-Redirect	/~humberto/blog/2014/01/03/quick-row-on-paseo-lineal/index.html  /~humberto/pelican-test/quick-row-on-paseo-lineal.html
-Redirect	/~humberto/blog/2014/04/21/how-twitter-builds-distributed-systems/index.html /~humberto/pelican-test/how-twitter-builds-distributed-systems.html
-Redirect	/~humberto/blog/2014/05/11/plotting-top-10-network-flows/index.html	     /~humberto/pelican-test/plotting-top-10-network-flows.html
-Redirect	/~humberto/blog/2014/06/10/2014-tech-summit-hackathon-ama-data/index.html    /~humberto/pelican-test/2014-tech-summit-hackathon-ama-data.html
-Redirect	/~humberto/blog/2014/05/27/detecting-ssh-login-attempts-on-a-raspberry-pi/index.html	/~humberto/pelican-test/detecting-ssh-login-attempts-on-a-raspberry-pi.html
+Redirect /~humberto/troglodita/	/~humberto/pages/troglodita.html
+Redirect /~humberto/research/cc-nie/case-studies/sequence/	/~humberto/pr-nets-sequence-case-study.html
+Redirect /~humberto/programmer-archaeologist/		   /~humberto/pages/programmer-archaeologist.html
+Redirect	/~humberto/teaching/compilers.html	   /~humberto/pages/teaching/compilers.html
+Redirect	/~humberto/blog/2013/11/09/juggling-rings-and-mills-mess/index.html /~humberto/learning-to-juggle-rings-and-3-ball-millss-mess.html
+Redirect	/~humberto/blog/2013/11/23/mathjax/index.html  /~humberto/mathjax.html
+Redirect	/~humberto/blog/2013/12/26/seattle-distributed-computing/index.html  /~humberto/seattle-distributed-computing.html
+Redirect	/~humberto/blog/2014/01/03/quick-row-on-paseo-lineal/index.html  /~humberto/quick-row-on-paseo-lineal.html
+Redirect	/~humberto/blog/2014/04/21/how-twitter-builds-distributed-systems/index.html /~humberto/how-twitter-builds-distributed-systems.html
+Redirect	/~humberto/blog/2014/05/11/plotting-top-10-network-flows/index.html	     /~humberto/plotting-top-10-network-flows.html
+Redirect	/~humberto/blog/2014/06/10/2014-tech-summit-hackathon-ama-data/index.html    /~humberto/2014-tech-summit-hackathon-ama-data.html
+Redirect	/~humberto/blog/2014/05/27/detecting-ssh-login-attempts-on-a-raspberry-pi/index.html	/~humberto/detecting-ssh-login-attempts-on-a-raspberry-pi.html
 
 Redirect	/~humberto/blog/2013/11/03/org-jekyll-is-awesome/index.html
 Redirect	/~humberto/blog/2013/11/04/sitemaps-and-links/index.html
