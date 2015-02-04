@@ -77,6 +77,18 @@ for our polls and forum postings.
 
 .. _CCOM Moodle: http://moodle.ccom.uprrp.edu/
 
+Evaluation Strategy
+===================
+
+Students will be evaluated on a 100% scale, with the following curve:
+
+A (90% - 100%), B (80% - 89%), C (65% - 79%), D (50% - 64%), F (0 – 49%).
+
+- Participation in class (25%)
+- Meetings with faculty (25%)
+- Oral presentation (25%)
+- Poster presentation (25%)
+
 Reasonable accomodations for students
 =====================================
 
