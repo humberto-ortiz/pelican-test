@@ -11,6 +11,7 @@
 +--------------+------------------------------------+
 | Web page     | <http://ccom.uprrp.edu/~humberto/> |
 +--------------+------------------------------------+
-| Office hours | TBD                                |
+| Office hours | Monday, Wednesday 8:00-9:30 AM     |
+|              | Tuesday, Thursday 3:30-5:00 PM     |
 |              | or by appointment                  |
 +--------------+------------------------------------+

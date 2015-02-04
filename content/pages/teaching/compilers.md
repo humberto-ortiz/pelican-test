@@ -6,14 +6,15 @@ slug: teaching/compilers
 
 ## Professor
 
-| Name         | Humberto Ortiz-Zuazaga           |
-| Office       | NCL A-150                        |
-| Laboratory   | NCL A-158                        |
-| Telephone    | 787-764-0000 x7430               |
+| Name         | Humberto Ortiz-Zuazaga             |
+| Office       | NCL A-150                          |
+| Laboratory   | NCL A-158                          |
+| Telephone    | 787-764-0000 x7430                 |
 | email        | <mailto:humberto.ortiz@upr.edu>    |
 | Web page     | <http://ccom.uprrp.edu/~humberto/> |
-| Office hours | TBD                              |
-|              | or by appointment                |
+| Office hours | Monday, Wednesday 8:00-9:30 AM     |
+|              | Tuesday, Thursday 3:30-5:00 PM     |
+|              | or by appointment                  |
 
 ## Description
 
@@ -96,6 +97,17 @@ We will be writing our compiler in the functional programming language
 <a href="http://sml-family.org/">Standard ML</a>. Several implementations are available, I recommend
 <a href="http://www.smlnj.org/">Standard ML of New Jersey</a>.
 Check your package manager, or download the newest version.
+
+## Evaluation
+
+Students work will be evaluated on a 100% basis with the standard curve.
+
+
+ -        Participation in course forums (online, classroom), 5% final grade
+ -        Homework, 25% final grade
+ -        Two partial exams, 50% final grade
+ -        Compiler project, 20% final grade
+
 
 ## Reasonable accomodations for students
 
