@@ -177,7 +177,15 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ## Publications
 
-1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n, Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>, Mar&iacute;a J Marcos-Martinez, Pablo E Vivas-Mej&iacute;a. MicroRNA-27a distinguishes glioblastoma multiforme from diffuse and anaplastic astrocytomas and has prognostic value. Accepted November 28, 2014, American Journal of Cancer Research.
+1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n,
+Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>,
+Mar&iacute;a J Marcos-Martinez, Pablo E
+Vivas-Mej&iacute;a. MicroRNA-27a distinguishes <em>glioblastoma
+multiforme</em> from diffuse and anaplastic astrocytomas and has
+prognostic value.  <em>American Journal of Cancer Research.</em> 2014
+December 15, 5(1), 201–218.  <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4300691/">PMCID:
+PMC4300691</a>
 
 1. Nadeau N, Ruiz M, Salazar P, Counterman B, Medina JA, <b>Ortiz-Zuazaga H</b>, Morrison A, McMillan WO, Jiggins CD, Papa R.
 Population genomics of parallel hybrid zones in the mimetic butterflies, <em>H. melpomene</em> and <em>H. erato</em>.
