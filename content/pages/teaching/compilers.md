@@ -1,4 +1,4 @@
-title: CCOM 4087 Compiler Design (DRAFT)
+title: CCOM 4087 Compiler Design
 date: 2014-11-14
 category: Teaching
 tags: hacking, learning
