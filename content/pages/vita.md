@@ -589,6 +589,10 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
 
 ## Invited Talks
 
+1. Ortiz-Zuazaga, Humberto (2015): UPR workshop: Processing TCGA mRNA expression data. figshare.
+[doi: 10.6084/m9.figshare.1385358](http://dx.doi.org/10.6084/m9.figshare.1385358)
+Retrieved 12:49, Apr 21, 2015 (GMT)
+
 1. Ortiz-Zuazaga, Humberto (2014): Microarray Analysis With
 Bioconductor Workshop. figshare.  <a
 href="http://dx.doi.org/10.6084/m9.figshare.1251183">doi:10.6084/m9.figshare.1251183</a>
