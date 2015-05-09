@@ -75,7 +75,7 @@ facility.
 Visualization Specialist
 : University of Puerto Rico, High
 Performance Computing facility, January 2000 to July 2006. TCP/IP based LAN
-and network server administration. Programming data vizualization and
+and network server administration. Programming data visualization and
 analysis applications.
 
 Bioinformatics Specialist
