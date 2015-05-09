@@ -54,7 +54,8 @@ PLUGINS = ['liquid_tags.notebook', 'render_math']
 
 # Menus
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [("Vita", "/~humberto/vita.html")]
+MENUITEMS = [("Vita", "/~humberto/vita.html"),
+             ("Megaprobe Lab", "/~humberto/megaprobe/")]
 
 # Notebook paths
 ##NOTEBOOK_DIR = 'notebooks'
