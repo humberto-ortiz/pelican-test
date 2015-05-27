@@ -31,7 +31,7 @@ defend and secure systems and networks.
 ## Pre-requisites
 
 1. CCOM 4088 - Introduction to Cybersecurity
-2. One of:
+1. One of:
 
 	- CCOM 4086 - Computer Architecture
 	- CCOM 4017 - Operating Systems
@@ -55,7 +55,14 @@ original course material describes the content as:
 
 ## Objectives
 
+After successfully completing the course students will be able to:
 
+1. Analyze a computer system, identifying one or more potential
+security vulnerabilities.
+1. Exploit common security vulnerabilities.
+1. Understand mitigation techniques implemented in modern computer systems.
+1. Implement changes to a computer system to mitigate security risks.
+1. Assess the risks in a computer system.
 
 ## Course Schedule
 
