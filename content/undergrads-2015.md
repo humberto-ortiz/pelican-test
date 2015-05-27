@@ -9,8 +9,12 @@ a lot of effort, and it shows. Go see our
 [lab page](http://ccom.uprrp.edu/~humberto/megaprobe/) and look for
 their presentations and technical reports.
 
-There are five technical reports on network flows, graph algoritms,
-cybersecurity and sequence assembly, and about as many presentations
-or posters.
+There are five technical reports on
+[network flows](http://ccom.uprrp.edu/~humberto/megaprobe/tag/flows.html),
+[graph algorithms](http://ccom.uprrp.edu/~humberto/megaprobe/tag/graphs.html),
+[cybersecurity](http://ccom.uprrp.edu/~humberto/megaprobe/tag/cybersecurity.html)
+and
+[sequence assembly](http://ccom.uprrp.edu/~humberto/megaprobe/tag/sequence-assembly.html),
+and about as many presentations or posters.
 
 I hope *some* of them come back next year!
