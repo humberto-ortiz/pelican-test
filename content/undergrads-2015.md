@@ -9,4 +9,8 @@ a lot of effort, and it shows. Go see our
 [lab page](http://ccom.uprrp.edu/~humberto/megaprobe/) and look for
 their presentations and technical reports.
 
-I hope some of them come back next year!
+There are five technical reports on network flows, graph algoritms,
+cybersecurity and sequence assembly, and about as many presentations
+or posters.
+
+I hope *some* of them come back next year!
