@@ -2,22 +2,22 @@ Title: Welcome
 Slug: welcome
 save_as: index.html
 
-<div class="jumbotron">
-<p>
-I'm an Assistant Professor of <a href="http://ccom.uprrp.edu/">Computer Science</a> in the <a href="http://www.uprrp.edu/">UPR-RRP</a>, and
-Adjunct Professor at the <a href="http://www.rcm.upr.edu/">UPR-RCM</a>. I am also the Director,
+<div class="jumbotron"> <p> I'm an Assistant Professor of <a
+href="http://ccom.uprrp.edu/">Computer Science</a> in the <a
+href="http://www.uprrp.edu/">UPR-RRP</a>, and Adjunct Professor at the
+<a href="http://www.rcm.upr.edu/">UPR-RCM</a>. I am also the Director,
 <a
 href="{filename}programmer-archaeologist.md">Programmer-Archaeologist</a>,
-and <a href="{filename}troglodita.md">resident troglodyte</a>
-of the <a href="http://www.hpcf.upr.edu/">UPR High
-Performance Computing facility</a>.
+and <a href="{filename}troglodita.md">resident troglodyte</a> of the
+<a href="http://www.hpcf.upr.edu/">UPR High Performance Computing
+facility</a>. My PGP keys <a href="{filename}/pages/keys.md">are
+online</a>.
 
-<p>
-I did my
-PhD at the <a href="http://www.uprm.edu/">UPR-RUM</a> <a href="http://cisephd.uprm.edu/">CISE program</a>. My dissertation is on the analysis
-of gene expression using microarrays with Oscar Moreno.  My <a href="vita.html">CV</a> is
-online. This set of static pages holds links to most of the stuff I
-do.
+<p> I did my PhD at the <a href="http://www.uprm.edu/">UPR-RUM</a> <a
+href="http://cisephd.uprm.edu/">CISE program</a>. My dissertation is
+on the analysis of gene expression using microarrays with Oscar
+Moreno.  My <a href="vita.html">CV</a> is online. This set of static
+pages holds links to most of the stuff I do.
 
 </div>
 
