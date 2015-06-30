@@ -9,6 +9,7 @@ Status: published
 
 ## Professor
 
+| Field        | Value                              |
 | Name         | Humberto Ortiz-Zuazaga             |
 | Office       | NCL A-150                          |
 | Laboratory   | NCL A-158                          |
@@ -67,7 +68,46 @@ security vulnerabilities.
 ## Course schedule
 
    Class will meet Tuesday and Thursday from 10:00 to 11:20 AM in NCL
-   A-143. In UPR-RP attendance is compulsory.
+   A-141. In UPR-RP attendance is compulsory.
+
+### Tentative course calendar
+
+| Date   | Topic          | Chapter        | Lecture      | Lab |
+|--------|----------------|----------------|--------------|-----|
+| Aug 11 | Intro          | 0x100          | Lec 1 [text](http://css.csail.mit.edu/6.858/2014/lec/l01-intro.txt), [video](https://www.youtube.com/watch?v=M2gc6b1hmk8) 
+| Aug 13 | Assembly, GDB  | 0x250 - 0x253  |   | [Lab 1](http://css.csail.mit.edu/6.858/2014/labs/lab1.html) (part 1, exercise 1)
+| Aug 18 | Stack overflows | 0x300 - 0x321 | Lec 2 [text](http://css.csail.mit.edu/6.858/2014/lec/l02-baggy.txt), [video](https://www.youtube.com/watch?v=ow9BYxNtEjI) (skip baggy bounds) 
+| Aug 20 | Stack exploit   | 0x480 - 0x482 |  | [Lab 1](http://css.csail.mit.edu/6.858/2014/labs/lab1.html) (part 1, exercise 2)
+| Aug 25 | Shellcode       | 0x500 - 0x530 |   
+| Aug 27 | Stack hardening | 0x6a0 - 0x6c1 | Lec 3 [text](http://css.csail.mit.edu/6.858/2014/lec/l03-brop.txt), [video](https://www.youtube.com/watch?v=pDzgwrqWNvY) (skip baggy bounds)  | [Lab 1](http://css.csail.mit.edu/6.858/2014/labs/lab1.html) (part 2, exercise 3) 
+| Sep 1  | BROP Attack     | [BROP Paper](http://css.csail.mit.edu/6.858/2014/readings/brop.pdf)
+| Sep 3  | Privilege separation | 0x280 - 0x283 | Lec 4 [text](http://css.csail.mit.edu/6.858/2014/lec/l04-okws.txt), [video](https://www.youtube.com/watch?v=XnBJc3-N2BU)  | [Lab 2](http://css.csail.mit.edu/6.858/2014/labs/lab2.html) (exercise 1, 2, 3)
+| Sep 8  | Sandboxing |   | 
+| Sep 10 | Web security | [OWASP slides](http://css.csail.mit.edu/6.858/2014/readings/owasp-top-10.pdf) | Lec 8 [text](http://css.csail.mit.edu/6.858/2014/lec/l08-web-security.txt), [video](https://www.youtube.com/watch?v=_1C62Twf0vs) |  [Lab 2](http://css.csail.mit.edu/6.858/2014/labs/lab2.html) (exercise 9, 10, 11) |
+| Sep 15 | Securing web services | [Security in Django](http://www.djangobook.com/en/2.0/chapter20.html) | Lec 9 [text](http://css.csail.mit.edu/6.858/2014/lec/l09-web-defenses.txt), [video](https://www.youtube.com/watch?v=6HhmIlbE0l0)
+| Sep 17 | Ur/Web | [Ur/Web paper](http://css.csail.mit.edu/6.858/2014/readings/urweb.pdf) | Lec 11 [video](https://www.youtube.com/watch?v=CtnpmsadTVw) | [Lab 4](http://css.csail.mit.edu/6.858/2014/labs/lab4.html) 
+| Sep 22 | Networking | 0x430 - 0x475 | Lec 12 [text](http://css.csail.mit.edu/6.858/2014/lec/l12-tcpip.txt), [video](https://www.youtube.com/watch?v=3lDUGRqZmXA)
+| Sep 24 | HTTPS | 0x741 | Lec 14 [text](http://css.csail.mit.edu/6.858/2014/lec/l14-forcehttps.txt), [video](https://www.youtube.com/watch?v=gcttL6jGSN4) | [Lab 5](http://css.csail.mit.edu/6.858/2014/labs/lab5.html)
+| Sep 29 |
+| Oct 1  |
+| Oct 6  |
+| Oct 8  |
+| Oct 13 |
+| Oct 15 |
+| Oct 20 |
+| Oct 22 |
+| Oct 27 |
+| Oct 29 |
+| Nov 3  |
+| Nov 5  |
+| Nov 10 |
+| Nov 12 |
+| Nov 17 |
+| Nov 19 | Holiday  | Descubrimiento de PR
+| Nov 24 | Holiday  | Thanksgiving
+| Nov 26 | Holiday  | Thanksgiving
+| Dec 1  |
+| Dec 3  |
 
 ## Instructional resources
 
@@ -82,8 +122,12 @@ as well as links to reference material.
 
 ## Textbook
 
-No textbook. Use the
+We will mostly use the
 [MIT course materials](http://css.csail.mit.edu/6.858/2014/general.html).
+
+We will also use the
+book. [Hacking: the Art of Exploitation, 2nd Edition](http://www.nostarch.com/hacking2.htm). Jon
+Erickson. No Startch Press. 2008.
 
 ## Software
 
