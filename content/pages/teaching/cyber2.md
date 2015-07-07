@@ -88,26 +88,26 @@ security vulnerabilities.
 | Sep 17 | Ur/Web | [Ur/Web paper](http://css.csail.mit.edu/6.858/2014/readings/urweb.pdf) | Lec 11 [video](https://www.youtube.com/watch?v=CtnpmsadTVw) | [Lab 4](http://css.csail.mit.edu/6.858/2014/labs/lab4.html) 
 | Sep 22 | Networking | 0x430 - 0x475 | Lec 12 [text](http://css.csail.mit.edu/6.858/2014/lec/l12-tcpip.txt), [video](https://www.youtube.com/watch?v=3lDUGRqZmXA)
 | Sep 24 | HTTPS | 0x741 | Lec 14 [text](http://css.csail.mit.edu/6.858/2014/lec/l14-forcehttps.txt), [video](https://www.youtube.com/watch?v=gcttL6jGSN4) | [Lab 5](http://css.csail.mit.edu/6.858/2014/labs/lab5.html)
-| Sep 29 |
-| Oct 1  |
-| Oct 6  |
-| Oct 8  |
-| Oct 13 |
-| Oct 15 |
-| Oct 20 |
-| Oct 22 |
-| Oct 27 |
-| Oct 29 |
-| Nov 3  |
-| Nov 5  |
-| Nov 10 |
-| Nov 12 |
-| Nov 17 |
+| Sep 29 | Exam 1 |
+| Oct 1  | Side channel attacks | [paper](http://css.csail.mit.edu/6.858/2014/readings/brumley-timing.pdf) | Lec 16 [text](http://css.csail.mit.edu/6.858/2014/lec/l16-timing-attacks.txt), [video](https://www.youtube.com/watch?v=AZkDGaISXq8) | [Lab 7](http://css.csail.mit.edu/6.858/2014/labs/lab7.html) (project)
+| Oct 6  | Passwords | 0x760 - 0x764 | Lec 17 [text](http://css.csail.mit.edu/6.858/2014/lec/l17-authentication.txt), [video](https://www.youtube.com/watch?v=M1wHbeY7gTc)
+| Oct 8  | Private browsing | [paper](http://css.csail.mit.edu/6.858/2014/readings/private-browsing.pdf) | Lec 18 [text](http://css.csail.mit.edu/6.858/2014/lec/l18-priv-browsing.txt), [video](https://www.youtube.com/watch?v=WE4rfpKJyN0)
+| Oct 13 | Tor | [paper](http://css.csail.mit.edu/6.858/2014/readings/tor-design.pdf) | Lec 19 [videp](https://www.youtube.com/watch?v=rIf_VZQr-dw)
+| Oct 15 | Android security | [paper](http://css.csail.mit.edu/6.858/2014/readings/android.pdf) | Lec 20 [text](http://css.csail.mit.edu/6.858/2014/lec/l20-android.txt), [video](https://www.youtube.com/watch?v=K7NhUlKrbEM)
+| Oct 20 | TaintDroid | [paper](http://css.csail.mit.edu/6.858/2014/readings/taintdroid.pdf) | Lec 21 [text](http://css.csail.mit.edu/6.858/2014/lec/l21-taintdroid.txt), [video](https://www.youtube.com/watch?v=sAhWjSPaQp4)
+| Oct 22 | Medical devices | [paper](http://css.csail.mit.edu/6.858/2014/readings/medical-sw.pdf) | Lec 15 [video](https://www.youtube.com/watch?v=gk5qzjO69VQ)
+| Oct 27 | Tahoe filesystem | [paper](https://eprint.iacr.org/2012/524.pdf)
+| Oct 29 | Bitcoin | [paper](https://bitcoin.org/bitcoin.pdf)
+| Nov 3  | Twister | [paper](http://arxiv.org/pdf/1312.7152v1.pdf)
+| Nov 5  | IPSEC | [paper](https://www.schneier.com/paper-ipsec.pdf)
+| Nov 10 | DNSSEC | [paper](https://eprint.iacr.org/2010/115.pdf)
+| Nov 12 | Homomorphic encryption
+| Nov 17 | Zero Knowlege Proofs
 | Nov 19 | Holiday  | Descubrimiento de PR
 | Nov 24 | Holiday  | Thanksgiving
 | Nov 26 | Holiday  | Thanksgiving
-| Dec 1  |
-| Dec 3  |
+| Dec 1  | Project presentations
+| Dec 3  | Project presentations
 
 ## Instructional resources
 
