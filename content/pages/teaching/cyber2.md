@@ -1,4 +1,4 @@
-title: CCOM 4995 Advanced Cybersecurity
+title: CCOM 4995 Systems and Network Security
 date: 2015-05-25
 category: Teaching
 tags: hacking, learning
@@ -22,7 +22,7 @@ Status: published
 
 ## Description
 
-Systems and Networks Security: In this course, students will learn
+In this course, students will learn
 secure system and network administration techniques. Students will
 have hands-on system administration experiences with key Internet
 services, will learn about important security issues related to such
@@ -101,8 +101,8 @@ security vulnerabilities.
 | Nov 3  | Twister | [paper](http://arxiv.org/pdf/1312.7152v1.pdf)
 | Nov 5  | IPSEC | [paper](https://www.schneier.com/paper-ipsec.pdf)
 | Nov 10 | DNSSEC | [paper](https://eprint.iacr.org/2010/115.pdf)
-| Nov 12 | Homomorphic encryption
-| Nov 17 | Zero Knowlege Proofs
+| Nov 12 | Secure Multiparty Computation | [paper](http://arxiv.org/pdf/1506.03471v1.pdf)
+| Nov 17 | Zero Knowledge Authentication | [paper](http://www.austinmohr.com/work/files/zkp.pdf)
 | Nov 19 | Holiday  | Descubrimiento de PR
 | Nov 24 | Holiday  | Thanksgiving
 | Nov 26 | Holiday  | Thanksgiving
