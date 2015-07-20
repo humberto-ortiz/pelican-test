@@ -240,6 +240,10 @@ S. Pe&ntilde;a de Ortiz.  Hippocampal gene expression profiling in spatial
 learning.  <em>Neurobiology of Learning and Memory</em>. 2003 Jul;80(1):80-95.
 [doi:10.1016/S1074-7427(03)00025-X](http://dx.doi.org/10.1016/S1074-7427(03)00025-X)
 
+1. J. Ge, N. Sperelakis, <b>H. Ortiz-Zuazaga</b>.
+Simulation of action potential propagation with electronic circuits.
+<em>Innov. et Tech. en Biol. et Med.</em>, 14(4):404-420, 1993.
+
 1. G. Sfyris, N. Sperelakis, <B>H.
 Ortiz-Zuazaga</B>, J. B. Picone, and E. Stepp.
 Length constant as a function of intercellular coupling of a cardiac
