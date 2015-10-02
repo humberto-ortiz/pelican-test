@@ -45,9 +45,13 @@ in chemistry, 1983-1987.
 
 ## Experience
 
+Associate Professor
+: Department of Computer Science, Rio
+Piedras Campus, University of Puerto Rico, since July 1, 2015.
+
 Assistant Professor
 : Department of Computer Science, Rio
-Piedras Campus, University of Puerto Rico, since January 21, 2010.
+Piedras Campus, University of Puerto Rico, January 21, 2010 to June 30, 2015.
 
 Adjunct Professor
 : Deanship for Academic Affairs, Medical
@@ -176,6 +180,25 @@ Tully; Timothy P.; (Solana Beach, CA) ; <b>Ortiz-Zuazaga; Humberto</b>; (San
 Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ## Publications
+
+1. <b>Humberto Ortiz-Zuazaga</b>, Roberto Arce-Corretjer, Juan
+   M. Solá-Sloan, José G. Conde. SalHUD – A Graphical Interface to
+   Public Health Data in Puerto Rico. Submitted 25 September, 2015 to
+   the International Journal of Environmental Research and Public
+   Health.
+
+1. Crusoe MR, Alameldin HF, Awad S et al. The khmer software package:
+   enabling efficient nucleotide sequence analysis
+   [version 1; referees: awaiting peer review] F1000Research 2015,
+   4:900 (doi:
+   [10.12688/f1000research.6924.1](http://dx.doi.org/10.12688/f1000research.6924.1))
+
+1. Edgardo Castro-P&eacute;rez, Emilio Soto-Soto, Marizabeth
+   P&eacute;rez-Carambot, Dawling Dionisio-Santos, Kristian
+   Saied-Santago, <b>Humberto Ortiz Zuazaga</b> and Sandra Pe&ntilde;a
+   de Ortiz. Identification and Characterization of the V(D)J
+   Recombination Activating Gene 1 in Long-Term Memory of Context Fear
+   Conditioning. Submitted July 22, 2015 to Neural Plasticity.
 
 1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n,
 Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>,
