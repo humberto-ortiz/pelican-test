@@ -10,6 +10,7 @@ Status: published
 ## Professor
 
 | Field        | Value                              |
+|--------------|------------------------------------|
 | Name         | Humberto Ortiz-Zuazaga             |
 | Office       | NCL A-150                          |
 | Laboratory   | NCL A-158                          |
@@ -17,7 +18,7 @@ Status: published
 | email        | <mailto:humberto.ortiz@upr.edu>    |
 | Web page     | <http://ccom.uprrp.edu/~humberto/> |
 | Office hours | Monday, Wednesday 8:00-9:30 AM     |
-|              | Tuesday, Thursday 3:30-5:00 PM     |
+|              | Tuesday 3:30-5:00 PM               |
 |              | or by appointment                  |
 
 ## Description
@@ -111,9 +112,8 @@ security vulnerabilities.
 
 ## Instructional resources
 
-The course will be hosted on the <a
-href="http://moodle.ccom.uprrp.edu/">CCOM Moodle</a>. Register and
-stay tuned for our polls and forum postings.
+The course will be hosted on the [CCOM Moodle](http://moodle.ccom.uprrp.edu/). 
+Register and stay tuned for our polls and forum postings.
 
 The course will use material developed for
 [MIT's Graduate Computer Systems Security class](http://css.csail.mit.edu/6.858/2014/general.html)
