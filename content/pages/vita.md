@@ -183,14 +183,14 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 1. <b>Humberto Ortiz-Zuazaga</b>, Roberto Arce-Corretjer, Juan
    M. Solá-Sloan, José G. Conde. SalHUD – A Graphical Interface to
-   Public Health Data in Puerto Rico. Submitted 25 September, 2015 to
-   the International Journal of Environmental Research and Public
-   Health.
+   Public Health Data in Puerto Rico. Accepted 9 October, 2015 to
+   the _International Journal of Environmental Research and Public
+   Health_.
 
 1. Crusoe MR, Alameldin HF, Awad S et al. The khmer software package:
    enabling efficient nucleotide sequence analysis
-   [version 1; referees: awaiting peer review] F1000Research 2015,
-   4:900 (doi:
+   [version 1; referees: 2 approved, 1 approved with reservations]
+   _F1000Research_ 2015, 4:900 (doi:
    [10.12688/f1000research.6924.1](http://dx.doi.org/10.12688/f1000research.6924.1))
 
 1. Edgardo Castro-P&eacute;rez, Emilio Soto-Soto, Marizabeth
@@ -198,7 +198,7 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    Saied-Santago, <b>Humberto Ortiz Zuazaga</b> and Sandra Pe&ntilde;a
    de Ortiz. Identification and Characterization of the V(D)J
    Recombination Activating Gene 1 in Long-Term Memory of Context Fear
-   Conditioning. Submitted July 22, 2015 to Neural Plasticity.
+   Conditioning. Accepted October 12, 2015 to a special issue of  _Neural Plasticity_: DNA Damage, Neurodegeneration, and Synaptic Plasticity.
 
 1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n,
 Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>,
@@ -616,13 +616,17 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
 
 ## Invited Talks
 
+1. Ortiz-Zuazaga, Humberto (2015): Computational Problems in Genetics and Genomics. figshare.
+<http://dx.doi.org/10.6084/m9.figshare.1570959>
+Retrieved 15:18, Oct 09, 2015 (GMT)
+
 1. Ortiz-Zuazaga, Humberto (2015): UPR workshop: Processing TCGA mRNA expression data. figshare.
-[doi: 10.6084/m9.figshare.1385358](http://dx.doi.org/10.6084/m9.figshare.1385358)
+<http://dx.doi.org/10.6084/m9.figshare.1385358>
 Retrieved 12:49, Apr 21, 2015 (GMT)
 
 1. Ortiz-Zuazaga, Humberto (2014): Microarray Analysis With
-Bioconductor Workshop. figshare.  <a
-href="http://dx.doi.org/10.6084/m9.figshare.1251183">doi:10.6084/m9.figshare.1251183</a>
+Bioconductor Workshop. figshare.
+<http://dx.doi.org/10.6084/m9.figshare.1251183>
 Retrieved 13:33, Nov 25, 2014 (GMT)
 
 1.  <a
