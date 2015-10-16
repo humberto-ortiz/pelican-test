@@ -50,7 +50,13 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 
 # Plugins, especially for IPython notebooks and mathjax
 PLUGIN_PATH = "../pelican-plugins"
-PLUGINS = ['liquid_tags.notebook', 'render_math', "pelican-bootstrapify"]
+
+## beautiful soup, required by pelican-bootstrapify, kills (some)
+## {filename} links
+##PLUGINS = ['liquid_tags.notebook', 'render_math', "pelican-bootstrapify"]
+
+## bootswatch-markdown applies table class to tables (much nicer)
+PLUGINS = ['liquid_tags.notebook', 'render_math', "bootswatch_markdown_css"]
 
 # Menus
 DISPLAY_PAGES_ON_MENU = False
