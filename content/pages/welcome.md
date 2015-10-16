@@ -2,8 +2,8 @@ Title: Welcome
 Slug: welcome
 save_as: index.html
 
-<div class="jumbotron"> <p> I'm an Assistant Professor of <a
-href="http://ccom.uprrp.edu/">Computer Science</a> in the <a
+<div class="jumbotron"> <p> I'm an Associate  Professor of <a
+href="//ccom.uprrp.edu/">Computer Science</a> in the <a
 href="http://www.uprrp.edu/">UPR-RRP</a>, and Adjunct Professor at the
 <a href="http://www.rcm.upr.edu/">UPR-RCM</a>. I am also the Director,
 <a
@@ -27,19 +27,19 @@ pages holds links to most of the stuff I do.
 perform research principally in bioinformatics, especially the study
 of gene expression using high-throughput techniques. I also have
 interest in cyberinfrastructure, both computational and networked.</p>
-<a class="btn btn-default" href="./category/research.html">View details
+<a class="btn btn-default" href="{category}research">View details
 &raquo;</a> </div>
 
 <div class="col-sm-4"> <h2>Teaching</h2> <p>I am a faculty member in
 the <a href="//ccom.uprrp.edu/">Department of Computer Science</a> in
 Rio Piedras. Information on my courses is available here. </p> <p><a
-class="btn btn-default" href="./category/teaching.html">View details
+class="btn btn-default" href="{category}teaching">View details
 &raquo;</a></p> </div>
 
 <div class="col-sm-4"> <h2>Other</h2> <p>I have other interests
 besides computer science. I sometimes post blog entries on diverse
 topics like juggling, running, hacking, teaching, learning, and
 reading here.  </p> <p><a class="btn btn-default"
-href="./category/blog.html">View details &raquo;</a></p> </div>
+href="{category}blog">View details &raquo;</a></p> </div>
 
 </div>
