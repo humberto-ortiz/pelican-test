@@ -31,3 +31,9 @@ sub   4096R/B02D8496 2015-06-18
 You can grab a copy of my keys from the
 [keyservers](https://pgp.mit.edu/), or
 [this file]({filename}/images/transition-keys.asc).
+
+I also have Tor Messenger. The fingerprint for humberto.ortiz@upr.edu is:
+
+```
+3BB1FF26 DE596287 6AC62E5E 6E504C21 C6D50CDB
+```
