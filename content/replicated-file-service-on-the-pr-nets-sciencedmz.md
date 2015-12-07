@@ -1,10 +1,9 @@
 Title: Replicated file service on the PR-NETS ScienceDMZ
-Slug: replicated-file
-Date: 2015-12-02
+Slug: replicated-files
+Date: 2015-12-06
 Category: Blog
 Tags: hacking, PR-NETS
 Author: Humberto Ortiz-Zuazaga
-Status: draft
 
 # Introduction
 
@@ -70,53 +69,68 @@ share from one of the servers to simulate a loss of data.
 Uploads take quite a while, the file has to be encrypted, erasure
 coded, and distributed to 6 different servers.
 
-    Shares Pushed: 6
-    Shares Already Present: 0
-    Sharemap:
-        0 -> placed on [fbiwgrqp]
-        1 -> placed on [gvgjk3pe]
-        2 -> placed on [iqy2qfob]
-        3 -> placed on [ha4tvtv4]
-        4 -> placed on [cg755rzp]
-        5 -> placed on [p2tovncz]
-    Servermap:
-        [p2tovncz] got share: #5
-        [iqy2qfob] got share: #2
-        [fbiwgrqp] got share: #0
-        [ha4tvtv4] got share: #3
-        [cg755rzp] got share: #4
-        [gvgjk3pe] got share: #1
-    Timings:
-        File Size: 689559552 bytes
-        Total: 38 minutes (296.7kBps)
-            Storage Index: 8.87s (77.77MBps)
-            [Contacting Helper]:
-            [Upload Ciphertext To Helper]: ()
-            Peer Selection: 185ms
-            Encode And Push: 38 minutes (299.2kBps)
-                Cumulative Encoding: 38 seconds (17.99MBps)
-                Cumulative Pushing: 37 minutes (304.3kBps)
-                Send Hashes And Close: 9.29s
+    $ time ./src/allmydata-tahoe-1.9.2/bin/tahoe cp /home/humberto/Downloads/CentOS-7-x86_64-DVD-1503-01.iso tahoe:data/
+    Success: files copied
+    
+    real    1m39.318s
+    user    0m1.390s
+    sys     0m1.226s
+    
+    $ ls -lh /home/humberto/Downloads/CentOS-7-x86_64-DVD-1503-01.iso
+    -rw-rw-r-- 1 humberto humberto 289M Apr 16  2015 /home/humberto/Downloads/CentOS-7-x86_64-DVD-1503-01.iso
+
+Thats 1:39 for 289 MB, or 2.9 MB/sec upload.
 
 ## Download Results
 
-Downloads are much faster, as the tahoe client can pull shares from
+Downloads can be faster, as the tahoe client can pull shares from
 multiple servers.
 
-    $ time tahoe cp tahoe:data/GNUSTEP-i686-2.0.iso .
-    Success: files copied
+    $ time ./src/allmydata-tahoe-1.9.2/bin/tahoe cp tahoe:data/CentOS-7-x86_64-DVD-1503-01.iso foo.iso                                             Success: file copied
     
-    real    6m15.390s
-    user    0m1.164s
-    sys     0m1.100s
+    real    1m34.796s
+    user    0m1.113s
+    sys     0m1.383s
 
-That turns out to be 1.7 MB/sec.
+That turns out to a bit slower,  2.8 MB/sec.
 
 ## Repairing the file.
 
-After deleting one of the shares, tahoe is unhappy. Running a repair operation is expensive, as tahoe downloads shares, computes the missing share, and reuploads the file.
+After deleting one of the shares, tahoe is unhappy. Running a repair
+operation is expensive, as tahoe downloads shares, computes the
+missing share, and reuploads the file.
+
+    $ time ./src/allmydata-tahoe-1.9.2/bin/tahoe check tahoe:data/CentOS-7-x86_64-DVD-1503-01.iso 
+    Summary: Healthy
+     storage index: hgl2j6fohszkolt676xmieoi2y
+     good-shares: 6 (encoding is 2-of-6)
+     wrong-shares: 0
+    
+    real    0m1.003s
+    user    0m0.669s
+    sys     0m0.118s
+
+    $ time ./src/allmydata-tahoe-1.9.2/bin/tahoe check --repair tahoe:data/CentOS-7-x86_64-DVD-1503-01.iso 
+    Summary: not healthy
+     storage index: hgl2j6fohszkolt676xmieoi2y
+     good-shares: 5 (encoding is 2-of-6)
+     wrong-shares: 0
+     repair successful
+    
+    real    2m21.822s
+    user    0m0.673s
+    sys     0m0.119s
 
 # Discussion
+
+Tahoe-LAFS is an intersting filesystem. Although it is not high
+performance, it can be configured to high levels of reliability, and
+is very secure. It can be configured so that even malicious server
+operators cannot obtain the contents of your files, and can resist
+even a majority of file servers being unavailable.
+
+If you are interested in using Tahoe-LAFS for your project, contact
+Humberto Ortiz-Zuazaga <humberto.ortiz@upr.edu>.
 
 # References
 
