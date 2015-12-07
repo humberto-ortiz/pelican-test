@@ -28,7 +28,10 @@ capabilities to read, write, and verify files. Given a write
 capability, the system can compute or derive lesser permissions like
 the read or verify capability, but it is infeasible to compute a write
 capability from a read capability. This feature allows secure sharing
-of files within Tahoe-LAFS.
+of files within Tahoe-LAFS. Interestingly, file capabilities do not
+have to be communicated to the tahoe storage nodes. They simply store
+and retreive shares by there share identifiers. Thus, Tahoe-LAFS
+clients do not depend on servers for anything other than availability.
 
 When a client wants to write a file to the storage network it encrypts
 the file, divides it into shares using erasure coding, and uploads the
@@ -58,8 +61,8 @@ encoding.
 
 ## Tests
 
-To test the Tahoe-LAFS system in PR-NETS, I uploaded a 658MB file to
-Tahoe over wireless, downloaded the same file, and deleted a file
+To test the Tahoe-LAFS system in PR-NETS, I uploaded a 289MB file to
+Tahoe over 10 GE, downloaded the same file, and deleted a file
 share from one of the servers to simulate a loss of data.
 
 # Results
@@ -79,12 +82,11 @@ coded, and distributed to 6 different servers.
     $ ls -lh /home/humberto/Downloads/CentOS-7-x86_64-DVD-1503-01.iso
     -rw-rw-r-- 1 humberto humberto 289M Apr 16  2015 /home/humberto/Downloads/CentOS-7-x86_64-DVD-1503-01.iso
 
-Thats 1:39 for 289 MB, or 2.9 MB/sec upload.
+That's 1:39 for 289 MB, or 2.9 MB/sec upload.
 
 ## Download Results
 
-Downloads can be faster, as the tahoe client can pull shares from
-multiple servers.
+I copied the same file back out of tahoe to test file downloads.
 
     $ time ./src/allmydata-tahoe-1.9.2/bin/tahoe cp tahoe:data/CentOS-7-x86_64-DVD-1503-01.iso foo.iso                                             Success: file copied
     
