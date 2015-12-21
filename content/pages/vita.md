@@ -303,12 +303,14 @@ Arce-Corretjer. Majority logic decoding: a discrete method for
 detecting differential expression in RNA-Seq data. Proceedings of
 BIOCOMP'13: The 14th International Conference on Bioinformatics and
 Computational Biology.  July 22-25, 2013, Las Vegas, Nevada, USA.
+<http://ccom.uprrp.edu/~humberto/research/biocomp-hoz-rnaseq.pdf>
 
 1. <b>Humberto Ortiz Zuazaga</b>, Tim Tully, Oscar
 Moreno. Majority logic decoding for probe-level microarray data.
 Proceedings of BIOCOMP'08 - The 2008 International Conference on
 Bioinformatics & Computational Biology, Las Vegas, Nevada, July 13-17,
 2008.
+<https://dx.doi.org/10.6084/m9.figshare.2056644.v1>
 
 1. <b>Humberto Ortiz-Zuazaga</b>, Sandra Pe&ntilde;a de Ortiz, Oscar
 Moreno de Ayala. Error Correction and Clustering Gene Expression Data
