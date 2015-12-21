@@ -317,7 +317,6 @@ Conference on Bioinformatics and Computational Biology (BIOCOMP'07),
 Las Vegas, Nevada, June 25-28, 2007.
 <https://dx.doi.org/10.6084/m9.figshare.2056614.v1>
 
-Retrieved: 22 58, Dec 21, 2015 (GMT)
 1.    Edna C. Su&aacute;rez-Castillo, <b>Humberto Ortiz-Zuazaga</b>,
 Josu&eacute; Hern&aacute;ndez-Pasos, Jos&eacute; E. Garc&iacute;a-Arrar&aacute;s.
     Microarray analysis of the sea cucumber intestinal regeneration process.
