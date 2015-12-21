@@ -297,6 +297,7 @@ Experience With Parallel Computational Thinking: A Four Years
 Journey. The Workshop on Parallel, Distributed, and High-Performance
 Computing in Undergraduate Curricula (EduPDHPC) 2013. November 18,
 2013, Denver Colorado, USA.
+[PDF](http://sc13.supercomputing.org/sites/default/files/WorkshopsArchive/pdfs/wp101s1.pdf)
 
 1. <b>Humberto Ortiz-Zuazaga</b>, Roberto
 Arce-Corretjer. Majority logic decoding: a discrete method for
