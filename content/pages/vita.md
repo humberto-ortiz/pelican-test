@@ -183,9 +183,10 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 1. <b>Humberto Ortiz-Zuazaga</b>, Roberto Arce-Corretjer, Juan
    M. Solá-Sloan, José G. Conde. SalHUD – A Graphical Interface to
-   Public Health Data in Puerto Rico. Accepted 9 October, 2015 to
-   the _International Journal of Environmental Research and Public
-   Health_.
+   Public Health Data in Puerto Rico.
+   _International Journal of Environmental Research and Public
+   Health._ Vol *13*, No 1, 18, **2016**.
+   [doi:10.3390/ijerph13010018](http://dx.doi.org/10.3390/ijerph13010018)
 
 1. Crusoe MR, Alameldin HF, Awad S et al. The khmer software package:
    enabling efficient nucleotide sequence analysis
