@@ -199,8 +199,9 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    Saied-Santago, <b>Humberto Ortiz Zuazaga</b> and Sandra Pe&ntilde;a
    de Ortiz. Identification and Characterization of the V(D)J
    Recombination Activating Gene 1 in Long-Term Memory of Context Fear
-   Conditioning. Accepted October 12, 2015 to a special issue of  _Neural Plasticity_: DNA Damage, Neurodegeneration, and Synaptic Plasticity.
-
+   Conditioning. _Neural Plasticity,_ vol. 2016, Article ID 1752176,
+   19 pages, 2016.  <http://dx.doi.org/10.1155/2016/1752176>
+   
 1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n,
 Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>,
 Mar&iacute;a J Marcos-Martinez, Pablo E
