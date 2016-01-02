@@ -6,3 +6,4 @@ tags: teaching, hacking, learning
 
 * [CCOM 4087 Compiler Design]({filename}/pages/teaching/compilers2016.rst)
 * [CCOM 3982 Undergraduate Seminar II]({filename}/pages/teaching/seminar2.rst)
+* [INTD 8605 Data Analysis in Cancer Research]({filename}/pages/teaching/data-cancer.md)
