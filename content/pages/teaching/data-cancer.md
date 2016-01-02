@@ -55,10 +55,28 @@ At the end of the course, students will be able to:
 
 ### Tentative course calendar
 
-| Date   | Topic          | Reading        |
-|--------|----------------|----------------|
-| Jan 22 | Introduction   | P. Daalgard (2008) “Introductory Statistics with R” Springer. Chap 1 and 2. R. Irizarry and M. Love (2015) “Data Analysis for the Life Sciences” Leanpub. Pgs 4-17. |
+| Date   | Topic          | Book Chapter * | Additional Reading        |
+|--------|----------------|----------------|---------------------------|
+| Jan 22 | Introduction   | STAT Ch 1-2, DATA Pg 4-17 |                | 
+| Jan 29 | How to Generate Descriptive Statistics | STAT Ch 4, DATA Pg 92-137 | Spriestersbach, A., Röhrig, B., du Prel, J.B., Gerhold-Ay, A., Blettner, M. (2009). Descriptive statistics: The specification of statistical measures and their presentation in tables and graphs. Part 7 of a series on evaluation of scientific publications. Dtsch Arztebl Int, 106(36):578-83. |
+| Feb 5 | How to Generate Inferential Statistics | DATA Pg 18-91 |
+| Feb 12 | Testing Hypotheses | STAT Ch 5; DATA Pg 18-91 | du Prel, J.B., Röhrig, B., Hommel, G., Blettner, M. (2010). Choosing statistical tests: Part 12 of a series on evaluation of scientific publications. Dtsch Arztebl Int, 107(19):343-8. |
+| Feb 19 | Calculation of Sample Size and Power | STAT Ch 9; DATA Pg 62-74 | Röhrig, B., du Prel, J.B., Wachtlin, D., Kwiecien, R., Blettner, M. (2010). Sample size calculation in clinical trials: Part 13 of a series on evaluation of scientific publications. Dtsch Arztebl Int, 107(31-32):552-6. |
+| Feb 26 | Linear Models | STAT Ch 6,11 | Schneider, A., Hommel, G., Blettner, M. (2010). Linear regression analysis: Part 14 of a series on evaluation of scientific publications. Dtsch Arztebl Int, 107(44):776-82. |
+| Mar 4 | One Way Analysis of Variance | STAT Ch 7 | Victor, A., Elsässer, A., Hommel, G., Blettner, M. (2010). Judging a plethora of p-values: how to contend with the problem of multiple testing--Part 10 of a series on evaluation of scientific publications. Dtsch Arztebl Int, 107(4):50-6. |
+| Mar 11 | Contingency Tables and Log-linear Models I  | STAT Ch 13,15 | |
+| Mar 18 | Contingency Tables and Log-linear Models II | STAT Ch 13,15 | |
+| Mar 25 | **No class** | | |
+| Apr 1  | Introduction to Bioinformatics | | W. Huber, V.J. Carey, R. Gentleman, *et al.* Orchestrating high-throughput genomic analysis with Bioconductor. Nature Methods, 2015:12, 115. <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509590/> |
+| Apr 8 | Single and Multiple Sequence Alignment | | (1) Needleman,S. and Wunsch,C. A general method applicable to the search for similarities in the amino acid sequence of two proteins. Journal of Molecular Biology, 48, 443-453, 1970. <http://www.cise.ufl.edu/class/cis4930sp09rab/00052.pdf> (2) Erik S. Wright. The Art of Multiple Sequence Alignment in R. University of Wisconsin. Madison, WI. October 13, 2015. <https://www.bioconductor.org/packages/3.3/bioc/vignettes/DECIPHER/inst/doc/ArtOfAlignmentInR.pdf> |
+| Apr 15 | Statistical Methods for Analysis of Microarray Data | | Smyth, G. K. (2004).     Linear models and empirical Bayes methods for assessing differential expression in microarray experiments. Statistical Applications in Genetics and Molecular Biology Volume 3, Issue 1, Article 3. <http://www.statsci.org/smyth/pubs/ebayes.pdf> |
+| Apr 22 | Gene Clustering Analysis | | K. S. Pollard and M. J. van der Laan. "Cluster Analysis of Genomic Data" in Gentleman, R., Carey, V.J., et al. Bioinformatics and Computational Biology Solutions Using R and Bioconductor. Springer, 2005. <http://cbcb.umd.edu/~hcorrada/CFG/readings/Solutions_ch13.pdf> |
+| Apr 29 | Next Generation Sequencing | | Law, CW, Chen, Y, Shi, W, and Smyth, GK (2014).  Voom: precision weights unlock linear model analysis tools for RNA-seq read counts. Genome Biology 15, R29. <http://www.genomebiology.com/2014/15/2/R29> |
+| May 6 | Bioinformatics Case Study | | |
 
+\* STAT: Book chapters from P. Daalgard (2008) “Introductory Statistics with R” Springer.
+
+\* DATA:  R. Irizarry and M. Love (2015) “Data Analysis for the Life Sciences” Leanpub. <https://leanpub.com/dataanalysisforthelifesciences>.
 
 ## Instructional resources
 
@@ -83,7 +101,7 @@ Students work will be evaluated on a 100% basis with the standard curve.
  -        Homework, 20% final grade
  -        Project in Biostatistics, 35% final grade
  -        Project in Bioinformatics, 35% final grade
- -        Attendance 10%
+ -        Attendance, 10% final grade
 
 ## Reasonable accomodations for students (Statement of PR Law 51)
 
@@ -141,54 +159,53 @@ Less than 70 F
 
 ## Bibliography
 
-Daalgard, P. (2008). Introductory Statistics with R. (2nd
+1. Daalgard, P. (2008). Introductory Statistics with R. (2nd
 ed). Springer.
 
-Gentleman, R., Carey, V., Huber, W., Irizarry, R., Dudoit,
-S. (Eds.). (2005). Bioinformatics and
+2. Gentleman, R., Carey, V., Huber, W., Irizarry, R., Dudoit,
+S. (Eds.). (2005). Bioinformatics and Computational Biology Solutions
+Using R and Bioconductor. Springer.
 
-Computational Biology Solutions Using R and Bioconductor. Springer.
-
-Irizarry, R and Love, M. (2015). Data Analysis for the Life
+3. Irizarry, R and Love, M. (2015). Data Analysis for the Life
 Sciences. Leanpub.
 
-Spriestersbach, A., Röhrig, B., du Prel, J.B., Gerhold-Ay, A.,
+4. Spriestersbach, A., Röhrig, B., du Prel, J.B., Gerhold-Ay, A.,
 Blettner, M. (2009). Descriptive statistics: The specification of
 statistical measures and their presentation in tables and graphs. Part
 7 of a series on evaluation of scientific publications. Dtsch Arztebl
 Int, 106(36):578-83.
 
-du Prel, J.B., Röhrig, B., Hommel, G., Blettner, M. (2010). Choosing
+5. du Prel, J.B., Röhrig, B., Hommel, G., Blettner, M. (2010). Choosing
 statistical tests: Part 12 of a series on evaluation of scientific
 publications. Dtsch Arztebl Int, 107(19):343-8.
 
-Röhrig, B., du Prel, J.B., Wachtlin, D., Kwiecien, R., Blettner,
+6. Röhrig, B., du Prel, J.B., Wachtlin, D., Kwiecien, R., Blettner,
 M. (2010). Sample size calculation in clinical trials: Part 13 of a
 series on evaluation of scientific publications. Dtsch Arztebl Int,
 107(31-32):552-6.
 
-Victor, A., Elsässer, A., Hommel, G., Blettner, M. (2010). Judging a
+7. Victor, A., Elsässer, A., Hommel, G., Blettner, M. (2010). Judging a
 plethora of p-values: how to contend with the problem of multiple
 testing--Part 10 of a series on evaluation of scientific
 publications. Dtsch Arztebl Int, 107(4):50-6.
 
-Schneider, A., Hommel, G., Blettner, M. (2010). Linear regression
+8. Schneider, A., Hommel, G., Blettner, M. (2010). Linear regression
 analysis: Part 14 of a series on evaluation of scientific
 publications. Dtsch Arztebl Int, 107(44):776-82.
 
 ## Electronic resources
 
-R software: Available from <http://cran.r-project.org> Reference: R Core
+- R software: Available from <http://cran.r-project.org> Reference: R Core
 Team (2015). R: A language and environment for statistical
 computing. R Foundation for Statistical Computing. Vienna,
 Austria. URL <http://www.R-project.org/>.
 
-Bioconductor: <http://www.bioconductor.org/>
+- Bioconductor: <http://www.bioconductor.org/>
 
-RStudio Team (2012). R Studio: Integrated Development for R. RStudio,
+- RStudio Team (2012). R Studio: Integrated Development for R. RStudio,
 Inc., Boston, MA URL <http://www.rstudio.com/>.
 
-Irizarry and Love (2015) is available from
-<https://leanpub.com/dataanalusisforthelifesciences>.
+- Irizarry and Love (2015) is available from
+  <https://leanpub.com/dataanalysisforthelifesciences>.
 
-For each chapter, the book provides links to the R code used.
+  For each chapter, the book provides links to the R code used.
