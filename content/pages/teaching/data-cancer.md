@@ -178,17 +178,17 @@ publications. Dtsch Arztebl Int, 107(44):776-82.
 
 ## Electronic resources
 
-R software: Available from http://cran.r-project.org Reference: R Core
+R software: Available from <http://cran.r-project.org> Reference: R Core
 Team (2015). R: A language and environment for statistical
 computing. R Foundation for Statistical Computing. Vienna,
-Austria. URL http://www.R-project.org/.
+Austria. URL <http://www.R-project.org/>.
 
-Bioconductor: http://www.bioconductor.org/
+Bioconductor: <http://www.bioconductor.org/>
 
 RStudio Team (2012). R Studio: Integrated Development for R. RStudio,
-Inc., Boston, MA URL http://www.rstudio.com/.
+Inc., Boston, MA URL <http://www.rstudio.com/>.
 
 Irizarry and Love (2015) is available from
-https://leanpub.com/dataanalusisforthelifesciences .
+<https://leanpub.com/dataanalusisforthelifesciences>.
 
 For each chapter, the book provides links to the R code used.
