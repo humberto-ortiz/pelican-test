@@ -181,11 +181,19 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ## Publications
 
+1. Edgardo Castro-P&eacute;rez, Emilio Soto-Soto, Marizabeth
+   P&eacute;rez-Carambot, Dawling Dionisio-Santos, Kristian
+   Saied-Santago, <b>Humberto Ortiz Zuazaga</b> and Sandra Pe&ntilde;a
+   de Ortiz. Identification and Characterization of the V(D)J
+   Recombination Activating Gene 1 in Long-Term Memory of Context Fear
+   Conditioning. _Neural Plasticity,_ vol. 2016, Article ID 1752176,
+   19 pages, **2016**.  <http://dx.doi.org/10.1155/2016/1752176>
+
 1. <b>Humberto Ortiz-Zuazaga</b>, Roberto Arce-Corretjer, Juan
    M. Solá-Sloan, José G. Conde. SalHUD – A Graphical Interface to
    Public Health Data in Puerto Rico.
    _International Journal of Environmental Research and Public
-   Health._ Vol *13*, No 1, 18, **2016**.
+   Health._ Vol *13*, No 1, 18, **2015**.
    [doi:10.3390/ijerph13010018](http://dx.doi.org/10.3390/ijerph13010018)
 
 1. Crusoe MR, Alameldin HF, Awad S et al. The khmer software package:
@@ -193,14 +201,6 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    [version 1; referees: 2 approved, 1 approved with reservations]
    _F1000Research_ 2015, 4:900 (doi:
    [10.12688/f1000research.6924.1](http://dx.doi.org/10.12688/f1000research.6924.1))
-
-1. Edgardo Castro-P&eacute;rez, Emilio Soto-Soto, Marizabeth
-   P&eacute;rez-Carambot, Dawling Dionisio-Santos, Kristian
-   Saied-Santago, <b>Humberto Ortiz Zuazaga</b> and Sandra Pe&ntilde;a
-   de Ortiz. Identification and Characterization of the V(D)J
-   Recombination Activating Gene 1 in Long-Term Memory of Context Fear
-   Conditioning. _Neural Plasticity,_ vol. 2016, Article ID 1752176,
-   19 pages, 2016.  <http://dx.doi.org/10.1155/2016/1752176>
    
 1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n,
 Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>,
