@@ -293,6 +293,13 @@ muscle. <EM>Innov. et Tech. en Biol. et Med.</EM>,
 
 ## Refereed Proceedings
 
+1. Eric Gamess, **Humberto Ortiz-Zuazaga**. Evaluation of
+Point-to-Point Network Performance of HPC Clusters at the Level of
+UDP, TCP, and MPI. Proceedings of Simposio Científico y Tecnológico en
+Computación (SCTC 2016) Escuela de Computación de la Universidad
+Central de Venezuela, del 9 al 11 de mayo de 2016. Pages 116-122.
+[PDF](http://www.sctc.org.ve/memorias/SCTC2016/SCTC2016-p116-122.pdf)
+
 1. Edusmildo Orozco, Rafael Arce-Nazario, Jos&eacute;
 Ortiz-Ubarri, and <b>Humberto Ortiz-Zuazaga</b>. A Curricular
 Experience With Parallel Computational Thinking: A Four Years
