@@ -12,7 +12,7 @@ Status: published
 | Field        | Value                              |
 |--------------|------------------------------------|
 | Name         | Humberto Ortiz-Zuazaga             |
-| Office       | NCL A-150                          |
+| Office       | NCL A-159                          |
 | Laboratory   | NCL A-158                          |
 | Telephone    | 787-764-0000 x7430                 |
 | email        | <mailto:humberto.ortiz@upr.edu>    |
@@ -71,12 +71,12 @@ discuss why he/she chose this topic.
 ## Course schedule
 
    Class will meet Mondays from 11:30 AM to 12:50 PM in NCL
-   XXXX. In UPR-RP attendance is compulsory.
+   A-141. In UPR-RP attendance is compulsory.
 
 
 ## Instructional resources
 
-The course will be hosted on the [CCOM Moodle](http://moodle.ccom.uprrp.edu/). 
+The course will be hosted on the [UPRRP Moodle](http://online.uprrp.edu/). 
 Register and stay tuned for our polls and forum postings.
 
 
