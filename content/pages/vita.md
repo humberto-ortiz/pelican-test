@@ -877,6 +877,7 @@ NIH NIGMS 2P20GM103475-14
 PI: Jose Rodriguez Medina  
 Start Date: September 1, 2015  
 End Date: May 31, 2020  
+Funds: $20,369,321  
 Role on Project: Director, Bioinformatics Core. Will provide, in conjunction with the bioinfomatics core personnel, bioinformatics support for INBRE researchers.
 
 1. CC-NIE Networking Infrastructure: Perimeter Network to Expedite the Transmission of Science Project (PR NETS)  
