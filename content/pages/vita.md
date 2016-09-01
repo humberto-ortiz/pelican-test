@@ -181,6 +181,12 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ## Publications
 
+1. Eric Gamess and **Humberto Ortiz-Zuazaga**, “Analytical Performance
+   Evaluation of Ipv6 and Ipv4 Over 10 Gigabit Ethernet and Infiniband
+   using Ipoib” International Journal of Advanced Computer Science and
+   Applications(IJACSA),
+   7(8), 2016. <http://dx.doi.org/10.14569/IJACSA.2016.070829>
+
 1. Edgardo Castro-P&eacute;rez, Emilio Soto-Soto, Marizabeth
    P&eacute;rez-Carambot, Dawling Dionisio-Santos, Kristian
    Saied-Santago, <b>Humberto Ortiz Zuazaga</b> and Sandra Pe&ntilde;a
