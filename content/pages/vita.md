@@ -854,3 +854,109 @@ Biology Department regular seminar series.  August 1997.  </p>
 
 1. <p>A Survey of Bioinformatics. University of Puerto Rico School of
 Medicine RCMI lecture series. May 1997.  </p>
+
+## Research support
+
+### Pending awards
+
+None
+
+### Current research support
+
+1. Increasing Diversity in Interdisiplinary Big Data to Knowledge  
+NIH NIMHD R25 MD010399  
+PI: José E. García-Arrarás  
+Other PI: Patricia Ordonez, María-Egleé Pérez Hernández  
+Start Date: September 25, 2016  
+End Date: June 30, 2020  
+Funds: $1M  
+Role on project: Support undergraduate training in biomedical big data analysis, research mentoring of undergraduates, coordinate seminars and workshops in biomedical big data.
+
+1. ADVANCING COMPETITIVE BIOMEDICAL RESEARCH IN PUERTO RICO  
+NIH NIGMS 2P20GM103475-14  
+PI: Jose Rodriguez Medina  
+Start Date: September 1, 2015  
+End Date: May 31, 2020  
+Role on Project: Director, Bioinformatics Core. Will provide, in conjunction with the bioinfomatics core personnel, bioinformatics support for INBRE researchers.
+
+1. CC-NIE Networking Infrastructure: Perimeter Network to Expedite the Transmission of Science Project (PR NETS)  
+NSF ACI 1340959  
+PI: Jose Ortiz-Ubarri  
+Co-PI: **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario  
+Project goals: Facilitate scientific research on the Rio Piedras campus of the University of Puerto Rico by constructing a ScienceDMZ. This specialized research network will allow researchers in diverse fields including psychology, biology, chemistry, physics and computer and environmental sciences to transmit large data sets to collaborators.  
+Funds: $499,667
+
+1. UPR/MDACC Partnership for Excellence in Cancer Research  
+NIH National Cancer Institute 2U54CA096297-11  
+PI: Marcia Cruz-Correa, Gabriel Lopez-Berestein, Reynold Lopez-Enriquez, José F. Cordero,  Brad R. Weiner, Elizabeth L. Travis, David W. Wetter, and Michelle Barton  
+Role on Project: Bioinformatics director, Biostatistics, Epidemiology and Bioinformatics Core (BEBiC).   
+Funds: $5,364,836  
+
+1. Academics and Training for the Advancement of Cybersecurity Knowledge in Puerto Rico (ATACK PR)  
+NSF DUE-1438838  
+PI: Jose Ortiz-Ubarri  
+Co-PI: Patricia Ordonez, **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario  
+Project Goals: Boost the education and training in cybersecurity in the undergraduate CS curriculum through the development of easy-to-adopt and transferable educational activities in cybersecurity for the core courses of the CS curriculum and the design and offering of new courses in cybersecurity to develop a security aware workforce.  
+$299,982, Start date September 1, 2014. 
+
+### Declined Research Support
+
+1. Puerto Rico Center for Gene and Gene Expression Studies (GenExPRC)  
+Proposal submitted to the COBRE program in the National Institutes of Health.  
+PI: Jose E. Garcia-Arraras  
+Role on project: Submitted a junior faculty research project on the modeling and analysis of the effects of lead on gene regulation during development of the nervous system in Drosophila, and social interaction. The grant seeks to create a multidisciplinary center in gene expression studies. The proposal is for $11M over 5 years.
+
+### Completed Research Support
+
+1. EPSCoR Research Infrastructure Improvement Track 1
+Nanotechnology from Basic Science to Emerging Applications: Institute for Functional Nanomaterials (IFN)  
+NSF EPSCoR 1002410  
+PI: Brad Weiner  
+CoPI: Arturo Hernandez  
+Role on project: Director of the computational nanoscience resource center (CNaRC). Will provide cyberinfrastructure for computational nanoscience research to IFN. The grant is for $20 M for 5 years support.
+
+1. Advancing Competitive Biomedical Research in Puerto Rico  
+NIH	NIGMS P20GM103475  
+PI:  José Rodriguez Medina  
+Start date: August 1, 2009  
+End Date July 31, 2014  
+Funds $18,050,756  
+Role on project: Director of the Bioinformatics Resource Center (BiRC), providing bioinformatics hardware, software and consulting support to all INBRE researchers in Puerto Rico, at all INBRE institutions on the island.  This grant was awarded in 2001 with $4M in NCRR funding, and was successfully renewed in 2004 for 5 years and $10M. A third cycle has been awarded in 2009 for an additional 5 years at $18M.
+
+1. EPSCoR Research Infrastructure Improvement Track 1  
+NSF Award # EPS-0701525  
+PI: Brad Weiner  
+Co-PI: Manuel Gomez  
+Role on project: Director of the Computational Nanoscience Resource Center (CNaRC), providing hardware, software, consulting and training support to nanoscience researchers in the Institute for Functional Nanomaterials. This grant was awarded in 2007, for $9M over 3 years.
+
+1. Networking research resources across America,   
+NIH NCRR U24RR02982  
+PI: Emma Fernandez Repollet  
+Start date: September 25, 2009  
+End date: August 31, 2011  
+Funds: $7,499,857  
+Role on Project: informatics lead, advised PI on informatics issues related to the identification and sharing of unique research resources in UPR system.
+
+1. MRI–R2: Acquisition of genomic and bioinformatic technology to promote research at the University of Puerto Rico  
+NSF Award No. DBI-0959864  
+PI: Tomas Hrbek  
+Role: Co-PI (Co-Principal Investigator)  
+Start date: July 1, 2010  
+End date: June 30, 2013  
+Funds: $637,739  
+Role on project: Manage data storage and analysis for next-generation sequencing efforts at the Sequencing and Genotyping Facility. Collaborate with researchers on the analysis of high-throughput sequence data.
+
+1. Puerto Rico Clinical and Translational Research Consortium  
+NIH NCRR U54RR026139  
+PI: Frontera, Walter R.  
+Start date: 17-SEP-2010  
+End date: 30-JUN-2013  
+Funds $16,398,579  
+Role on project: Biomedical informatics key function leader. Direct staff responsible for biomedical informatics infrastructure, coordinate training in biomedical informatics, establish research collaborations in biomedical informatics in support of clinical and translational research within the consortium.
+
+1. EPSCoR Research Infrastructure Improvement Track 2
+Collaborative Research: Adaptive Cyberinfrastructure for Computational Nanoscience  
+NSF Proposal #1010094  
+PI: Manuel Gomez  
+Co-PI: Julian Velev, **Humberto Ortiz Zuazaga**, Peter M. Musial  
+Role on project: Director of the CNaRC, and Co-PI of the overall grant, a collaboration with the Nebraska jurisdiction. The grant will provide additional computational resources and support for researchers in computational nanoscience. The grant is for $2.7 M for 3 years support.
