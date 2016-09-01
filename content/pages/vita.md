@@ -869,7 +869,7 @@ PI: José E. García-Arrarás
 Other PI: Patricia Ordonez, María-Egleé Pérez Hernández  
 Start Date: September 25, 2016  
 End Date: June 30, 2020  
-Funds: $1M  
+Funds: $1,067,600  
 Role on project: Support undergraduate training in biomedical big data analysis, research mentoring of undergraduates, coordinate seminars and workshops in biomedical big data.
 
 1. ADVANCING COMPETITIVE BIOMEDICAL RESEARCH IN PUERTO RICO  
