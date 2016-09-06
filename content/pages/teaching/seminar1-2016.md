@@ -14,11 +14,11 @@ Status: published
 | Name         | Humberto Ortiz-Zuazaga             |
 | Office       | NCL A-159                          |
 | Laboratory   | NCL A-158                          |
-| Telephone    | 787-764-0000 x7430                 |
+| Telephone    | 787-764-0000 x88363                |
 | email        | <mailto:humberto.ortiz@upr.edu>    |
 | Web page     | <http://ccom.uprrp.edu/~humberto/> |
-| Office hours | Monday, Wednesday 8:00-9:30 AM     |
-|              | Tuesday 3:30-5:00 PM               |
+| Office hours | Tuesday, Thursday 8:00-9:30 AM     |
+|              | Wednesday 3:00-4:30 PM             |
 |              | or by appointment                  |
 
 ## Description
