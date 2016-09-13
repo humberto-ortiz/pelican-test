@@ -900,13 +900,6 @@ Co-PI: Patricia Ordonez, **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario
 Project Goals: Boost the education and training in cybersecurity in the undergraduate CS curriculum through the development of easy-to-adopt and transferable educational activities in cybersecurity for the core courses of the CS curriculum and the design and offering of new courses in cybersecurity to develop a security aware workforce.  
 $299,982, Start date September 1, 2014. 
 
-### Declined Research Support
-
-1. Puerto Rico Center for Gene and Gene Expression Studies (GenExPRC)  
-Proposal submitted to the COBRE program in the National Institutes of Health.  
-PI: Jose E. Garcia-Arraras  
-Role on project: Submitted a junior faculty research project on the modeling and analysis of the effects of lead on gene regulation during development of the nervous system in Drosophila, and social interaction. The grant seeks to create a multidisciplinary center in gene expression studies. The proposal is for $11M over 5 years.
-
 ### Completed Research Support
 
 1. EPSCoR Research Infrastructure Improvement Track 1
@@ -956,7 +949,7 @@ Funds $16,398,579
 Role on project: Biomedical informatics key function leader. Direct staff responsible for biomedical informatics infrastructure, coordinate training in biomedical informatics, establish research collaborations in biomedical informatics in support of clinical and translational research within the consortium.
 
 1. EPSCoR Research Infrastructure Improvement Track 2
-Collaborative Research: Adaptive Cyberinfrastructure for Computational Nanoscience  
+Collaborative Research: Cyberinfrastructure-enabled Computational Nanoscience for Energy Technologies  
 NSF Proposal #1010094  
 PI: Manuel Gomez  
 Co-PI: Julian Velev, **Humberto Ortiz Zuazaga**, Peter M. Musial  
