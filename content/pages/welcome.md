@@ -4,7 +4,7 @@ save_as: index.html
 
 <div class="jumbotron"> <p> I'm an Associate  Professor of <a
 href="//ccom.uprrp.edu/">Computer Science</a> in the <a
-href="http://www.uprrp.edu/">UPR-RRP</a>, and Adjunct Professor at the
+href="http://www.uprrp.edu/">UPRRP</a>, and Adjunct Professor at the
 <a href="http://www.rcm.upr.edu/">UPR-RCM</a>. I am also the Director,
 <a
 href="{filename}programmer-archaeologist.md">Programmer-Archaeologist</a>,
@@ -13,7 +13,7 @@ and <a href="{filename}troglodita.md">resident troglodyte</a> of the
 facility</a>. My PGP keys <a href="{filename}/pages/keys.md">are
 online</a>.
 
-<p> I did my PhD at the <a href="http://www.uprm.edu/">UPR-RUM</a> <a
+<p> I did my PhD at the <a href="http://www.uprm.edu/">UPRM</a> <a
 href="http://cisephd.uprm.edu/">CISE program</a>. My dissertation is
 on the analysis of gene expression using microarrays with Oscar
 Moreno.  My <a href="vita.html">CV</a> is online. This set of static
