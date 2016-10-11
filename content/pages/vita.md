@@ -395,6 +395,18 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 	
 ## Conferences
 
+1. Jimenez-Ruiz, Ivan; <b>Ortiz-Zuazaga, Humberto</b>;
+   Gonzalez-Mendez, Ricardo; Ropelewski, Alexander; Agosto Rivera,
+   Jose. Comparing Reference-Based and De Novo Assemblies Using
+   Drosophila melanogaster data. Annual Biomedical Research Conference
+   for Minority Students (ABRCMS), November 9-12, 2016, Tampa,
+   Florida.
+
+1. Grace M. Rodríguez Gómez, <b>Humberto
+   Ortiz-Zuazaga</b>. Techniques for Anomaly Detection in IPv6 Network
+   Flows. ACM Richard Tapia Celebration of Diversity in Computing,
+   September 14-17, 2016. Austin, TX
+
 1. Jos&eacute; Ortiz-Ubarri, Albert Maldonado, Eric Santos and <b>Humberto
 Ortiz-Zuazaga</b>. Toa: an open source web based NetFlow data network
 monitoring system. Accepted for oral presentation at FlowCon 2015,
