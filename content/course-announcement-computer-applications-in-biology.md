@@ -24,6 +24,13 @@ The course is designed for graduate and advanced undergraduate
 students in biology or computer science. Students should have some
 familiarity with programming.
 
+## Course schedule
+
+The course will meet Monday and Wednesdays from 1:00-2:20PM in room
+CNL A-141, Natural Sciences, Rio Piedras Campus, University of Puerto
+Rico.
+
+
 ## For more information
 
 Contact Humberto Ortiz-Zuazaga <humberto.ortiz@upr.edu> with any
