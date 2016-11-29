@@ -180,11 +180,43 @@ Tully; Timothy P.; (Solana Beach, CA) ; <b>Ortiz-Zuazaga; Humberto</b>; (San
 Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ## Publications
+### Submitted
+
+1. Jessica Morales-Ortíz,
+Fiorella Reyes,
+Octavio Santiago,
+Monica Fernandez de Soto,
+Franklin Staback,
+Amanda Pacheco,
+**Humberto Ortiz-Zuazaga,**
+Christian Yost,
+Jesse Rowley,
+Bismarck Madera,
+Matthew Rondina,
+Valance Washington.
+Platelet Regulation of Immunohemostasis Dictate Therapeutic Potential for Trem-Like Transcript-1.
+Submitted November 26, 2016 to the *Journal of Clinical Investigation*.
+
+1. Anatoliy P Chornyy,
+Nataliya E Chorna,
+Sandra Peña de Ortiz,
+Luis R Pericchi,
+**Humberto Guillermo Ortiz-Zuazaga.**
+Comprehensive Principles of Real Time RT-PCR Quantification.
+Submitted November 10, 2016 to *PLOS One*.
+
+### Journal Articles
+
+1. Eric Gamess, Humberto Ortiz-Zuazaga, "Low Level Performance
+   Evaluation of InfiniBand with Benchmarking Tools", *International
+   Journal of Computer Network and Information Security(IJCNIS),*
+   Vol. 8, No. 10,
+   pp. 12-22, 2016. <http://dx.doi.org/10.5815/ijcnis.2016.10.02>
 
 1. Eric Gamess and **Humberto Ortiz-Zuazaga**, “Analytical Performance
    Evaluation of Ipv6 and Ipv4 Over 10 Gigabit Ethernet and Infiniband
-   using Ipoib” International Journal of Advanced Computer Science and
-   Applications(IJACSA),
+   using Ipoib”. *International Journal of Advanced Computer Science and
+   Applications(IJACSA),*
    7(8), 2016. <http://dx.doi.org/10.14569/IJACSA.2016.070829>
 
 1. Edgardo Castro-P&eacute;rez, Emilio Soto-Soto, Marizabeth
@@ -297,7 +329,7 @@ muscle. <EM>Innov. et Tech. en Biol. et Med.</EM>,
 12(4):404-414, 1991.
 
 
-## Refereed Proceedings
+### Refereed Proceedings
 
 1. Eric Gamess, **Humberto Ortiz-Zuazaga**. Evaluation of
 Point-to-Point Network Performance of HPC Clusters at the Level of
@@ -393,7 +425,7 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 	Application of Parallel and Distributed Computing, April
 	18-19, 1994.
 	
-## Conferences
+### Conferences
 
 1. Jimenez-Ruiz, Ivan; <b>Ortiz-Zuazaga, Humberto</b>;
    Gonzalez-Mendez, Ricardo; Ropelewski, Alexander; Agosto Rivera,
