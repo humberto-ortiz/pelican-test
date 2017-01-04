@@ -1,13 +1,15 @@
-Title: CCOM 4087 Compiler Design
+Title: CCOM 4087 - Compiler Design - Spring 2017
 date: 2016-12-23
 category: Teaching
 tags: hacking, learning
 slug: teaching/compilers2017
 
-### University of Puerto Rico
-### Rio Piedras Campus
-### College of Natural Sciences
-### Department of Computer Science
+<h3>
+University of Puerto Rico<br>
+Rio Piedras Campus<br>
+College of Natural Sciences<br>
+Department of Computer Science<br>
+</h3>
 
 ## Professor
 
@@ -24,10 +26,6 @@ slug: teaching/compilers2017
 ## Credits
 
 3 credits
-
-## Semester
-
-Spring 2017
 
 ## Description
 
