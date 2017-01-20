@@ -20,7 +20,6 @@ Department of Computer Science<br>
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
 | Office hours | Monday, Wednesday 8:00-9:30 AM      |
-|              | Tuesday, Thursday 3:30-5:00 PM      |
 |              | or by appointment                   |
 
 ## Credits
@@ -91,7 +90,7 @@ A-141. In UPR-RP attendance is compulsory.
 
 | Date   | Topic        | Reading | Assignment  |
 |--------|--------------|---------|-------------|
-| Jan 18 | Introduction | Ch 1    | expressions |
+| Jan 18 | Introduction | Ch 1    | [expressions]({filename}compilers2017/expressions.md) |
 | Feb 8  | Lexical Analysis | Ch 2| lexing      |
 | Feb 15 | Parsing | Ch 3, 4 | subset |
 | Feb 22 | Exam 1 | Ch 1-4 | |
@@ -103,6 +102,12 @@ A-141. In UPR-RP attendance is compulsory.
 | Apr 19 | Static Single Assignment | Ch 19 | |
 | Apr 26 | Exam 2 | Ch 5-9, 19 | |
 | May 3 | Advanced topics | Ch 14-15 | |
+
+## Instructional strategies
+
+The professor will discuss each topic, students will complete a
+practical excercise for each compiler technique discussed in
+class.
 
 ## Instructional resources
 
@@ -118,8 +123,8 @@ by Andrew Appel. ISBN 0-521-60764-7
 
 Students with no functional programming experience will probably need
 an additional text on Standard ML.  I can suggest the free textbook by
-Andrew Harper of CMU
-[Introduction to Standard ML](http://www.cs.cmu.edu/~rwh/smlbook/), or
+Robert Harper of CMU
+[Programming in Standard ML](http://www.cs.cmu.edu/~rwh/isml/book.pdf), or
 the books ML for the Working Programmer
 <http://www.cl.cam.ac.uk/~lp15/MLbook/> or Elements of ML Programming
 <http://infolab.stanford.edu/~ullman/emlp.html>.
@@ -178,3 +183,23 @@ certain parts of Article 6.2 of the UPR Student Bylaws “Reglamento
 General de Estudiantes de la Universidad de Puerto Rico”,
 (Certificación JS 13 2009-2010). It is in no way intended to be a
 legal substitute for the original document, written in Spanish.
+
+## References
+
+1. Andrew W. Appel. (1998) [Modern Compiler Implementation in
+ML](http://www.cs.princeton.edu/~appel/modern/ml/). Cambridge
+University Press. ISBN 0-521-60764-7.
+
+1. Robert Harper. (2013) [Programming in Standard
+ML](http://www.cs.cmu.edu/~rwh/isml/book.pdf). Carnegie
+Mellon University.
+
+1. L.C. Paulson (1996) ML for the Working Programmer, 2nd Edition.
+Cambridge University Press. ISBN 052156543X
+
+1. Ullman, J. D. (1994). Elements of ML programming. Prentice-Hall, Inc..
+ISBN 0-13-184854-2
+
+1. Fischer, C. N., Cytron, R. K., & LeBlanc, R. J. (2009). Crafting a
+compiler. Addison-Wesley Publishing Company. ISBN 0136067050
+9780136067054

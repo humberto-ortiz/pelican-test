@@ -4,8 +4,6 @@ category: Teaching
 tags: hacking, learning
 slug: teaching/independent-S2017
 
-## Institution
-
 <h3>
 University of Puerto Rico <br/>
 Rio Piedras Campus<br/>
@@ -23,8 +21,7 @@ Department of Computer Science
 | Telephone    | 787-764-0000 x88363                |
 | email        | <mailto:humberto.ortiz@upr.edu>    |
 | Web page     | <http://ccom.uprrp.edu/~humberto/> |
-| Office hours | Tuesday, Thursday 8:00-9:30 AM     |
-|              | Wednesday 3:00-4:30 PM             |
+| Office hours | Monday, Wednesday 8:00-9:30 AM     |
 |              | or by appointment                  |
 
 ## Description
@@ -41,6 +38,10 @@ maximum of three credits.
 
 None
 
+## Credits
+
+By agreement (between 1 and 3)
+
 ## Content
 
 By agreement
@@ -55,12 +56,15 @@ By agreement
 
 ## Instructional resources
 
+None
 
 ## Textbook
 
+None
 
 ## Software
 
+None
 
 ## Evaluation
 
@@ -105,3 +109,6 @@ General de Estudiantes de la Universidad de Puerto Rico”,
 (Certificación JS 13 2009-2010). It is in no way intended to be a
 legal substitute for the original document, written in Spanish.
 
+## References
+
+None
