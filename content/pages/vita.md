@@ -207,17 +207,17 @@ Submitted November 10, 2016 to *PLOS One*.
 
 ### Journal Articles
 
-1. Eric Gamess, Humberto Ortiz-Zuazaga, "Low Level Performance
+1. Eric Gamess, **Humberto Ortiz-Zuazaga**, "Low Level Performance
    Evaluation of InfiniBand with Benchmarking Tools", *International
    Journal of Computer Network and Information Security(IJCNIS),*
    Vol. 8, No. 10,
-   pp. 12-22, 2016. <http://dx.doi.org/10.5815/ijcnis.2016.10.02>
+   pp. 12-22, 2016. <https://dx.doi.org/10.5815/ijcnis.2016.10.02>
 
 1. Eric Gamess and **Humberto Ortiz-Zuazaga**, “Analytical Performance
    Evaluation of Ipv6 and Ipv4 Over 10 Gigabit Ethernet and Infiniband
    using Ipoib”. *International Journal of Advanced Computer Science and
    Applications(IJACSA),*
-   7(8), 2016. <http://dx.doi.org/10.14569/IJACSA.2016.070829>
+   7(8), 2016. <https://dx.doi.org/10.14569/IJACSA.2016.070829>
 
 1. Edgardo Castro-P&eacute;rez, Emilio Soto-Soto, Marizabeth
    P&eacute;rez-Carambot, Dawling Dionisio-Santos, Kristian
@@ -225,20 +225,20 @@ Submitted November 10, 2016 to *PLOS One*.
    de Ortiz. Identification and Characterization of the V(D)J
    Recombination Activating Gene 1 in Long-Term Memory of Context Fear
    Conditioning. _Neural Plasticity,_ vol. 2016, Article ID 1752176,
-   19 pages, **2016**.  <http://dx.doi.org/10.1155/2016/1752176>
+   19 pages, **2016**.  <https://dx.doi.org/10.1155/2016/1752176>
 
 1. <b>Humberto Ortiz-Zuazaga</b>, Roberto Arce-Corretjer, Juan
    M. Solá-Sloan, José G. Conde. SalHUD – A Graphical Interface to
    Public Health Data in Puerto Rico.
    _International Journal of Environmental Research and Public
    Health._ Vol *13*, No 1, 18, **2015**.
-   [doi:10.3390/ijerph13010018](http://dx.doi.org/10.3390/ijerph13010018)
+   [doi:10.3390/ijerph13010018](https://dx.doi.org/10.3390/ijerph13010018)
 
 1. Crusoe MR, Alameldin HF, Awad S et al. The khmer software package:
    enabling efficient nucleotide sequence analysis
    [version 1; referees: 2 approved, 1 approved with reservations]
    _F1000Research_ 2015, 4:900 (doi:
-   [10.12688/f1000research.6924.1](http://dx.doi.org/10.12688/f1000research.6924.1))
+   [10.12688/f1000research.6924.1](https://dx.doi.org/10.12688/f1000research.6924.1))
    
 1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n,
 Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>,
@@ -253,13 +253,13 @@ PMC4300691</a>
 1. Nadeau N, Ruiz M, Salazar P, Counterman B, Medina JA, <b>Ortiz-Zuazaga H</b>, Morrison A, McMillan WO, Jiggins CD, Papa R.
 Population genomics of parallel hybrid zones in the mimetic butterflies, <em>H. melpomene</em> and <em>H. erato</em>.
 <em>Genome Res.</em> 2014 May 13. pii: gr.169292.113.
-<a href="http://dx.doi.org/10.1101/gr.169292.113">doi:10.1101/gr.169292.113</a>
+<a href="https://dx.doi.org/10.1101/gr.169292.113">doi:10.1101/gr.169292.113</a>
 
 1. Leah J. Campbell, Edna C. Su&aacute;rez-Castillo, <b>Humberto
 Ortiz-Zuazaga</b>, Dunja Knapp, Elly M. Tanaka, Craig M. Crews. Gene
 Expression Profile of the Regeneration Epithelium during Axolotl Limb
 Regeneration. <em>Developmental Dynamics</em>, <b>240</b>(7):1826-1840. July 2011.
-[doi:10.1002/dvdy.22669](http://dx.doi.org/10.1002/dvdy.22669)
+[doi:10.1002/dvdy.22669](https://dx.doi.org/10.1002/dvdy.22669)
 
 1. Pablo A Ortiz-Pineda, Francisco J Ram&iacute;rez-G&oacute;mez, Judit
 P&eacute;rez-Ortiz, Sebasti&aacute;n Gonz&aacute;lez-D&iacute;az, Francisco Santiago-De Jes&uacute;s,
@@ -268,21 +268,21 @@ Su&aacute;rez-Castillo, Karen Tossas-Robles, Ana T M&eacute;ndez-Merced, Jos&eac
 Roig-L&oacute;pez, Cristina Del Valle-Avila, <b>Humberto Ortiz-Zuazaga</b>
 and Jos&eacute; E Garc&iacute;a-Arrar&aacute;s. Gene expression profiling of intestinal
 regeneration in the sea cucumber. <em>BMC Genomics</em> <b>10</b>:262,
-8 June 2009.  [doi:10.1186/1471-2164-10-262](http://dx.doi.org/10.1186/1471-2164-10-262)
+8 June 2009.  [doi:10.1186/1471-2164-10-262](https://dx.doi.org/10.1186/1471-2164-10-262)
 
 1. Lorena Saavedra-Rodr&iacute;guez, <b>Humberto Ortiz-Zuazaga,</b>
 Lissette Andr&eacute;s, Karen Rodr&iacute;guez, Fernando
 Ram&iacute;rez, Adrinel V&aacute;zquez, and Sandra Pe&ntilde;a de
 Ortiz.
 Identification of flap-structure specific endonuclease 1 as a factor
-involved in long-term memory formation of aversive learning. <em>Journal of Neuroscience</em>, May 2009. 29(18):5726-5737 [doi:10.1523/JNEUROSCI.4033-08.2009](http://dx.doi.org/10.1523/JNEUROSCI.4033-08.2009)
+involved in long-term memory formation of aversive learning. <em>Journal of Neuroscience</em>, May 2009. 29(18):5726-5737 [doi:10.1523/JNEUROSCI.4033-08.2009](https://dx.doi.org/10.1523/JNEUROSCI.4033-08.2009)
 
 1. Nancy Arroyo Gonzalez, Adrinel V&aacute;zquez, <b>Humberto
 G. Ortiz Zuazaga,</b> Arup Sen, Hugo Luna Olvera, Sandra Pe&ntilde;a
 de Ortiz and N. S. Govind. Genome-wide expression profiling of the
 osmoadaptation response of <i>Debaryomyces
 hansenii</i>. <em>Yeast</em> 2009. 26:111-124.
-[doi:10.1002/yea.1656](http://dx.doi.org/10.1002/yea.1656)
+[doi:10.1002/yea.1656](https://dx.doi.org/10.1002/yea.1656)
 
 1. Filipa Godoy-Vitorino, Ruth E. Ley, Zhan Gao, Zhiheng Pei,
 <b>Humberto Ortiz-Zuazaga,</b> Luis R. Pericchi, Maria
@@ -291,17 +291,17 @@ I. Gordon, Maria G. Dominguez-Bello. Bacterial Community in the Crop
 of the Hoatzin, a Neotropical Folivorous Flying Bird. <em>Applied and
 Environmental Microbiology</em>, October 2008, p. 5905-5912, Vol. 74,
 No. 19.
-[doi:10.1128/AEM.00574-08](http://dx.doi.org/10.1128/AEM.00574-08)
+[doi:10.1128/AEM.00574-08](https://dx.doi.org/10.1128/AEM.00574-08)
 
 1. Rojas-Cartagena C, Ortiz-Pineda PA, Ramirez-Gomez F, Suarez-Castillo EC, Matos-Cruz V, Rodriguez C, <b>Ortiz-Zuazaga H</b>, Garcia-Arraras JE.
 Distinct profiles of expressed sequence tags (ESTs) during intestinal regeneration in the sea cucumber <i>Holothuria glaberrima</i>.
 <em>Physiol Genomics.</em> 2007 Jul 3.
-[doi:10.1152/physiolgenomics.00228.2006](http://dx.doi.org/10.1152/physiolgenomics.00228.2006)
+[doi:10.1152/physiolgenomics.00228.2006](https://dx.doi.org/10.1152/physiolgenomics.00228.2006)
 
 1. Y. Robles, P. E. Vivas, <b>H. G. Ortiz-Zuazaga</b>, Y. Felix,
 S. Pe&ntilde;a de Ortiz.  Hippocampal gene expression profiling in spatial
 learning.  <em>Neurobiology of Learning and Memory</em>. 2003 Jul;80(1):80-95.
-[doi:10.1016/S1074-7427(03)00025-X](http://dx.doi.org/10.1016/S1074-7427(03)00025-X)
+[doi:10.1016/S1074-7427(03)00025-X](https://dx.doi.org/10.1016/S1074-7427(03)00025-X)
 
 1. J. Ge, N. Sperelakis, <b>H. Ortiz-Zuazaga</b>.
 Simulation of action potential propagation with electronic circuits.
@@ -312,14 +312,14 @@ Ortiz-Zuazaga</B>, J. B. Picone, and E. Stepp.
 Length constant as a function of intercellular coupling of a cardiac
 muscle strand analog with applied longitudinal current. <EM>Mathl.
 Comput. Modelling</EM>, 17(1):131-139, 1993.
-[doi:10.1016/0895-7177(93)90097-I](http://dx.doi.org/10.1016/0895-7177(93)90097-I)
+[doi:10.1016/0895-7177(93)90097-I](https://dx.doi.org/10.1016/0895-7177(93)90097-I)
 
 1. N.
 Sperelakis, <B>H.
 Ortiz-Zuazaga</B>, J. E. Mann, Jr. Voltage
 interaction between sarcolemma and junctional SR membrane. <EM>Mathl.
 Comput. Modelling</EM>, 16(11):101-115, 1992.
-[doi:10.1016/0895-7177(92)90109-X](http://dx.doi.org/10.1016/0895-7177(92)90109-X)
+[doi:10.1016/0895-7177(92)90109-X](https://dx.doi.org/10.1016/0895-7177(92)90109-X)
 
 1. N.
 Sperelakis, <B>H.
@@ -337,6 +337,11 @@ UDP, TCP, and MPI. Proceedings of Simposio Científico y Tecnológico en
 Computación (SCTC 2016) Escuela de Computación de la Universidad
 Central de Venezuela, del 9 al 11 de mayo de 2016. Pages 116-122.
 [PDF](http://www.sctc.org.ve/memorias/SCTC2016/SCTC2016-p116-122.pdf)
+
+1. J Ortiz-Ubarri, **H Ortiz-Zuazaga**, A Maldonado, E Santos, J Grullón.
+Toa: A Web Based Network Flow Data Monitoring System at Scale.
+2015 IEEE International Congress on Big Data, 438-443.
+<https://doi.org/10.1109/BigDataCongress.2015.71>
 
 1. Edusmildo Orozco, Rafael Arce-Nazario, Jos&eacute;
 Ortiz-Ubarri, and <b>Humberto Ortiz-Zuazaga</b>. A Curricular
@@ -371,7 +376,7 @@ Las Vegas, Nevada, June 25-28, 2007.
 Josu&eacute; Hern&aacute;ndez-Pasos, Jos&eacute; E. Garc&iacute;a-Arrar&aacute;s.
     Microarray analysis of the sea cucumber intestinal regeneration process.
     Developmental Biology, Volume 306, Issue 1, 1 June 2007, Pages 379-380.
-   [doi:10.1016/j.ydbio.2007.03.351](http://dx.doi.org/10.1016/j.ydbio.2007.03.351)
+   [doi:10.1016/j.ydbio.2007.03.351](https://dx.doi.org/10.1016/j.ydbio.2007.03.351)
 
 1. <strong>Ortiz-Zuazaga, H.</strong>, Avi&ntilde;o-Diaz, M. A.,
 Laubenbacher, R., Moreno O. Finite fields are better
@@ -451,7 +456,7 @@ Poster presented at the 2014 International Symposium on
 Minority Health and Health Disparities. December 1 – 3, 2014 National
 Harbor, Maryland, USA.
 figshare.
-<a href="http://dx.doi.org/10.6084/m9.figshare.1248894">doi:10.6084/m9.figshare.1248894</a>
+<a href="https://dx.doi.org/10.6084/m9.figshare.1248894">doi:10.6084/m9.figshare.1248894</a>
 Retrieved 23:55, Nov 23, 2014 (GMT)
 
 1. J Morris-Pastrana, BG Nieves, CB Torres-Nieves, A Lora-Gálvez, RA
@@ -680,16 +685,16 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
 ## Invited Talks
 
 1. Ortiz-Zuazaga, Humberto (2015): Computational Problems in Genetics and Genomics. figshare.
-<http://dx.doi.org/10.6084/m9.figshare.1570959>
+<https://dx.doi.org/10.6084/m9.figshare.1570959>
 Retrieved 15:18, Oct 09, 2015 (GMT)
 
 1. Ortiz-Zuazaga, Humberto (2015): UPR workshop: Processing TCGA mRNA expression data. figshare.
-<http://dx.doi.org/10.6084/m9.figshare.1385358>
+<https://dx.doi.org/10.6084/m9.figshare.1385358>
 Retrieved 12:49, Apr 21, 2015 (GMT)
 
 1. Ortiz-Zuazaga, Humberto (2014): Microarray Analysis With
 Bioconductor Workshop. figshare.
-<http://dx.doi.org/10.6084/m9.figshare.1251183>
+<https://dx.doi.org/10.6084/m9.figshare.1251183>
 Retrieved 13:33, Nov 25, 2014 (GMT)
 
 1.  <a
