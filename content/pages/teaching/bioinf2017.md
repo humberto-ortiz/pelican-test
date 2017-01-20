@@ -20,7 +20,6 @@ Department of Computer Science<br>
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
 | Office hours | Monday, Wednesday 8:00-9:30 AM      |
-|              | Tuesday, Thursday 3:30-5:00 PM      |
 |              | or by appointment                   |
 
 ## Credits
@@ -38,7 +37,7 @@ microarray and RNA-Seq analysis, and gene set or pathway analysis.
 We will emphasize the fundamental theory behind the analysis, and also
 present practical problems and their solutions. The course will use
 open-source bioinformatics tools such as bioconductor, and show how to
-construct such tools using python.
+construct such tools using python, R, or other languages.
 
 ## Prerequisites
 
@@ -51,7 +50,7 @@ familiarity with programming.
 ## Course schedule
 
 The course will meet Monday and Wednesdays from 1:00-2:20PM in room
-CNL A-141, Natural Sciences, Rio Piedras Campus, University of Puerto
+CNL A-143, Natural Sciences, Rio Piedras Campus, University of Puerto
 Rico.
 
 ## Objectives
@@ -88,6 +87,12 @@ The proposed schedule of lectures, subject to change:
 The professor will discuss each topic, students will complete a
 practical excercise for each bioinformatic technique discussed in
 class.
+
+## Instructional resources
+
+The course will be hosted on the
+[UPRRP Moodle](https://online.uprrp.edu/). Register and stay tuned for
+our polls and forum postings.
 
 ## Textbook:
 
@@ -143,3 +148,27 @@ certain parts of Article 6.2 of the UPR Student Bylaws “Reglamento
 General de Estudiantes de la Universidad de Puerto Rico”,
 (Certificación JS 13 2009-2010). It is in no way intended to be a
 legal substitute for the original document, written in Spanish.
+
+## References
+
+1. Neil C. Jones and Pavel A. Pevzner. An Introduction to
+Bioinformatics Algorithms. The MIT Press, Cambridge, Massachusetts,
+2004. ISBN-10: 0-262-10106-8 ISBN-13: 978-0-262-10106-6.
+
+1. Introduction to Computational Biology: Maps, sequences and
+genomes. Michael S. Waterman. Chapman & Hall/CRC. 1995.
+
+1. Bioinformatics: Seqence and Genome Analysis, Second Edition. David
+W. Mount. Cold Spring Harbor Laboratory Press, 2004.
+
+1. Algorithms on Strings, Trees and Sequences: Computer Science and
+Computational Biology. Dan Gusfield, Cambridge University Press, 1997.
+
+1. Bioinformatics for Biologists. Pavel A. Pevzner and Ron
+Shamir. Cambridge University Press, 2011.
+
+1. H. Ortiz-Zuazaga, Bioinformatics: Principles and Applications,
+<http://www.hpcf.upr.edu/~humberto/presentations/bioinfo-pucpr.html>
+
+1. H. Ortiz-Zuazaga, Notas de la clase, presentaciones, 2009,
+<http://moodle.hpcf.upr.edu/course/view.php?id=10>
