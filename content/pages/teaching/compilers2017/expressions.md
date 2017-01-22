@@ -30,7 +30,8 @@ See the [example code for chapter
 data structures to represent programs in this language.
 
 Your first assignment is to implement a function to count the maximum
-number of arguments in a statement.
+number of arguments to print in a statement (including any
+subexpressions).
 
 Be careful, you could have a program like:
 
