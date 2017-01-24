@@ -67,7 +67,7 @@ The proposed schedule of lectures, subject to change:
 | Date     | Topic           | Reading |
 |----------|-----------------|---------|
 | Jan 18 | Introduction: History of Bioinformatics | Chapter 1, 2 | 
-| Jan 23 |	  Ethical Issues in Bioinformatics | |
+| Jan 23 |	  Ethical Issues in Bioinformatics | [web page](http://www.hpcf.upr.edu/~humberto/presentations/bioethics.html) |
 | Jan 25, 30 |	  Sequences: Nucleic Acids and Proteins | Chapter 3 |
 | Feb 1, 6 |	  Computer platforms used in sequence analysis | |
 | Feb 8, 13 |	  Brute force - Restriction mapping | Chapter 4 |
