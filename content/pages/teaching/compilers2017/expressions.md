@@ -10,14 +10,14 @@ Grammar 1.3 defines a language for *straight line programs*, with
 expressions and identifiers but no control structures.
 
 ```
-Stm -> Stm ; Stm
-Stm -> id := Exp
-Stm -> print ( ExpList )
-Exp -> id
-Exp -> num
-Exp -> Exp Binop Exp
-Exp -> ( Stm , Exp )
-ExpList -> Exp , ExpList
+Stm -> Stm ; Stm            (* CompoundStm *)
+Stm -> id := Exp            (* AssignStm   *)
+Stm -> print ( ExpList )    (* PrintStm    *)
+Exp -> id                   (* IdExp       *)
+Exp -> num                  (* NumExp      *)
+Exp -> Exp Binop Exp        (* OpExp       *)
+Exp -> ( Stm , Exp )        (* EseqExp     *)
+ExpList -> Exp , ExpList    (* exp list    *)
 ExpList -> Exp
 Binop -> +
 Binop -> -
@@ -29,14 +29,14 @@ See the [example code for chapter
 1](http://www.cs.princeton.edu/~appel/modern/ml/chap1/slp.sml) for
 data structures to represent programs in this language.
 
-Your first assignment is to implement a function to count the maximum
+1. Your first assignment is to implement a function to count the maximum
 number of arguments to print in a statement (including any
 subexpressions).
 
 Be careful, you could have a program like:
 
 ```
-3 ; a := (print (1, 2, 3, 4), 2) ; print ( a + 1 )
+a := (print (1, 2, 3, 4), 2) ; print ( a + 1 )
 ```
 
 The first print statement has 4 arguments, so your program should
@@ -44,6 +44,15 @@ return 4 for this example.
 
 Remember to trust the recursion.
 
-You will later have an assignment to implement an interpreter for
-straight line programs. Look at the programming assignment in chapter
-1 to start.
+Here are a few test cases, I think they all should return 3. What does
+your program return?
+
+```
+val outer3 = PrintStm([EseqExp(PrintStm[NumExp 1, NumExp 2], NumExp 1), 
+NumExp 2, NumExp 3]);
+
+val left3 = PrintStm([EseqExp(PrintStm[NumExp 1, NumExp 2, NumExp 3], NumExp 1), 
+NumExp 2]);
+
+val right3 = PrintStm([NumExp 1, EseqExp(PrintStm[NumExp 1, NumExp 2, NumExp 3], NumExp 2)]);
+```
