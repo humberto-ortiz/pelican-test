@@ -92,7 +92,7 @@ A-141. In UPR-RP attendance is compulsory.
 |--------|--------------|---------|-------------|
 | Jan 18 | Introduction | Ch 1    | [expressions]({filename}compilers2017/expressions.md), [interpreter]({filename}compilers2017/interp.md) |
 | Feb 8  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2017/lexer.md) |
-| Feb 15 | Parsing | Ch 3, 4 | subset |
+| Feb 15 | Parsing | Ch 3, 4 | [subset]({filename}compilers2017/subset.md) |
 | Feb 22 | Exam 1 | Ch 1-4 | |
 | Mar 8 | Semantic Analysis | Ch 5 | semantic |
 | Mar 22 | Instruction Generation | Ch 9 | instruction |

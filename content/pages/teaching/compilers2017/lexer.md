@@ -53,6 +53,8 @@ typefields:
 typefield:
 	id : id
 ```
+
+And comments delimited by `(*` and `*)`.
 	
 **NOTE:** the only valid typeid in our language are aliases of the
 built in "int" and "string" types. We do not have arrays or structures
@@ -76,7 +78,7 @@ You need to make some changes to the `sources.cm` file, you can use one like:
 ```
 Group is
 
-absyndriver.sml
+driver.sml
 errormsg.sml
 tokens.sig
 tokens.sml

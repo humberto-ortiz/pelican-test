@@ -182,6 +182,10 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 ## Publications
 ### Submitted
 
+1.  Van Belleghem, Steven; Papa, Riccardo; **Ortiz-Zuazaga, Humberto**; Hendrickx, Frederik; Jiggins, Chris; McMillan, W.; Counterman, Brian.
+Patternize: An R package for quantifying color pattern variation.
+Submitted March 29, 2017 to Methods in Ecology and Evolution.
+
 1. Jessica Morales-Ortíz,
 Fiorella Reyes,
 Octavio Santiago,
@@ -194,8 +198,14 @@ Jesse Rowley,
 Bismarck Madera,
 Matthew Rondina,
 Valance Washington.
-Platelet Regulation of Immunohemostasis Dictate Therapeutic Potential for Trem-Like Transcript-1.
+Platelet Regulation of Immunohemostasis Dictates Therapeutic Potential for Trem-Like Transcript-1.
 Submitted November 26, 2016 to the *Journal of Clinical Investigation*.
+Submitted March 29, 2017 to *Blood: the Journal of the American Society of Hematology*
+
+1. Ingrid Forestier-Román, María Sánchez-Vázquez, Krizia Rohena-Rivera, **Humberto Ortiz-Zuazaga**,
+Carlos Torres-Ramos, and Magaly Martinez-Ferrer.
+Andrographolide Induces a DNA Damage Response in Prostate Cancer via DNA Double Strand Breaks.
+Submitted March 28, 2017 to *Oncotarget*.
 
 1. Anatoliy P Chornyy,
 Nataliya E Chorna,
@@ -239,7 +249,7 @@ Submitted November 10, 2016 to *PLOS One*.
    [version 1; referees: 2 approved, 1 approved with reservations]
    _F1000Research_ 2015, 4:900 (doi:
    [10.12688/f1000research.6924.1](https://dx.doi.org/10.12688/f1000research.6924.1))
-   
+
 1. M&oacute;nica Rivera-D&iacute;az, Miguel A Miranda-Rom&aacute;n,
 Daniel Soto, Mario Quintero-Aguilo, <b>Humberto Ortiz-Zuazaga</b>,
 Mar&iacute;a J Marcos-Martinez, Pablo E
@@ -396,7 +406,7 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 	Framework and Radiation Hybrid Maps of Chromosomes 3
 	and 8. Abstract presented at Genome Mapping and Sequencing. Cold
 	Spring Harbor, NY, May 1997.
-	
+
 1. <B>H.  Ortiz-Zuazaga</B>, and R. Plaetke. Screening genetic markers
 	with the maximum weighted clique method. Abstract presented at
 	Genome Mapping and Sequencing. Cold Spring Harbor, May
@@ -429,7 +439,7 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 	Supercomputer Center / NASA, Proceedings of Symposium on
 	Application of Parallel and Distributed Computing, April
 	18-19, 1994.
-	
+
 ### Conferences
 
 1. Jimenez-Ruiz, Ivan; <b>Ortiz-Zuazaga, Humberto</b>;
@@ -654,7 +664,7 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
 	Microarrays. Abstract presented at the 40th meeting of the
 	American Society for Cell Biology. San Francisco,
 	California. December 2000.
-	
+
 1. R. Chiesa, H. Ge, J. Wehner, <B>H.G.  Ortiz-Zuazaga</B>, and
 	S. Pe&ntilde;a de Ortiz.  Analysis of Gene Expression in Emotional
 	Learning. Abstract presented at the Society for Neuroscience
@@ -947,7 +957,7 @@ NSF DUE-1438838
 PI: Jose Ortiz-Ubarri  
 Co-PI: Patricia Ordonez, **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario  
 Project Goals: Boost the education and training in cybersecurity in the undergraduate CS curriculum through the development of easy-to-adopt and transferable educational activities in cybersecurity for the core courses of the CS curriculum and the design and offering of new courses in cybersecurity to develop a security aware workforce.  
-$299,982, Start date September 1, 2014. 
+$299,982, Start date September 1, 2014.
 
 ### Completed Research Support
 

@@ -34,9 +34,9 @@ declist:
 	dec declist
 		
 dec: 
-	type typeid = typeid
-	var id : typeid := exp
-	function id ( typefields ) : typeid = exp
+	type id = id
+	var id : id := exp
+	function id ( typefields ) : id = exp
 
 expseq:
     exp
@@ -51,19 +51,18 @@ typefields:
 	typefield, typefields
 
 typefield:
-	id : typeid
-
-typeid:
-	id
+	id : id
 ```
 	
-**NOTE:** the only valid typeid in our language are aliases of the built
-in "int" and "string" types. I have added a separate trivial
-definition of typeid.
+**NOTE:** the only valid type ids in our language are aliases of the
+built in "int" and "string" types. We do not have arrays or structures
+or other compound types.
 
-Your assignment is to use the sample code in chapter 2 to implement
-(in tiger.grm) a parser for this subset of tiger. The full description
-of tiger is in the Appendix A of the book, and you can get a
+Your assignment is to use the sample code in
+[chapter 3](https://www.cs.princeton.edu/~appel/modern/ml/chap3/) to
+implement (in tiger.grm) a parser for this subset of tiger. The full
+description of tiger is in the Appendix A of the book, and you can get
+a
 [short description of Tiger](http://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf). Remember,
 you don't have to implement the whole language, just what I describe
 above.
