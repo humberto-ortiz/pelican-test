@@ -95,7 +95,7 @@ A-141. In UPR-RP attendance is compulsory.
 | Feb 15 | Parsing | Ch 3, 4 | [subset]({filename}compilers2017/subset.md), [ast]({filename}compilers2017/ast.md) |
 | Feb 22 | Exam 1 | Ch 1-4 | |
 | Mar 8 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2017/semantic.md) |
-| Mar 22 | Instruction Generation | Ch 9 | instruction |
+| Mar 22 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2017/instr.md) |
 | Mar 29 | Stack frames | Ch 6 | 
 | Apr 5 | Intermediate Code | Ch 7 | intermediate |
 | Apr 12 | Optimization | 
