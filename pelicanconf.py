@@ -48,7 +48,7 @@ GITHUB_USER = "humberto-ortiz"
 BOOTSTRAP_NAVBAR_INVERSE = True
 
 # Plugins, especially for IPython notebooks and mathjax
-PLUGIN_PATH = "../pelican-plugins"
+PLUGIN_PATHS = ["../pelican-plugins"]
 
 ## beautiful soup, required by pelican-bootstrapify, kills (some)
 ## {filename} links
