@@ -185,6 +185,7 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 1.  Van Belleghem, Steven; Papa, Riccardo; **Ortiz-Zuazaga, Humberto**; Hendrickx, Frederik; Jiggins, Chris; McMillan, W.; Counterman, Brian.
 Patternize: An R package for quantifying color pattern variation.
 Submitted March 29, 2017 to Methods in Ecology and Evolution.
+Accepted for publication June 29, 2017.
 
 1. Jessica Morales-Ortíz,
 Fiorella Reyes,
@@ -441,6 +442,11 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 	18-19, 1994.
 
 ### Conferences
+
+1. Ingrid Samari Forestier-Roman, María Sánchez, Krizia Rohena,
+**Humberto Ortiz-Zuazaga**, and Magaly Martínez-Ferrer. Microarray and
+Pathway Analysis of Prostate Cancer Tumors Treated with
+Andrographolide. FASEB J. April 2017 31:766.12.
 
 1. Jimenez-Ruiz, Ivan; <b>Ortiz-Zuazaga, Humberto</b>;
    Gonzalez-Mendez, Ricardo; Ropelewski, Alexander; Agosto Rivera,
