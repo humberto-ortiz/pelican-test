@@ -13,6 +13,8 @@ Department of Computer Science<br>
 
 ## Professor
 
+| Field            | Value                                           |
+|----------|---------------------------|
 | Name         | Humberto Ortiz-Zuazaga              |
 | Office       | NCL A-159                           |
 | Laboratory   | NCL A-158                           |
