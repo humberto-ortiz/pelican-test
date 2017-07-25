@@ -184,8 +184,9 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 1.  Van Belleghem, Steven; Papa, Riccardo; **Ortiz-Zuazaga, Humberto**; Hendrickx, Frederik; Jiggins, Chris; McMillan, W.; Counterman, Brian.
 Patternize: An R package for quantifying color pattern variation.
-Submitted March 29, 2017 to Methods in Ecology and Evolution.
+Submitted March 29, 2017 to *Methods in Ecology and Evolution*.
 Accepted for publication June 29, 2017.
+[doi:10.1111/2041-210X.12853](http://dx.doi.org/10.1111/2041-210X.12853)
 
 1. Jessica Morales-Ortíz,
 Fiorella Reyes,
