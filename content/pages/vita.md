@@ -929,6 +929,17 @@ None
 
 ### Current research support
 
+1. RII Track-2 FEC: Genomic Logic Underlying Adaptive Morphological Divergence.
+NSF OIA 1736026
+PI: Riccardo Papa
+Start Date: August 1, 2017
+End Date: July 31, 2021
+Funds: $2,000,000
+Role on project: Senior personnel, establish a repository of genotypes
+and phenotypes for data analysis, collaborate on the analysis of
+sequence and morphometric data.
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1736026>
+
 1. Increasing Diversity in Interdisiplinary Big Data to Knowledge  
 NIH NIMHD R25 MD010399  
 PI: José E. García-Arrarás  
