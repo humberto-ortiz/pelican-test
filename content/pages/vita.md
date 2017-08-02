@@ -994,7 +994,11 @@ Nanotechnology from Basic Science to Emerging Applications: Institute for Functi
 NSF EPSCoR 1002410  
 PI: Brad Weiner  
 CoPI: Arturo Hernandez  
-Role on project: Director of the computational nanoscience resource center (CNaRC). Will provide cyberinfrastructure for computational nanoscience research to IFN. The grant is for $20 M for 5 years support.
+Role on project: Director of the computational nanoscience resource
+center (CNaRC). Will provide cyberinfrastructure for computational
+nanoscience research to IFN. The grant is for $20 M for 5 years
+support.
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1002410>
 
 1. Advancing Competitive Biomedical Research in Puerto Rico  
 NIH	NIGMS P20GM103475  
@@ -1008,15 +1012,22 @@ Role on project: Director of the Bioinformatics Resource Center (BiRC), providin
 NSF Award # EPS-0701525  
 PI: Brad Weiner  
 Co-PI: Manuel Gomez  
-Role on project: Director of the Computational Nanoscience Resource Center (CNaRC), providing hardware, software, consulting and training support to nanoscience researchers in the Institute for Functional Nanomaterials. This grant was awarded in 2007, for $9M over 3 years.
+Role on project: Director of the Computational Nanoscience Resource
+Center (CNaRC), providing hardware, software, consulting and training
+support to nanoscience researchers in the Institute for Functional
+Nanomaterials. This grant was awarded in 2007, for $9M over 3 years.  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=0701525>
 
 1. Networking research resources across America,   
-NIH NCRR U24RR02982  
+NIH NCRR U24RR029822  
 PI: Emma Fernandez Repollet  
 Start date: September 25, 2009  
 End date: August 31, 2011  
 Funds: $7,499,857  
-Role on Project: informatics lead, advised PI on informatics issues related to the identification and sharing of unique research resources in UPR system.
+Role on Project: informatics lead, advised PI on informatics issues
+related to the identification and sharing of unique research resources
+in UPR system.  
+<https://projectreporter.nih.gov/project_info_description.cfm?aid=7940935&icde=35427532>
 
 1. MRI–R2: Acquisition of genomic and bioinformatic technology to promote research at the University of Puerto Rico  
 NSF Award No. DBI-0959864  
@@ -1025,7 +1036,11 @@ Role: Co-PI (Co-Principal Investigator)
 Start date: July 1, 2010  
 End date: June 30, 2013  
 Funds: $637,739  
-Role on project: Manage data storage and analysis for next-generation sequencing efforts at the Sequencing and Genotyping Facility. Collaborate with researchers on the analysis of high-throughput sequence data.
+Role on project: Manage data storage and analysis for next-generation
+sequencing efforts at the Sequencing and Genotyping
+Facility. Collaborate with researchers on the analysis of
+high-throughput sequence data.  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=0959864>
 
 1. Puerto Rico Clinical and Translational Research Consortium  
 NIH NCRR U54RR026139  
@@ -1033,11 +1048,21 @@ PI: Frontera, Walter R.
 Start date: 17-SEP-2010  
 End date: 30-JUN-2013  
 Funds $16,398,579  
-Role on project: Biomedical informatics key function leader. Direct staff responsible for biomedical informatics infrastructure, coordinate training in biomedical informatics, establish research collaborations in biomedical informatics in support of clinical and translational research within the consortium.
+Role on project: Biomedical informatics key function leader. Direct
+staff responsible for biomedical informatics infrastructure,
+coordinate training in biomedical informatics, establish research
+collaborations in biomedical informatics in support of clinical and
+translational research within the consortium.  
+<https://projectreporter.nih.gov/project_info_description.cfm?aid=8144269&icde=35427598>
 
 1. EPSCoR Research Infrastructure Improvement Track 2
 Collaborative Research: Cyberinfrastructure-enabled Computational Nanoscience for Energy Technologies  
 NSF Proposal #1010094  
 PI: Manuel Gomez  
 Co-PI: Julian Velev, **Humberto Ortiz Zuazaga**, Peter M. Musial  
-Role on project: Director of the CNaRC, and Co-PI of the overall grant, a collaboration with the Nebraska jurisdiction. The grant will provide additional computational resources and support for researchers in computational nanoscience. The grant is for $2.7 M for 3 years support.
+Role on project: Director of the CNaRC, and Co-PI of the overall
+grant, a collaboration with the Nebraska jurisdiction. The grant will
+provide additional computational resources and support for researchers
+in computational nanoscience. The grant is for $2.7 M for 3 years
+support.  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1010094>
