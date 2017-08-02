@@ -929,15 +929,16 @@ None
 
 ### Current research support
 
-1. RII Track-2 FEC: Genomic Logic Underlying Adaptive Morphological Divergence.
-NSF OIA 1736026
-PI: Riccardo Papa
-Start Date: August 1, 2017
-End Date: July 31, 2021
-Funds: $2,000,000
+1. RII Track-2 FEC: Genomic Logic Underlying Adaptive Morphological
+Divergence.  
+NSF OIA 1736026  
+PI: Riccardo Papa  
+Start Date: August 1, 2017  
+End Date: July 31, 2021  
+Funds: $2,000,000  
 Role on project: Senior personnel, establish a repository of genotypes
 and phenotypes for data analysis, collaborate on the analysis of
-sequence and morphometric data.
+sequence and morphometric data.  
 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1736026>
 
 1. Increasing Diversity in Interdisiplinary Big Data to Knowledge  
@@ -947,35 +948,44 @@ Other PI: Patricia Ordonez, María-Egleé Pérez Hernández
 Start Date: September 25, 2016  
 End Date: June 30, 2020  
 Funds: $1,067,600  
-Role on project: Support undergraduate training in biomedical big data analysis, research mentoring of undergraduates, coordinate seminars and workshops in biomedical big data.
+Role on project: Support undergraduate training in biomedical big data
+analysis, research mentoring of undergraduates, coordinate seminars
+and workshops in biomedical big data.  
+<https://projectreporter.nih.gov/project_info_description.cfm?aid=9303202&icde=35426999>
 
 1. ADVANCING COMPETITIVE BIOMEDICAL RESEARCH IN PUERTO RICO  
-NIH NIGMS 2P20GM103475-14  
+NIH NIGMS P20GM103475  
 PI: Jose Rodriguez Medina  
 Start Date: September 1, 2015  
 End Date: May 31, 2020  
 Funds: $20,369,321  
-Role on Project: Director, Bioinformatics Core. Will provide, in conjunction with the bioinfomatics core personnel, bioinformatics support for INBRE researchers.
+Role on Project: Director, Bioinformatics Core. Will provide, in
+conjunction with the bioinfomatics core personnel, bioinformatics
+support for INBRE researchers.  
+<https://projectreporter.nih.gov/project_info_description.cfm?aid=9282454&icde=35427079>
 
 1. CC-NIE Networking Infrastructure: Perimeter Network to Expedite the Transmission of Science Project (PR NETS)  
 NSF ACI 1340959  
 PI: Jose Ortiz-Ubarri  
 Co-PI: **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario  
 Project goals: Facilitate scientific research on the Rio Piedras campus of the University of Puerto Rico by constructing a ScienceDMZ. This specialized research network will allow researchers in diverse fields including psychology, biology, chemistry, physics and computer and environmental sciences to transmit large data sets to collaborators.  
-Funds: $499,667
+Funds: $499,667  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1340959>
 
 1. UPR/MDACC Partnership for Excellence in Cancer Research  
-NIH National Cancer Institute 2U54CA096297-11  
+NIH National Cancer Institute U54CA096297  
 PI: Marcia Cruz-Correa, Gabriel Lopez-Berestein, Reynold Lopez-Enriquez, José F. Cordero,  Brad R. Weiner, Elizabeth L. Travis, David W. Wetter, and Michelle Barton  
 Role on Project: Bioinformatics director, Biostatistics, Epidemiology and Bioinformatics Core (BEBiC).   
 Funds: $5,364,836  
+<https://projectreporter.nih.gov/project_info_description.cfm?aid=9131639&icde=35427169>
 
 1. Academics and Training for the Advancement of Cybersecurity Knowledge in Puerto Rico (ATACK PR)  
 NSF DUE-1438838  
 PI: Jose Ortiz-Ubarri  
 Co-PI: Patricia Ordonez, **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario  
 Project Goals: Boost the education and training in cybersecurity in the undergraduate CS curriculum through the development of easy-to-adopt and transferable educational activities in cybersecurity for the core courses of the CS curriculum and the design and offering of new courses in cybersecurity to develop a security aware workforce.  
-$299,982, Start date September 1, 2014.
+$299,982, Start date September 1, 2014.  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1438838>
 
 ### Completed Research Support
 
