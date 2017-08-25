@@ -8,9 +8,9 @@ Slug: vita
 Department of Computer Science<br>
 Rio Piedras Campus<br>
 University of Puerto Rico<br>
-PO Box 70377<br>
-San Juan, PR 00936 8377<br>
-Tel (787) 764-0000 x7430 <br>
+17 Ave Universidad Ste 1701<br>
+San Juan PR 00925-2537<br>
+Tel (787) 764-0000 x88363 <br>
 <a href="mailto:humberto.ortiz@upr.edu">humberto.ortiz@upr.edu</a>
 </address>
 <p>
