@@ -55,7 +55,11 @@ PLUGIN_PATHS = ["../pelican-plugins"]
 ##PLUGINS = ['liquid_tags.notebook', 'render_math', "pelican-bootstrapify"]
 
 ## bootswatch-markdown applies table class to tables (much nicer)
-PLUGINS = ['liquid_tags.notebook', 'render_math', "bootswatch_markdown_css"]
+PLUGINS = ['liquid_tags.notebook', 'render_math', "bootswatch_markdown_css", 'i18n_subsites']
+
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
 
 # Menus
 DISPLAY_PAGES_ON_MENU = False
