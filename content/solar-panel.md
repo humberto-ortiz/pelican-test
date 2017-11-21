@@ -1,8 +1,8 @@
 Title: Solar Panel
 Slug: solar-panel
 Date: 2017-11-17 17:47:05
-Category: 
-Tags: 
+Category: Blog
+Tags: hacking, learning
 
 
 After Hurricane Maria hit Puerto Rico on September 20, 2017 I bought a
