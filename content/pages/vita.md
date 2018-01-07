@@ -182,12 +182,6 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 ## Publications
 ### Submitted
 
-1.  Van Belleghem, Steven; Papa, Riccardo; **Ortiz-Zuazaga, Humberto**; Hendrickx, Frederik; Jiggins, Chris; McMillan, W.; Counterman, Brian.
-Patternize: An R package for quantifying color pattern variation.
-Submitted March 29, 2017 to *Methods in Ecology and Evolution*.
-Accepted for publication June 29, 2017.
-[doi:10.1111/2041-210X.12853](http://dx.doi.org/10.1111/2041-210X.12853)
-
 1. Jessica Morales-Ortíz,
 Fiorella Reyes,
 Octavio Santiago,
@@ -218,6 +212,19 @@ Comprehensive Principles of Real Time RT-PCR Quantification.
 Submitted November 10, 2016 to *PLOS One*.
 
 ### Journal Articles
+
+1. Velda J Gonzalez, Leorey N Saligan, Brooke L Fridley, **Humberto
+    Ortiz-Zuazaga**, Lauren S Aaronson, "Gene Expression, and Fatigue
+    in Puerto Rican Men during Radiotherapy for Prostate Cancer: an
+    Exploratory Study", *Puerto Rico health sciences journal*, Vol 36,
+    No 4
+    (2017). <http://prhsj.rcm.upr.edu/index.php/prhsj/article/view/1534>
+
+1. Van Belleghem, Steven; Papa, Riccardo; **Ortiz-Zuazaga, Humberto**;
+    Hendrickx, Frederik; Jiggins, Chris; McMillan, W.; Counterman,
+    Brian.  patternize: An R package for quantifying color pattern
+    variation.  *Methods in Ecology and Evolution*.  3 August 2017.
+    [doi:10.1111/2041-210X.12853](http://dx.doi.org/10.1111/2041-210X.12853)
 
 1. Eric Gamess, **Humberto Ortiz-Zuazaga**, "Low Level Performance
    Evaluation of InfiniBand with Benchmarking Tools", *International
