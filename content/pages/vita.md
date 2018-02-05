@@ -952,7 +952,7 @@ sequence and morphometric data.
 NIH NIMHD R25 MD010399  
 PI: José E. García-Arrarás  
 Other PI: Patricia Ordonez, María-Egleé Pérez Hernández  
-Start Date: September 25, 2016  
+Start Date: September 25, 2015  
 End Date: June 30, 2020  
 Funds: $1,067,600  
 Role on project: Support undergraduate training in biomedical big data
