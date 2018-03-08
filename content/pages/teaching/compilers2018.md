@@ -88,24 +88,24 @@ and Yacc).
 ## Course Schedule
 
 Class will meet Mondays and Wednesdays from 9:00 to 11:40 AM in NCL
-A-???. In UPR-RP attendance is compulsory.
+A-141. In UPR-RP attendance is compulsory.
 
 ## Calendar
 
 | Date   | Topic        | Reading | Assignment  |
 |--------|--------------|---------|-------------|
-| Jan 18 | Introduction | Ch 1    | [expressions]({filename}compilers2017/expressions.md), [interpreter]({filename}compilers2017/interp.md) |
-| Feb 8  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2017/lexer.md) |
-| Feb 15 | Parsing | Ch 3, 4 | [subset]({filename}compilers2017/subset.md), [ast]({filename}compilers2017/ast.md) |
-| Feb 22 | Exam 1 | Ch 1-4 | |
-| Mar 8 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2017/semantic.md) |
-| Mar 22 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2017/instr.md) |
-| Mar 29 | Stack frames | Ch 6 | 
-| Apr 5 | Intermediate Code | Ch 7 | intermediate |
-| Apr 12 | Optimization | 
-| Apr 19 | Static Single Assignment | Ch 19 | |
-| Apr 26 | Exam 2 | Ch 5-9, 19 | |
-| May 3 | Advanced topics | Ch 14-15 | |
+| Mar 12 | Introduction | Ch 1    | depython |
+| Mar 19  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2017/lexer.md) |
+| Mar 26 | Parsing | Ch 3 |[subset]({filename}compilers2017/subset.md) |
+| Apr 2 | Abstract Syntax Trees | Ch 4 | [ast]({filename}compilers2017/ast.md) |
+| Apr 9 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2017/semantic.md) |
+| Apr 16 | Stack frames | Ch 6 | |
+| Apr 23 | Intermediate Code | Ch 7 | intermediate |
+| Apr 30 | Basic Blocks and Traces | Ch 8 | |
+| May 7 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2017/instr.md) |
+| May 14 | Liveness Analysis | Ch 10 | |
+| May 21 | Register Allocation | Ch 11 | |
+| May 28 | Final Form | Ch 12 | | 
 
 ## Instructional strategies
 
