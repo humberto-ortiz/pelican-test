@@ -87,14 +87,14 @@ and Yacc).
 
 ## Course Schedule
 
-Class will meet Mondays and Wednesdays from 9:00 to 11:40 AM in NCL
+Class will meet Mondays and Wednesdays from 9:00 to 10:50 AM in NCL
 A-141. In UPR-RP attendance is compulsory.
 
 ## Calendar
 
 | Date   | Topic        | Reading | Assignment  |
 |--------|--------------|---------|-------------|
-| Mar 12 | Introduction | Ch 1    | depython |
+| Mar 12 | Introduction | Ch 1    | [depython]({filename}compilers2018/depython.md) |
 | Mar 19  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2017/lexer.md) |
 | Mar 26 | Parsing | Ch 3 |[subset]({filename}compilers2017/subset.md) |
 | Apr 2 | Abstract Syntax Trees | Ch 4 | [ast]({filename}compilers2017/ast.md) |
@@ -145,10 +145,10 @@ package manager, or download the newest version.
 
 Students work will be evaluated on a 100% basis with the standard curve.
 
--        Participation in course forums (online, classroom), 5% final grade
+-        Participation in course forums (online, classroom), 25% final grade
 -        Homework, 25% final grade
--        Two partial exams, 50% final grade
--        Compiler project, 20% final grade
+-        Quizzes, 25% final grade
+-        Compiler project, 25% final grade
 
 
 ## Reasonable accomodations for students
