@@ -6,5 +6,4 @@ tags: teaching, hacking, learning
 
 * [CCOM 4087 Compiler Design]({filename}/pages/teaching/compilers2018.md)
 * [CCOM 3986 Undergraduate Research in Computer Science]({filename}/pages/teaching/research-S2018.md)
-* [CCOM 4997 Computer Science Project]({filename}/pages/teaching/csp2018.md)
 
