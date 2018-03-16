@@ -107,6 +107,21 @@ A-141. In UPR-RP attendance is compulsory.
 | May 21 | Register Allocation | Ch 11 | |
 | May 28 | Final Form | Ch 12 | | 
 
+## Métodos alternos de enseñanza:
+
+La Certificación Núm 112 (2014-2015) de la Junta de Gobierno define un
+curso presencial como un curso en el cual 75% o más de las horas de
+instrucción requieren la presencia física del estudiante y el profesor
+en el salón de clases.  Esto quiere decir que 25% de un curso
+presencial, pudiera ofrecerse sin requerir la presencia física de los
+estudiantes y el profesor en el salón de clases.  En caso de ser
+necesario, este curso podrá completar hasta 25% de las horas contacto
+(11.25 horas) de forma no presencial por métodos alternos como por
+ejemplo: Videoconferencias, módulos instruccionales, foros de
+discusión y cibercharlas entre otros.   De ser así, se modificará el
+calendario/temario para incluir los temas que serán cubiertos por
+métodos alternos.
+
 ## Instructional strategies
 
 The professor will discuss each topic, students will complete a
