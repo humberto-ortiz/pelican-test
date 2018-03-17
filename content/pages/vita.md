@@ -24,6 +24,10 @@ San Juan, PR 00931-3334<br>
 <a href="mailto:humberto@hpcf.upr.edu">humberto@hpcf.upr.edu</a>
 </address>
 
+and
+
+<https://plus.codes/77CMCX33+RF>
+
 ## Degrees
 
  - PhD, Computer Science and Engineering, 2008, University of Puerto Rico.
