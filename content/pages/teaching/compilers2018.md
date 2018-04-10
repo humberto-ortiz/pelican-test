@@ -95,11 +95,11 @@ A-141. In UPR-RP attendance is compulsory.
 | Date   | Topic        | Reading | Assignment  |
 |--------|--------------|---------|-------------|
 | Mar 12 | Introduction | Ch 1    | [depython]({filename}compilers2018/depython.md) |
-| Mar 19  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2017/lexer.md) |
-| Mar 26 | Parsing | Ch 3 |[subset]({filename}compilers2017/subset.md) |
-| Apr 2 | Abstract Syntax Trees | Ch 4 | [ast]({filename}compilers2017/ast.md) |
-| Apr 9 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2017/semantic.md) |
-| Apr 16 | Stack frames | Ch 6 | |
+| Mar 19  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2018/lexer.md) |
+| Mar 26 - Apr 9 | Parsing | Ch 3 |[parser]({filename}compilers2018/parser.md) |
+| Apr 9 | Abstract Syntax Trees | Ch 4 | |
+| Apr 11 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2017/semantic.md) |
+| Apr 16-18 | Travel | No class | |
 | Apr 23 | Intermediate Code | Ch 7 | intermediate |
 | Apr 30 | Basic Blocks and Traces | Ch 8 | |
 | May 7 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2017/instr.md) |
