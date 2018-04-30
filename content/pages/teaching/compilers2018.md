@@ -98,7 +98,7 @@ A-141. In UPR-RP attendance is compulsory.
 | Mar 19  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2018/lexer.md) |
 | Mar 26 - Apr 9 | Parsing | Ch 3 |[parser]({filename}compilers2018/parser.md) |
 | Apr 9 | Abstract Syntax Trees | Ch 4 | |
-| Apr 11 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2017/semantic.md) |
+| Apr 11 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2018/semantic.md) |
 | Apr 16-18 | Travel | No class | |
 | Apr 23 | Intermediate Code | Ch 7 | intermediate |
 | Apr 30 | Basic Blocks and Traces | Ch 8 | |
