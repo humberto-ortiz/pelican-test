@@ -100,9 +100,9 @@ A-141. In UPR-RP attendance is compulsory.
 | Apr 9 | Abstract Syntax Trees | Ch 4 | |
 | Apr 11 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2018/semantic.md) |
 | Apr 16-18 | Travel | No class | |
-| Apr 23 | Intermediate Code | Ch 7 | intermediate |
-| Apr 30 | Basic Blocks and Traces | Ch 8 | |
-| May 7 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2017/instr.md) |
+| Apr 23 - May 9 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2018/instr.md) |
+| May 14 | Intermediate Code | Ch 7 | intermediate |
+| Apr 21 | Basic Blocks and Traces | Ch 8 | |
 | May 14 | Liveness Analysis | Ch 10 | |
 | May 21 | Register Allocation | Ch 11 | |
 | May 28 | Final Form | Ch 12 | | 
