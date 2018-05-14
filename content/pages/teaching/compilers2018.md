@@ -101,11 +101,12 @@ A-141. In UPR-RP attendance is compulsory.
 | Apr 11 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2018/semantic.md) |
 | Apr 16-18 | Travel | No class | |
 | Apr 23 - May 9 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2018/instr.md) |
-| May 14 | Intermediate Code | Ch 7 | intermediate |
-| Apr 21 | Basic Blocks and Traces | Ch 8 | |
-| May 14 | Liveness Analysis | Ch 10 | |
-| May 21 | Register Allocation | Ch 11 | |
-| May 28 | Final Form | Ch 12 | | 
+| May 14 | Stack Frames | Ch 6 | | 
+| May 16 | Intermediate Code | Ch 7 | intermediate |
+| May 21 | Basic Blocks and Traces | Ch 8 | |
+| May 23 | Liveness Analysis | Ch 10 | |
+| May 28 | Register Allocation | Ch 11 | |
+| May 30 | Final Form | Ch 12 | | 
 
 ## Métodos alternos de enseñanza:
 
