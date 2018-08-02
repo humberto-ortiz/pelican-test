@@ -455,6 +455,11 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 
 ### Conferences
 
+1. Anatoliy Chornyy, Nataliya Chorna, **Humberto Ortiz-Zuazaga**. Gene
+   Activity Quantification In Real Time RT-PCR. NIGMS 7th Bienial
+   National IDeA Symposium of Biomedical Research Excellence (NISBRE)
+   conference, Washington DC,  June 23-27, 2018.
+
 1. Ingrid Samari Forestier-Roman, María Sánchez, Krizia Rohena,
 **Humberto Ortiz-Zuazaga**, and Magaly Martínez-Ferrer. Microarray and
 Pathway Analysis of Prostate Cancer Tumors Treated with
