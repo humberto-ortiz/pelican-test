@@ -712,6 +712,11 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
 
 ## Invited Talks
 
+1. Ortiz-Zuazaga, Humberto (2017): The Escambron mRNAseq Protocol. A
+   workshop for sequence analysis on local computing resources. San
+   Juan, Puerto Rico, August
+   29-30, 2017. <http://escambron-protocols.readthedocs.io/en/latest/mrnaseq/index.html> 
+
 1. Ortiz-Zuazaga, Humberto (2015): Computational Problems in Genetics and Genomics. figshare.
 <https://dx.doi.org/10.6084/m9.figshare.1570959>
 Retrieved 15:18, Oct 09, 2015 (GMT)
