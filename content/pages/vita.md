@@ -354,6 +354,12 @@ muscle. <EM>Innov. et Tech. en Biol. et Med.</EM>,
 
 ### Refereed Proceedings
 
+1. Patricia Ordóñez Franco, María-Eglée Pérez Hernández, **Humberto
+Ortiz Zuazaga**.  Estimulando la Innovación en Ciencia de Datos
+Interdisciplinaria a Través de "Hackathons".  16th LACCEI
+International Multi-Conference for Engineering, Education, and
+Technology, July 18-20 2018, Lima Peru.
+
 1. Eric Gamess, **Humberto Ortiz-Zuazaga**. Evaluation of
 Point-to-Point Network Performance of HPC Clusters at the Level of
 UDP, TCP, and MPI. Proceedings of Simposio Científico y Tecnológico en
