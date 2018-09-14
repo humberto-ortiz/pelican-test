@@ -186,22 +186,6 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 ## Publications
 ### Submitted
 
-1. Jessica Morales-Ortíz,
-Fiorella Reyes,
-Octavio Santiago,
-Monica Fernandez de Soto,
-Franklin Staback,
-Amanda Pacheco,
-**Humberto Ortiz-Zuazaga,**
-Christian Yost,
-Jesse Rowley,
-Bismarck Madera,
-Matthew Rondina,
-Valance Washington.
-Platelet Regulation of Immunohemostasis Dictates Therapeutic Potential for Trem-Like Transcript-1.
-Submitted November 26, 2016 to the *Journal of Clinical Investigation*.
-Submitted March 29, 2017 to *Blood: the Journal of the American Society of Hematology*
-
 1. Ingrid Forestier-Román, María Sánchez-Vázquez, Krizia Rohena-Rivera, **Humberto Ortiz-Zuazaga**,
 Carlos Torres-Ramos, and Magaly Martinez-Ferrer.
 Andrographolide Induces a DNA Damage Response in Prostate Cancer via DNA Double Strand Breaks.
@@ -224,7 +208,7 @@ Alex St. John, Junmei Chen, Jose Lopez, Matthew Rondina, Robert
 Hunter, Angela Gibson, and A Valance Washington.
 TLT-1 is a Prognostic Indicator in ALI/ARDS and Prevents Tissue Damage
 in the Lungs in a Mouse model.
-Accepted for publication in BLOOD on September 14, 2018.
+Accepted for publication in *Blood: the Journal of the American Society of Hematology* on September 14, 2018.
 
 1. Velda J Gonzalez, Leorey N Saligan, Brooke L Fridley, **Humberto
     Ortiz-Zuazaga**, Lauren S Aaronson, "Gene Expression, and Fatigue
