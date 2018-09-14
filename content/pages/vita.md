@@ -217,6 +217,15 @@ Submitted November 10, 2016 to *PLOS One*.
 
 ### Journal Articles
 
+1. Jessica Morales, Victoria Deal, Fiorella Reyes, Geronimo Maldonado,
+Nahomy Lesdesma, Franklin Staback, Cheyanne Croft, Amanda Pacheco,
+**Humberto Ortiz-Zuazaga**, Christian Yost, Jesse Rowley, Bismark Madera,
+Alex St. John, Junmei Chen, Jose Lopez, Matthew Rondina, Robert
+Hunter, Angela Gibson, and A Valance Washington.
+TLT-1 is a Prognostic Indicator in ALI/ARDS and Prevents Tissue Damage
+in the Lungs in a Mouse model.
+Accepted for publication in BLOOD on September 14, 2018.
+
 1. Velda J Gonzalez, Leorey N Saligan, Brooke L Fridley, **Humberto
     Ortiz-Zuazaga**, Lauren S Aaronson, "Gene Expression, and Fatigue
     in Puerto Rican Men during Radiotherapy for Prostate Cancer: an
