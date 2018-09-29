@@ -23,8 +23,8 @@ year for that solution.
 I looked for other options, and found at least two free software
 packages that can copy files on and off google drive from the command
 line:
-- gdrive - https://github.com/prasmussen/gdrive
-- rclone - https://rclone.org/drive/
+  - gdrive - https://github.com/prasmussen/gdrive
+  - rclone - https://rclone.org/drive/
 gdrive is no longer being actively maintained, but rclone is, and
 supports Team Drives, so I selected rclone for testing.
 
