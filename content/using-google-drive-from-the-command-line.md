@@ -23,8 +23,10 @@ year for that solution.
 I looked for other options, and found at least two free software
 packages that can copy files on and off google drive from the command
 line:
-  - gdrive - https://github.com/prasmussen/gdrive
-  - rclone - https://rclone.org/drive/
+
+  - gdrive - <https://github.com/prasmussen/gdrive>
+  - rclone - <https://rclone.org/drive/>
+
 gdrive is no longer being actively maintained, but rclone is, and
 supports Team Drives, so I selected rclone for testing.
 
@@ -39,147 +41,146 @@ a browser to authorize `rclone` to access my Google Drive
 account. Google will return a long string with an access token to
 paste into `rclone`.
 
-```
-$ rclone config
-2018/09/27 10:36:47 NOTICE: Config file "/home/humberto/humberto/.config/rclone/rclone.conf" not found - using defaults
-No remotes found - make a new one
-n) New remote
-s) Set configuration password
-q) Quit config
-n/s/q> n
-name> upr-dmztest
-Type of storage to configure.
-Enter a string value. Press Enter for the default ("").
-Choose a number from below, or type in your own value
- 1 / Alias for a existing remote
-   \ "alias"
- 2 / Amazon Drive
-   \ "amazon cloud drive"
-...
- 9 / FTP Connection
-   \ "ftp"
-10 / Google Cloud Storage (this is not Google Drive)
-   \ "google cloud storage"
-11 / Google Drive
-   \ "drive"
-12 / Hubic
-   \ "hubic"
-...
-Storage> drive
-Google Application Client Id
-Leave blank normally.
-Enter a string value. Press Enter for the default ("").
-client_id> 
-Google Application Client Secret
-Leave blank normally.
-Enter a string value. Press Enter for the default ("").
-client_secret> 
-Scope that rclone should use when requesting access from drive.
-Enter a string value. Press Enter for the default ("").
-Choose a number from below, or type in your own value
- 1 / Full access all files, excluding Application Data Folder.
-   \ "drive"
- 2 / Read-only access to file metadata and file contents.
-   \ "drive.readonly"
-   / Access to files created by rclone only.
- 3 | These are visible in the drive website.
-   | File authorization is revoked when the user deauthorizes the app.
-   \ "drive.file"
-   / Allows read and write access to the Application Data folder.
- 4 | This is not visible in the drive website.
-   \ "drive.appfolder"
-   / Allows read-only access to file metadata but
- 5 | does not allow any access to read or download file content.
-   \ "drive.metadata.readonly"
-scope> drive
-ID of the root folder
-Leave blank normally.
-Fill in to access "Computers" folders. (see docs).
-Enter a string value. Press Enter for the default ("").
-root_folder_id> 
-Service Account Credentials JSON file path 
-Leave blank normally.
-Needed only if you want use SA instead of interactive login.
-Enter a string value. Press Enter for the default ("").
-service_account_file> 
-Edit advanced config? (y/n)
-y) Yes
-n) No
-y/n> n
-Remote config
-Use auto config?
- * Say Y if not sure
- * Say N if you are working on a remote or headless machine or Y didn't work
-y) Yes
-n) No
-y/n> n
-If your browser doesn't open automatically go to the following link:
-https://accounts.google.com/o/oauth2/auth?[bunch of stuff]
-Log in and authorize rclone for access
-Enter verification code> [long code google returns]
-Configure this as a team drive?
-y) Yes
-n) No
-y/n> y
-Fetching team drive list...
-Choose a number from below, or type in your own value
- 1 / Computer Science department UPR-RP
-   \ "XXXXXXX"
- 2 / DMZtest
-   \ "YYYYYYY"
- 3 / EPSCoR
-   \ "ZZZZZZZ"
- 4 / Personnel Committee FCN
-   \ "WWWWWWW"
-Enter a Team Drive ID> 2
---------------------
-[upr-dmztest]
-type = drive
-scope = drive
-token = {"access_token":"","token_type":"Bearer","refresh_token":"","expiry":"2018-09-27T11:39:02.456487984-04:00"}
-team_drive = XXXXYYYZZZZZ
---------------------
-y) Yes this is OK
-e) Edit this remote
-d) Delete this remote
-y/e/d> y
-Current remotes:
-
-Name                 Type
-====                 ====
-upr-dmztest          drive
-
-e) Edit existing remote
-n) New remote
-d) Delete remote
-r) Rename remote
-c) Copy remote
-s) Set configuration password
-q) Quit config
-e/n/d/r/c/s/q> q
-```
+    :::text
+    $ rclone config
+    2018/09/27 10:36:47 NOTICE: Config file "/home/humberto/humberto/.config/rclone/rclone.conf" not found - using defaults
+    No remotes found - make a new one
+    n) New remote
+    s) Set configuration password
+    q) Quit config
+    n/s/q> n
+    name> upr-dmztest
+    Type of storage to configure.
+    Enter a string value. Press Enter for the default ("").
+    Choose a number from below, or type in your own value
+     1 / Alias for a existing remote
+       \ "alias"
+     2 / Amazon Drive
+       \ "amazon cloud drive"
+    ...
+     9 / FTP Connection
+       \ "ftp"
+    10 / Google Cloud Storage (this is not Google Drive)
+       \ "google cloud storage"
+    11 / Google Drive
+       \ "drive"
+    12 / Hubic
+       \ "hubic"
+    ...
+    Storage> drive
+    Google Application Client Id
+    Leave blank normally.
+    Enter a string value. Press Enter for the default ("").
+    client_id> 
+    Google Application Client Secret
+    Leave blank normally.
+    Enter a string value. Press Enter for the default ("").
+    client_secret> 
+    Scope that rclone should use when requesting access from drive.
+    Enter a string value. Press Enter for the default ("").
+    Choose a number from below, or type in your own value
+     1 / Full access all files, excluding Application Data Folder.
+       \ "drive"
+     2 / Read-only access to file metadata and file contents.
+       \ "drive.readonly"
+       / Access to files created by rclone only.
+     3 | These are visible in the drive website.
+       | File authorization is revoked when the user deauthorizes the app.
+       \ "drive.file"
+       / Allows read and write access to the Application Data folder.
+     4 | This is not visible in the drive website.
+       \ "drive.appfolder"
+       / Allows read-only access to file metadata but
+     5 | does not allow any access to read or download file content.
+       \ "drive.metadata.readonly"
+    scope> drive
+    ID of the root folder
+    Leave blank normally.
+    Fill in to access "Computers" folders. (see docs).
+    Enter a string value. Press Enter for the default ("").
+    root_folder_id> 
+    Service Account Credentials JSON file path 
+    Leave blank normally.
+    Needed only if you want use SA instead of interactive login.
+    Enter a string value. Press Enter for the default ("").
+    service_account_file> 
+    Edit advanced config? (y/n)
+    y) Yes
+    n) No
+    y/n> n
+    Remote config
+    Use auto config?
+     * Say Y if not sure
+     * Say N if you are working on a remote or headless machine or Y didn't work
+    y) Yes
+    n) No
+    y/n> n
+    If your browser doesn't open automatically go to the following link:
+    https://accounts.google.com/o/oauth2/auth?[bunch of stuff]
+    Log in and authorize rclone for access
+    Enter verification code> [long code google returns]
+    Configure this as a team drive?
+    y) Yes
+    n) No
+    y/n> y
+    Fetching team drive list...
+    Choose a number from below, or type in your own value
+     1 / Computer Science department UPR-RP
+       \ "XXXXXXX"
+     2 / DMZtest
+       \ "YYYYYYY"
+     3 / EPSCoR
+       \ "ZZZZZZZ"
+     4 / Personnel Committee FCN
+       \ "WWWWWWW"
+    Enter a Team Drive ID> 2
+    --------------------
+    [upr-dmztest]
+    type = drive
+    scope = drive
+    token = {"access_token":"","token_type":"Bearer","refresh_token":"","expiry":"2018-09-27T11:39:02.456487984-04:00"}
+    team_drive = XXXXYYYZZZZZ
+    --------------------
+    y) Yes this is OK
+    e) Edit this remote
+    d) Delete this remote
+    y/e/d> y
+    Current remotes:
+    
+    Name                 Type
+    ====                 ====
+    upr-dmztest          drive
+    
+    e) Edit existing remote
+    n) New remote
+    d) Delete remote
+    r) Rename remote
+    c) Copy remote
+    s) Set configuration password
+    q) Quit config
+    e/n/d/r/c/s/q> q
 
 ## Results
 
 Now that we've set up the remote, we can list files:
-```
-$ rclone ls upr-dmztest:
-893109585 RnaSeq-Garcia_S3_L001_R1_001.fastq.gz
-6089478926 bigfile.zip
-1143471744 nema.x.mouse
-2878221822 result1.tar.gz
-```
+
+    :::text
+    $ rclone ls upr-dmztest:
+    893109585 RnaSeq-Garcia_S3_L001_R1_001.fastq.gz
+    6089478926 bigfile.zip
+    1143471744 nema.x.mouse
+    2878221822 result1.tar.gz
 
 We can also copy files to and from the Google Drive:
 
-```
-$ time rclone copy upr-dmztest:nema.x.mouse .
+    :::text
+    $ time rclone copy upr-dmztest:nema.x.mouse .
+    
+    real	0m33.411s
+    user	0m19.635s
+    sys	0m2.067s
+    $ ls -l nema.x.mouse
+	-rw-rw-r-- 1 humberto humberto 1.1G Dec 10  2016 nema.x.mouse
 
-real	0m33.411s
-user	0m19.635s
-sys	0m2.067s
-$ ls -l nema.x.mouse 
--rw-rw-r-- 1 humberto humberto 1.1G Dec 10  2016 nema.x.mouse
-```
 
 That's 1.1 GB in 33 seconds, or a transfer rate of 261 Mbps, or 32.6 MBps.
