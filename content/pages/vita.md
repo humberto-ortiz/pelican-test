@@ -191,14 +191,6 @@ Carlos Torres-Ramos, and Magaly Martinez-Ferrer.
 Andrographolide Induces a DNA Damage Response in Prostate Cancer via DNA Double Strand Breaks.
 Submitted March 28, 2017 to *Oncotarget*.
 
-1. Anatoliy P Chornyy,
-Nataliya E Chorna,
-Sandra Peña de Ortiz,
-Luis R Pericchi,
-**Humberto Guillermo Ortiz-Zuazaga.**
-Comprehensive Principles of Real Time RT-PCR Quantification.
-Submitted November 10, 2016 to *PLOS One*.
-
 ### Journal Articles
 
 1. Jessica Morales, Victoria Deal, Fiorella Reyes, Geronimo Maldonado,
@@ -984,20 +976,14 @@ conjunction with the bioinfomatics core personnel, bioinformatics
 support for INBRE researchers.  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9282454&icde=35427079>
 
-1. CC-NIE Networking Infrastructure: Perimeter Network to Expedite the Transmission of Science Project (PR NETS)  
-NSF ACI 1340959  
-PI: Jose Ortiz-Ubarri  
-Co-PI: **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario  
-Project goals: Facilitate scientific research on the Rio Piedras campus of the University of Puerto Rico by constructing a ScienceDMZ. This specialized research network will allow researchers in diverse fields including psychology, biology, chemistry, physics and computer and environmental sciences to transmit large data sets to collaborators.  
-Funds: $499,667  
-<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1340959>
-
 1. UPR/MDACC Partnership for Excellence in Cancer Research  
 NIH National Cancer Institute U54CA096297  
 PI: Marcia Cruz-Correa, Gabriel Lopez-Berestein, Reynold Lopez-Enriquez, José F. Cordero,  Brad R. Weiner, Elizabeth L. Travis, David W. Wetter, and Michelle Barton  
 Role on Project: Bioinformatics director, Biostatistics, Epidemiology and Bioinformatics Core (BEBiC).   
 Funds: $5,364,836  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9131639&icde=35427169>
+
+### Completed Research Support
 
 1. Academics and Training for the Advancement of Cybersecurity Knowledge in Puerto Rico (ATACK PR)  
 NSF DUE-1438838  
@@ -1007,7 +993,13 @@ Project Goals: Boost the education and training in cybersecurity in the undergra
 $299,982, Start date September 1, 2014.  
 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1438838>
 
-### Completed Research Support
+ 1. CC-NIE Networking Infrastructure: Perimeter Network to Expedite the Transmission of Science Project (PR NETS)  
+NSF ACI 1340959  
+PI: Jose Ortiz-Ubarri  
+Co-PI: **Humberto Ortiz-Zuazaga**, Rafael Arce Nazario  
+Project goals: Facilitate scientific research on the Rio Piedras campus of the University of Puerto Rico by constructing a ScienceDMZ. This specialized research network will allow researchers in diverse fields including psychology, biology, chemistry, physics and computer and environmental sciences to transmit large data sets to collaborators.  
+Funds: $499,667  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1340959>
 
 1. EPSCoR Research Infrastructure Improvement Track 1
 Nanotechnology from Basic Science to Emerging Applications: Institute for Functional Nanomaterials (IFN)  
