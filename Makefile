@@ -115,7 +115,7 @@ PAGESDIR=$(INPUTDIR)/pages
 DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
 SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
 EXT ?= md
-EDITOR="echo Edit "
+EDITOR=aquamacs
 
 newpost:
 ifdef NAME
