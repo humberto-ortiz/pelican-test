@@ -2,7 +2,7 @@ title: CCOM 3986 - Undergraduate Research in Computer Science - Spring 2018
 date: 2018-03-08
 category: Teaching
 tags: hacking, learning
-slug: teaching/research-S2018
+slug: teaching/research-S2019
 
 ## Institution
 

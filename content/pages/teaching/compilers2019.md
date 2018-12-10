@@ -1,5 +1,5 @@
 Title: CCOM 4087 - Compiler Design - Spring 2019
-date: 2018-21-10
+date: 2018-12-10
 category: Teaching
 tags: hacking, learning
 slug: teaching/compilers2019
@@ -21,7 +21,7 @@ Department of Computer Science<br>
 | Telephone    | 787-764-0000 x88363                 |
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
-| Office hours | Tuesday, Thursday 8:30-10:30 AM      |
+| Office hours | Tuesday, Thursday 8:30-10:00 AM      |
 |              | or by appointment                   |
 
 ## Credits
