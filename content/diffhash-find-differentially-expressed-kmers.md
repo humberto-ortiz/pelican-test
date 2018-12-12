@@ -52,4 +52,7 @@ That reads 20 files into a hash table, counts the kmers, and writes it
 out to an HDF file. The second program reads the HDF and writes out a
 tab separated file for R.
 
-The repository has a README.md and the R code is documented in diffhash.Rmd.
+The repository has a
+[README.md](https://github.com/humberto-ortiz/diffhash/blob/master/README.md)
+with some preliminary results, and the R code is documented in
+[diffhash.Rmd](https://github.com/humberto-ortiz/diffhash/blob/master/diffhash.md).
