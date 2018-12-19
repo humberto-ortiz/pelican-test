@@ -180,17 +180,17 @@ United States Patent <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PT
 : Methods,
 systems, and products for quantitatively measuring the degree of
 concordance between or among microarray probe level data sets. Cheung; Philip; (San Diego, CA) ;
-Tully; Timothy P.; (Solana Beach, CA) ; <b>Ortiz-Zuazaga; Humberto</b>; (San
+Tully; Timothy P.; (Solana Beach, CA) ; **Ortiz-Zuazaga; Humberto**; (San
 Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ## Publications
 ### Submitted
 
 1. Ingrid Forestier-Román, María Sánchez-Vázquez, Krizia
-    Rohena-Rivera, **Humberto Ortiz-Zuazaga**, Carlos Torres-Ramos,
-    and Magaly Martinez-Ferrer.  Andrographolide Induces a DNA Damage
-    Response in Prostate Cancer via DNA Double Strand Breaks.
-    Submitted March 28, 2017 to *Oncotarget*.
+    Rohena-Rivera, Andrés López-Rivas, Gretchen Nieves-Burgos,
+    **Humberto Ortiz-Zuazaga**, Carlos Torres-Ramos, and Magaly
+    Martinez-Ferrer.  Andrographolide Induces DNA Damage in Prostate
+    Cancer Cells.  Resubmitted December 18, 2018 to *Oncotarget*.
 
 ### Journal Articles
 
