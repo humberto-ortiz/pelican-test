@@ -1,7 +1,7 @@
 Title: A map of student progress in CCOM
 Slug: a-map-of-student-progress-in-ccom
 Date: 2018-12-20 10:28:38
-Category: Research
+Category: Blog
 Tags: hacking, learning, teaching
 
 # Introduction
