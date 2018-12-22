@@ -94,13 +94,13 @@ A-143. In UPR-RP attendance is compulsory.
 
 | Date   | Topic        | Reading | Assignment  |
 |--------|--------------|---------|-------------|
-|  | Introduction | Ch 1    | [depython]({filename}compilers2018/depython.md) |
-|   | Lexical Analysis | Ch 2| [lexer]({filename}compilers2018/lexer.md) |
-|  | Parsing | Ch 3 |[parser]({filename}compilers2018/parser.md) |
+|  | Introduction | Ch 1    | [depython]({filename}compilers2019/depython.md) |
+|   | Lexical Analysis | Ch 2| [lexer]({filename}compilers2019/lexer.md) |
+|  | Parsing | Ch 3 |[parser]({filename}compilers2019/parser.md) |
 |  | Abstract Syntax Trees | Ch 4 | |
-|  | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2018/semantic.md) |
+|  | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2019/semantic.md) |
 |  | Travel | No class | |
-|  | Instruction Generation | Ch 9 | [instructions]({filename}compilers2018/instr.md) |
+|  | Instruction Generation | Ch 9 | [instructions]({filename}compilers2019/instr.md) |
 |  | Stack Frames | Ch 6 | | 
 |  | Intermediate Code | Ch 7 | intermediate |
 |  | Basic Blocks and Traces | Ch 8 | |
