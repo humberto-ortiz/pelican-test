@@ -31,18 +31,18 @@ code = """
 a = 2
 b = 3
 
-print a * b - b 
+print a * b + b 
 """
 
 ast.dump(ast.parse(code))
 ```
 
 ```
-"Module(body=[Assign(targets=[Name(id='a', ctx=Store())],
-value=Num(n=2)),
+"Module(body=[
+Assign(targets=[Name(id='a', ctx=Store())], value=Num(n=2)),
 Assign(targets=[Name(id='b', ctx=Store())], value=Num(n=3)),
 Print(dest=None, values=[BinOp(left=BinOp(left=Name(id='a',
-ctx=Load()), op=Mult(), right=Name(id='b', ctx=Load())), op=Sub(),
+ctx=Load()), op=Mult(), right=Name(id='b', ctx=Load())), op=Add(),
 right=Name(id='b', ctx=Load()))], nl=True)])"
 ```
 
