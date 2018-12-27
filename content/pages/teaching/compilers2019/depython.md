@@ -50,26 +50,25 @@ Program 1.5 in the textbook defines data structures for Straight Line Programs (
 
 ```
 type id = string
-	      
+
 datatype binop = Add | Mult
-			
-datatype prog = Module of stm
+
+datatype prog = Module of stm list
 
 and stm = Assign of id * exp
-	| CompoundStm of stm * stm
-	| PrintStm of exp
+	| Print of exp list
 	| Expr of exp
-			  
+
 and exp = Num of int
-	     | BinOp of exp * binop * exp
-	     | Name of id
-		 | Eseq of stm * exp
-				   
-val p1 = Module (Expr (Num 123));
+	| BinOp of exp * binop * exp
+	| Name of id
+	| Eseq of stm * exp
 
-val p2 = Module (Expr (BinOp (Num 3, Add, Num 2))) : prog;
+val p1 = Module [Expr (Num 123)];
 
-val p3 = Module (CompoundStm (Assign ("a", Num 3), PrintStm (BinOp (Name "a", Mult, Num 2)))); 
+val p2 = Module [Expr (BinOp (Num 3, Add, Num 2))] : prog;
+
+val p3 = Module [Assign ("a", Num 3), Print [BinOp (Name "a", Mult, Num 2)]];
 ```
 
 # Exercises
