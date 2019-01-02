@@ -186,6 +186,17 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 ## Publications
 ### Submitted
 
+1. Pedraza-Marrón, Carmen; Silva, Raimundo; Deeds, Johnathan ; Van
+   Belleghem, Steven; Mastretta-Yanes, Alicia; Dominguez-Dominguez,
+   Omar; Rivero-Vega, Rafael; Lutackas, Loretta; Murie, Debra; Parkyn,
+   Daryl; Bullock, Lew; Foss, Kristin; **Ortiz-Zuazaga, Humberto**;
+   Narváez-Barandica, Juan; Acero, Arturo; Gomes, Grazielle;
+   Betancur-R, Ricardo.  Genomics overrules mitochondrial DNA, siding
+   with morphology on a controversial case of species
+   delimitation. Submitted December 25, 2018 to *Proceedings of the
+   Royal Society B*
+
+
 1. Ingrid Forestier-Román, María Sánchez-Vázquez, Krizia
     Rohena-Rivera, Andrés López-Rivas, Gretchen Nieves-Burgos,
     **Humberto Ortiz-Zuazaga**, Carlos Torres-Ramos, and Magaly
