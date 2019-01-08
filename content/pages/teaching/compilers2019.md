@@ -94,19 +94,19 @@ A-143. In UPR-RP attendance is compulsory.
 
 | Date   | Topic        | Reading | Assignment  |
 |--------|--------------|---------|-------------|
-|  | Introduction | Ch 1    | [depython]({filename}compilers2019/depython.md) |
-|   | Lexical Analysis | Ch 2| [lexer]({filename}compilers2019/lexer.md) |
-|  | Parsing | Ch 3 |[parser]({filename}compilers2019/parser.md) |
-|  | Abstract Syntax Trees | Ch 4 | |
-|  | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2019/semantic.md) |
-|  | Travel | No class | |
-|  | Instruction Generation | Ch 9 | [instructions]({filename}compilers2019/instr.md) |
-|  | Stack Frames | Ch 6 | | 
-|  | Intermediate Code | Ch 7 | intermediate |
-|  | Basic Blocks and Traces | Ch 8 | |
-|  | Liveness Analysis | Ch 10 | |
-|  | Register Allocation | Ch 11 | |
-|  | Final Form | Ch 12 | | 
+| Jan 15-24 | Introduction | Ch 1    | [depython]({filename}compilers2019/depython.md) |
+| Jan 29-31  | Lexical Analysis | Ch 2| [lexer]({filename}compilers2019/lexer.md) |
+| Feb 5-21 | Parsing | Ch 3 |[parser]({filename}compilers2019/parser.md) |
+| Feb 26-28 | Abstract Syntax Trees | Ch 4 | |
+| Mar 5-14 | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2019/semantic.md) |
+| Mar 19-28 | Instruction Generation | Ch 9 | [instructions]({filename}compilers2019/instr.md) |
+| Apr 2-11 | Stack Frames | Ch 6 | | 
+| Apr 16 | Intermediate Code | Ch 7 | intermediate |
+| Apr 18 | Spring break | | |
+| Apr 23-25 | Basic Blocks and Traces | Ch 8 | |
+| Apr 30 | Liveness Analysis | Ch 10 | |
+| May 2 | Register Allocation | Ch 11 | |
+| May 7 | Final Form | Ch 12 | | 
 
 ### Alternative Teaching Methods
 
