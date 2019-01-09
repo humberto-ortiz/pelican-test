@@ -201,7 +201,7 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
     Rohena-Rivera, Andrés López-Rivas, Gretchen Nieves-Burgos,
     **Humberto Ortiz-Zuazaga**, Carlos Torres-Ramos, and Magaly
     Martinez-Ferrer.  Andrographolide Induces DNA Damage in Prostate
-    Cancer Cells.  Resubmitted December 18, 2018 to *Oncotarget*.
+    Cancer Cells.  Accepted for publication January 8, 2019 in *Oncotarget*.
 
 ### Journal Articles
 
