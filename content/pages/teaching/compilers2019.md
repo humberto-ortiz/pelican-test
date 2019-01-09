@@ -203,6 +203,18 @@ General de Estudiantes de la Universidad de Puerto Rico”,
 (Certificación JS 13 2009-2010). It is in no way intended to be a
 legal substitute for the original document, written in Spanish.
 
+## Policy on sexual discrimination or harassment
+
+The University of Puerto Rico prohibits discrimination based on sex,
+sexual orientation, and gender identity in any of its forms, including
+that of sexual harassment. According to the Institutional Policy
+Against Sexual Harassment at the University of Puerto Rico,
+Certification Num. 130, 2014-2015 from the Board of Governors, any
+student subjected to acts constituting sexual harassment, may turn to
+the Office of the Student Ombudsperson, the Office of the Dean of
+Students, and/or the Coordinator of the Office of Compliance with
+Title IX for an orientation and/or a formal complaint.
+
 ## References
 
 1. Andrew W. Appel. (1998) [Modern Compiler Implementation in
