@@ -78,6 +78,29 @@ job and graduate school opportunities in computer science.
 Class will meet Mondays 11:30 AM - 12:50 PM, NCL A-141. In UPR-RRP
 attendance is compulsory.
 
+### Tentative calendar
+
+| Date | Deliverable | Activity |
+|-----|----------|-----|
+| 14 ene |  | Introducción, temas para estudio independiente |
+| 21 ene | 3 temas generales que le interesan | FERIADO/EL CURSO NO SE REUNE |
+| 28 ene | escoger un tema específico dentro del tema general que le fue asignada. | Taller sobre presentaciones orales |
+| 4 feb |  entre 5 y 10 referencias anotadas sobre su tema | Presentación de referencias anotadas para el estudio independiente |
+| 11 feb | entregar el bosquejo de su presentación | Presentaciones de bosquejos de presentaciones orales |
+| 18 feb | | FERIADO |
+| 25 feb | | Taller sobre preparación de afiches |
+| 4 mar | | Charla |
+| 11 mar | | Presentaciones grupos 1, 2 |
+| 18 mar | | Presentaciones grupos 3, 4 |
+| 25 mar | | Presentación grupo 5 / Charla |
+| 1 abr | | Taller sobre estudios graduados y becas |
+| 8 abr | | Presentaciones de borradores de afiches |
+| 15 abr | | Presentaciones de borradores de afiches |
+| 22 abr | | Charla sobre innovación, comercialización y empresarismo |
+| 29 abr | versión final del afiche, lista para imprimir | Panel sobre oportunidades de empleo en CC |
+| 6 may | | Presentaciones de afiches |
+
+
 ## Instructional resources
 
 The course will be hosted on the
