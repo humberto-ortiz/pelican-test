@@ -197,13 +197,13 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    Royal Society B*.
 
 
-1. Ingrid Forestier-Román, María Sánchez-Vázquez, Krizia
-    Rohena-Rivera, Andrés López-Rivas, Gretchen Nieves-Burgos,
-    **Humberto Ortiz-Zuazaga**, Carlos Torres-Ramos, and Magaly
-    Martinez-Ferrer.  Andrographolide Induces DNA Damage in Prostate
-    Cancer Cells.  Accepted for publication January 8, 2019 in *Oncotarget*.
-
 ### Journal Articles
+
+1. Ingrid Forestier-Román, Andrés López-Rivas, María Sánchez-Vázquez,
+    Krizia Rohena-Rivera, Gretchen Nieves-Burgos, **Humberto
+    Ortiz-Zuazaga**, Carlos Torres-Ramos, and Magaly Martinez-Ferrer.
+    Andrographolide Induces DNA Damage in Prostate Cancer Cells.
+    Accepted for publication January 8, 2019 in *Oncotarget*.
 
 1. Jessica Morales, Victoria Deal, Fiorella Reyes, Geronimo Maldonado,
     Nahomy Lesdesma, Franklin Staback, Cheyanne Croft, Amanda Pacheco,
@@ -211,9 +211,9 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
     Madera, Alex St. John, Junmei Chen, Jose Lopez, Matthew Rondina,
     Robert Hunter, Angela Gibson, and A Valance Washington.  TLT-1 is
     a Prognostic Indicator in ALI/ARDS and Prevents Tissue Damage in
-    the Lungs in a Mouse model.  Accepted for publication in *Blood:
-    the Journal of the American Society of Hematology* on September
-    14, 2018. <https://doi.org/10.1182/blood-2018-03-841593>
+    the Lungs in a Mouse model.  *Blood: the Journal of the American
+    Society of Hematology*, December 6, 2018. 132(23):2495-2505.
+    <https://doi.org/10.1182/blood-2018-03-841593>
 
 1. Velda J Gonzalez, Leorey N Saligan, Brooke L Fridley, **Humberto
     Ortiz-Zuazaga**, Lauren S Aaronson, "Gene Expression, and Fatigue
