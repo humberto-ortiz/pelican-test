@@ -85,11 +85,11 @@ attendance is compulsory.
 | 14 ene |  | Introducción, temas para estudio independiente |
 | 21 ene | 3 temas generales que le interesan | FERIADO/EL CURSO NO SE REUNE |
 | 28 ene | escoger un tema específico dentro del tema general que le fue asignada. | Taller sobre presentaciones orales |
-| 4 feb |  entre 5 y 10 referencias anotadas sobre su tema | Presentación de referencias anotadas para el estudio independiente |
-| 11 feb | entregar el bosquejo de su presentación | Presentaciones de bosquejos de presentaciones orales |
+| 4 feb |  | Charla |
+| 11 feb |  entre 5 y 10 referencias anotadas sobre su tema | Presentación de referencias anotadas para el estudio independiente |
 | 18 feb | | FERIADO |
-| 25 feb | | Taller sobre preparación de afiches |
-| 4 mar | | Charla |
+| 25 feb | entregar el bosquejo de su presentación | Presentaciones de bosquejos de presentaciones orales |
+| 4 mar | | Taller sobre preparación de afiches | 
 | 11 mar | | Presentaciones grupos 1, 2 |
 | 18 mar | | Presentaciones grupos 3, 4 |
 | 25 mar | | Presentación grupo 5 / Charla |
