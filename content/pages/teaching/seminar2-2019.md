@@ -94,7 +94,7 @@ attendance is compulsory.
 | 18 mar | | Presentaciones grupos 3, 4 |
 | 25 mar | | Presentación grupo 5 / Charla |
 | 1 abr | | Taller sobre estudios graduados y becas |
-| 8 abr | | Presentaciones de borradores de afiches |
+| 8 abr | | Charla |
 | 15 abr | | Presentaciones de borradores de afiches |
 | 22 abr | | Charla sobre innovación, comercialización y empresarismo |
 | 29 abr | versión final del afiche, lista para imprimir | Panel sobre oportunidades de empleo en CC |
