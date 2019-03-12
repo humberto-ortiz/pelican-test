@@ -193,7 +193,7 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    Narváez-Barandica, Juan; Acero, Arturo; Gomes, Grazielle;
    Betancur-R, Ricardo.  Genomics overrules mitochondrial DNA, siding
    with morphology on a controversial case of species
-   delimitation. Submitted December 25, 2018 to *Proceedings of the
+   delimitation. Accepted for publication in *Proceedings of the
    Royal Society B*.
 
 
