@@ -74,7 +74,7 @@ Here's a broken program with let (`tiger/let.tig`):
 let
  type pos = int
  var a : pos := 5
- var b := "Hello"
+ var b :string := "Hello"
 in
  a + b
 end
