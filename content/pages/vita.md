@@ -184,7 +184,8 @@ Tully; Timothy P.; (Solana Beach, CA) ; **Ortiz-Zuazaga; Humberto**; (San
 Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ## Publications
-### Submitted
+
+### Journal Articles
 
 1. Pedraza-Marrón, Carmen; Silva, Raimundo; Deeds, Johnathan ; Van
    Belleghem, Steven; Mastretta-Yanes, Alicia; Dominguez-Dominguez,
@@ -193,13 +194,10 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    Narváez-Barandica, Juan; Acero, Arturo; Gomes, Grazielle;
    Betancur-R, Ricardo.  Genomics overrules mitochondrial DNA, siding
    with morphology on a controversial case of species
-   delimitation. Accepted for publication in *Proceedings of the
-   Royal Society B*.
+   delimitation. Published online 3 April 2019 in *Proceedings of the
+   Royal Society B*. <https://doi.org/10.1098/rspb.2018.2924>
 
-
-### Journal Articles
-
-1. Ingrid Forestier-Román, Andrés López-Rivas, María Sánchez-Vázquez,
+ 1. Ingrid Forestier-Román, Andrés López-Rivas, María Sánchez-Vázquez,
     Krizia Rohena-Rivera, Gretchen Nieves-Burgos, **Humberto
     Ortiz-Zuazaga**, Carlos Torres-Ramos, and Magaly Martinez-Ferrer.
     Andrographolide Induces DNA Damage in Prostate Cancer Cells.
