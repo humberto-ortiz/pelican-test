@@ -68,3 +68,5 @@ MENUITEMS = [("Vita", "/~humberto/vita.html"),
 
 # Notebook paths
 ##NOTEBOOK_DIR = 'notebooks'
+
+STATIC_PATHS = ["images", "scripts"]
