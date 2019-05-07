@@ -458,6 +458,13 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 
 ### Conferences
 
+1. Sebastian Cruz-Gonzalez, David Quispe-Parra, **Humberto
+   Ortiz-Zuazaga** and Jose E. Garcia-Arraras.  “Gene set enrichment
+   analysis of early intestinal regeneration in the sea cucumber
+   Holothuria glaberrima."  2019 Junior Technical Meeting (JTM) and
+   39th Puerto Rico Interdisciplinary Scientific Meeting (PRISM),
+   Mayaguez, PR, May 4, 2019.
+
 1. Anatoliy Chornyy, Nataliya Chorna, **Humberto Ortiz-Zuazaga**. Gene
    Activity Quantification In Real Time RT-PCR. NIGMS 7th Bienial
    National IDeA Symposium of Biomedical Research Excellence (NISBRE)
