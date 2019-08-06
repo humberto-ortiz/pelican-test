@@ -725,6 +725,13 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
 	satisfiability problems. Poster presentation at Second DIMACS
 	Challenge: Cliques, Coloring and Satisfiability, October 1993.
 
+## Educational Modules
+
+ 1. Greg Wilson, Christina Koch, Rayna Michelle Harris, Karen Word, Maneesha
+    Sane, Raniere Silva, … trk. (2019, June 16).
+    carpentries/instructor-training: The Carpentries Instructor Training June
+    2019 (Version v2019.06.1). Zenodo. <http://doi.org/10.5281/zenodo.3246985>
+ 
 ## Invited Talks
 
 1. Ortiz-Zuazaga, Humberto (2017): The Escambron mRNAseq Protocol. A
