@@ -734,6 +734,14 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
  
 ## Invited Talks
 
+1. Ortiz-Zuazaga, Humberto (2019): A short introduction to LaTeX. Workshop
+   (based on [material by Andre
+   Geldenhuis](http://andre-geldenhuis.github.io/Latex-Short/)) offered to
+   undergraduate political science students in the America Political Science
+   Association- Minority Graduate Placement Program
+   ([APSA-MIGAP](https://www.migapprogram.com/)). San Juan, Puerto Rico, July 17
+   and 18, 2019.
+
 1. Ortiz-Zuazaga, Humberto (2017): The Escambron mRNAseq Protocol. A
    workshop for sequence analysis on local computing resources. San
    Juan, Puerto Rico, August
