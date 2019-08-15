@@ -734,7 +734,7 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
  
 ## Invited Talks
 
-1. Ortiz-Zuazaga, Humberto (2019): A short introduction to LaTeX. Workshop
+1. **Ortiz-Zuazaga, Humberto** (2019): A short introduction to LaTeX. Workshop
    (based on [material by Andre
    Geldenhuis](http://andre-geldenhuis.github.io/Latex-Short/)) offered to
    undergraduate political science students in the America Political Science
@@ -753,22 +753,23 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
    Camacho, Israel Dilán, Louis Gil, Briknie Báez. Software Carpentry
    Introduction to Programming in R. Offered to graduate and undergraduate
    students as part of the [IDI-BD2K program](https://idi-bd2k.hpcf.upr.edu).
+   San Juan, Puerto Rico, January 11-12, 2019.
    <https://idi-bd2k.github.io/2019-01-11-puerto_rico-R/>
 
-1. Ortiz-Zuazaga, Humberto (2017): The Escambron mRNAseq Protocol. A
+1. **Ortiz-Zuazaga, Humberto** (2017): The Escambron mRNAseq Protocol. A
    workshop for sequence analysis on local computing resources. San
    Juan, Puerto Rico, August
    29-30, 2017. <http://escambron-protocols.readthedocs.io/en/latest/mrnaseq/index.html> 
 
-1. Ortiz-Zuazaga, Humberto (2015): Computational Problems in Genetics and Genomics. figshare.
+1. **Ortiz-Zuazaga, Humberto** (2015): Computational Problems in Genetics and Genomics. figshare.
 <https://dx.doi.org/10.6084/m9.figshare.1570959>
 Retrieved 15:18, Oct 09, 2015 (GMT)
 
-1. Ortiz-Zuazaga, Humberto (2015): UPR workshop: Processing TCGA mRNA expression data. figshare.
+1. **Ortiz-Zuazaga, Humberto** (2015): UPR workshop: Processing TCGA mRNA expression data. figshare.
 <https://dx.doi.org/10.6084/m9.figshare.1385358>
 Retrieved 12:49, Apr 21, 2015 (GMT)
 
-1. Ortiz-Zuazaga, Humberto (2014): Microarray Analysis With
+1. **Ortiz-Zuazaga, Humberto** (2014): Microarray Analysis With
 Bioconductor Workshop. figshare.
 <https://dx.doi.org/10.6084/m9.figshare.1251183>
 Retrieved 13:33, Nov 25, 2014 (GMT)
