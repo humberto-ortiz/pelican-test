@@ -741,6 +741,19 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
    Association- Minority Graduate Placement Program
    ([APSA-MIGAP](https://www.migapprogram.com/)). San Juan, Puerto Rico, July 17
    and 18, 2019.
+   
+1. **Humberto Ortiz-Zuazaga**, Sofía Meléndez. Helpers: Briknie Baez, Israel
+   Dilán, Marc De Jesus Ellsworth. (2019): Software Carpentry Introduction to
+   Programming in R. Offered to undergraduate and graduate students as part of
+   the [IQ-Bio-REU](http://iqbioreu.uprrp.edu/) summer internship. San Juan,
+   Puerto Rico, June 3-7, 2019.
+   <https://idi-bd2k.github.io/2019-06-03-puerto_rico-R/>
+   
+1. **Humberto Ortiz-Zuazaga**, Sofía Meléndez. Helpers: Jeffrey Chan, Heriberto
+   Camacho, Israel Dilán, Louis Gil, Briknie Báez. Software Carpentry
+   Introduction to Programming in R. Offered to graduate and undergraduate
+   students as part of the [IDI-BD2K program](https://idi-bd2k.hpcf.upr.edu).
+   <https://idi-bd2k.github.io/2019-01-11-puerto_rico-R/>
 
 1. Ortiz-Zuazaga, Humberto (2017): The Escambron mRNAseq Protocol. A
    workshop for sequence analysis on local computing resources. San
