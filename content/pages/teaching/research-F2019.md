@@ -25,8 +25,8 @@ Department of Computer Science
 | Telephone    | 787-764-0000 x88363                |
 | email        | <mailto:humberto.ortiz@upr.edu>    |
 | Web page     | <http://ccom.uprrp.edu/~humberto/> |
-| Office hours | Tuesday, Thursday 8:30-10:00 AM      |
-	| by appointment                  |
+| Office hours | Tuesday, Thursday 8:30-10:00 AM    |
+|              | or by appointment                  |
 
 ## Description
 
