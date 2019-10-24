@@ -756,6 +756,12 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
    San Juan, Puerto Rico, January 11-12, 2019.
    <https://idi-bd2k.github.io/2019-01-11-puerto_rico-R/>
 
+1. Nelly Selem, **Humberto Ortiz-Zuazaga**. Helpers: Eveliz Peguero, Sebastian
+   Cruz, Israel Dilán, Kevin Legarreta Gonzalez. Data Carpentry Genomics
+   workshop. Offered to graduate and undergraduate students and faculty. San
+   Juan, Puerto Rico, August 17-18, 2018.
+   <https://idi-bd2k.github.io/2018-08-17-puertorico-genomics/>
+
 1. **Ortiz-Zuazaga, Humberto** (2017): The Escambron mRNAseq Protocol. A
    workshop for sequence analysis on local computing resources. San
    Juan, Puerto Rico, August
