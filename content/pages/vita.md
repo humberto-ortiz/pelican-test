@@ -356,6 +356,7 @@ Ortiz Zuazaga**.  Estimulando la Innovación en Ciencia de Datos
 Interdisciplinaria a Través de "Hackathons".  16th LACCEI
 International Multi-Conference for Engineering, Education, and
 Technology, July 18-20 2018, Lima Peru.
+<https://dx.doi.org/10.18687/LACCEI2018.1.1.345>
 
 1. Eric Gamess, **Humberto Ortiz-Zuazaga**. Evaluation of
 Point-to-Point Network Performance of HPC Clusters at the Level of
