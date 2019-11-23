@@ -1031,14 +1031,21 @@ conjunction with the bioinfomatics core personnel, bioinformatics
 support for INBRE researchers.  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9282454&icde=35427079>
 
+1. UPR/MDACC Partnership for Excellence in Cancer Research
+NIH National Cancer Institute U54CA096297
+PI: Brad R. Weiner, Reynold Lopez-Enriquez, Ana Patricia Ortiz, Elizabeth L. Travis
+Role on Project: Bioinformatics director, Data and Omics Science Core. 
+Funds: $13M
+<https://projectreporter.nih.gov/project_info_description.cfm?aid=9848093&icde=4757569> 
+
+### Completed Research Support
+
 1. UPR/MDACC Partnership for Excellence in Cancer Research  
 NIH National Cancer Institute U54CA096297  
 PI: Marcia Cruz-Correa, Gabriel Lopez-Berestein, Reynold Lopez-Enriquez, José F. Cordero,  Brad R. Weiner, Elizabeth L. Travis, David W. Wetter, and Michelle Barton  
 Role on Project: Bioinformatics director, Biostatistics, Epidemiology and Bioinformatics Core (BEBiC).   
 Funds: $5,364,836  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9131639&icde=35427169>
-
-### Completed Research Support
 
 1. Academics and Training for the Advancement of Cybersecurity Knowledge in Puerto Rico (ATACK PR)  
 NSF DUE-1438838  
