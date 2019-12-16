@@ -108,7 +108,7 @@ GPIO.cleanup()
 This program loops forever, waiting for ssh login attempts and
 blinking the appropriate LED.
 
-![rpi with ssh detection LEDs]({filename}/images/pi-ssh-checker.jpg)
+![rpi with ssh detection LEDs]({static}/images/pi-ssh-checker.jpg)
 
 # Discussion
 

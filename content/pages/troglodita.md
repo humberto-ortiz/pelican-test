@@ -1,7 +1,7 @@
 title: The Troglodita Seal of Approval
 slug: troglodita
 
-![Troglodita seal of approval]({filename}/images/troglodita-med.jpg)
+![Troglodita seal of approval]({static}/images/troglodita-med.jpg)
 
 I think the World Wide Web is a tool for publishing information. I
 used to think most presentation technology (flash, java, javascript, even CSS)

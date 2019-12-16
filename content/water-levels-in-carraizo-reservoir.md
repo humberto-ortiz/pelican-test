@@ -30,10 +30,10 @@ The new app only needs the USGS data and a static server.
 
 # Results
 
-<script src='{filename}/scripts/d3.min.js'></script>
+<script src='{static}/scripts/d3.min.js'></script>
 <!-- Plotly.js -->
-<script src="{filename}/scripts/plotly-latest.min.js"></script>
-<script src='{filename}/scripts/analysis.js'></script>
+<script src="{static}/scripts/plotly-latest.min.js"></script>
+<script src='{static}/scripts/analysis.js'></script>
 
 <!-- Plotly chart will be drawn inside this DIV -->
 <div id="myDiv"></div>

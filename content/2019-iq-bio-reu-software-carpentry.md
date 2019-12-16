@@ -16,8 +16,8 @@ The course material is up on the site, we followed the unix shell-novice, git-no
 
 The participants were pretty enthusiastic, and most followed along with some help from the helpers. Here is some of the feedback we got from the second day of R. Yellow stickies are positive comments "one good thing from today's workshop", and "red" stickies are "one confusing thing from today's workshop".
 
-![One good thing]({filename}/images/good.jpg)
+![One good thing]({static}/images/good.jpg)
 
-![One confusing thing]({filename}/images/confusing.jpg)
+![One confusing thing]({static}/images/confusing.jpg)
 
 The pre- and post-workshop surveys we did seem to indicate we are doing something right. In response to "I can write a small program/script/macro to solve a problem in my own work." the pre-workshop survey results had showed 46% of learners strongly disagreed with that statement, 23% agree, and 0% strongly agree. Post-workshop those numbers changed to 14% strongly disagree, 43% agree, and 29% strongly agree. I encourage all the participants to continue practicing their data science skills, and I hope they enjoy their summer.

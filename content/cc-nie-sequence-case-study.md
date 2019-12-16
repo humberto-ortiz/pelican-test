@@ -29,7 +29,7 @@ obtaining a maximum throughput of 127 Mbps, in March 2012.
 
 
 <div class="figure">
-<p><img src="{filename}/images/hpcf-0312.png" alt="hpcf-0312.png" />
+<p><img src="{static}/images/hpcf-0312.png" alt="hpcf-0312.png" />
 </p>
 <p><span class="figure-number">Figure 1:</span> Total traffic to the HPCf in March 2012, showing a partial transfer of 500 GB sequencing data.</p>
 </div>
@@ -44,7 +44,7 @@ transfer. In February 2013, prior to the establishment of the
 
 
 <div class="figure">
-<p><img src="{filename}/images/hpcf-iotest-2-Interface_103-Traffic-Day.gif" alt="hpcf-iotest-2-Interface_103-Traffic-Day.gif" />
+<p><img src="{static}/images/hpcf-iotest-2-Interface_103-Traffic-Day.gif" alt="hpcf-iotest-2-Interface_103-Traffic-Day.gif" />
 </p>
 <p><span class="figure-number">Figure 2:</span> Total traffic to the HPCf February 4-5, 2013. This traffic includes tests of Globus Connect with a 50 GB test data set.</p>
 </div>
@@ -86,14 +86,14 @@ the HPCf runs around 300 Mbps, transfers from HPCf to UPR-RP ran over
 
 
 <div class="figure">
-<p><img src="{filename}/images/rrp-0801-Interface_55-Traffic-Day.gif" alt="rrp-0801-Interface_55-Traffic-Day.gif" />
+<p><img src="{static}/images/rrp-0801-Interface_55-Traffic-Day.gif" alt="rrp-0801-Interface_55-Traffic-Day.gif" />
 </p>
 <p><span class="figure-number">Figure 3:</span> Total campus traffic on August 1, 2014, showing bulk transfers with Globus Connect in both directions.</p>
 </div>
 
 
 <div class="figure">
-<p><img src="{filename}/images/hpcf-0801-Interface_103-Traffic-Day.gif" alt="hpcf-0801-Interface_103-Traffic-Day.gif" />
+<p><img src="{static}/images/hpcf-0801-Interface_103-Traffic-Day.gif" alt="hpcf-0801-Interface_103-Traffic-Day.gif" />
 </p>
 <p><span class="figure-number">Figure 4:</span> Total traffic at the HPCf on August 1, 2014.</p>
 </div>
