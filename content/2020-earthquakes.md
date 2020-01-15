@@ -28,3 +28,9 @@ in his twitter feed. His [R code is available on github](https://github.com/RJNu
 # Results
 
 ![Plot of magnitude vs time for the southwest Puerto Rico region]({static}/images/temblores.png)
+
+# Update
+
+I made a [live javascript page](https://ccom.uprrp.edu/~humberto/temblores) that
+queries the most recent data and plots it. The [code for the
+page](https://github.com/humberto-ortiz/temblores) is up on github.
