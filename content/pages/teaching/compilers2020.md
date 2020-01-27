@@ -13,15 +13,15 @@ Department of Computer Science<br>
 
 ## Professor
 
-| Field            | Value                                           |
-|----------|---------------------------|
+| Field        | Value                               |
+|--------------|-------------------------------------|
 | Name         | Humberto Ortiz-Zuazaga              |
 | Office       | NCL A-159                           |
 | Laboratory   | NCL A-158                           |
 | Telephone    | 787-764-0000 x88363                 |
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
-| Office hours | Tuesday, Thursday 8:30-10:00 AM      |
+| Office hours | Tuesday, Thursday 8:30-10:00 AM     |
 |              | or by appointment                   |
 
 ## Credits
@@ -92,21 +92,29 @@ A-143. In UPR-RP attendance is compulsory.
 
 ## Calendar
 
-| Date   | Topic        | Reading | Assignment  |
-|--------|--------------|---------|-------------|
-| Jan | Introduction | Ch 1    | [depython]({filename}compilers2019/depython.md) |
-| Jan | Lexical Analysis | Ch 2| [lexer]({filename}compilers2019/lexer.md) |
-| Feb | Parsing | Ch 3 |[parser]({filename}compilers2019/parser.md) |
-| Feb | Abstract Syntax Trees | Ch 4 | [AST]({filename}compilers2019/ast.md) |
-| Mar | Semantic Analysis | Ch 5 | [semantic]({filename}compilers2019/semantic.md) |
-| Mar | Instruction Generation | Ch 9 | [instructions]({filename}compilers2019/instr.md) |
-| Apr | Stack Frames | Ch 6 | | 
-| Apr | Intermediate Code | Ch 7 | intermediate |
-| Apr | Spring break | | |
-| Apr | Basic Blocks and Traces | Ch 8 | |
-| Apr | Liveness Analysis | Ch 10 | |
-| May | Register Allocation | Ch 11 | |
-| May | Final Form | Ch 12 | | 
+Rio Piedras [delayed the start of classes until January 27,
+2020](http://www.uprrp.edu/2020/01/informe-de-situacion-actual-del-recinto-de-rio-piedras-luego-de-los-recientes-sismos/)
+due to the [earthquakes](https://ccom.uprrp.edu/~humberto/temblores/).
+
+| Date           | Topic                       | Reading                                                                                                                                                                | Assignment                                      |
+|----------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Jan 28-30      | Introduction to OCaml       | [Learn OCaml in Y minutes](https://learnxinyminutes.com/docs/ocaml/)                                                                                                   |                                                 |
+| Feb 4          | Introduction                | [Lecture 1](https://course.ccs.neu.edu/cs4410sp19/lec_intro_notes.html)                                                                                                | [depython]({filename}compilers2020/depython.md) |
+| Feb 6          | Toy compiler                | [Lecture 2](https://course.ccs.neu.edu/cs4410sp19/lec_neonate_notes.html)                                                                                              |                                                 |
+| Feb 11-13      | Lexing and Parsing          | [Real World OCaml Parsing](http://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)                                                                        | parser                                          |
+| Feb 18-20      | "variables" and stacks      | [Lecture 3](https://course.ccs.neu.edu/cs4410sp19/lec_let-and-stack_notes.html)                                                                                        | let compiler                                    |
+| Feb 25-27      | Conditional expressions     | [Lecture 4](https://course.ccs.neu.edu/cs4410sp19/lec_anf_notes.html)                                                                                                  | if compiler                                     |
+| Mar 3-5        | Types                       | [Lecture 5](https://course.ccs.neu.edu/cs4410sp19/lec_tagging-values_notes.html)                                                                                       |                                                 |
+| Mar 10-12      | Function calls              | [Lecture 6](https://course.ccs.neu.edu/cs4410sp19/lec_function-calls_notes.html)                                                                                       |                                                 |
+| Mar 17-19      | Function definitions        | [Lecture 7](https://course.ccs.neu.edu/cs4410sp19/lec_function-defs_notes.html)                                                                                        | function compiler                               |
+| Mar 24-26      | Type checking and inference | [Lecture 10](https://course.ccs.neu.edu/cs4410sp19/lec_type-checking_notes.html) and [Lecture 11](https://course.ccs.neu.edu/cs4410sp19/lec_type-inference_notes.html) |                                                 |
+| Mar 31 - Apr 2 | Pairs and the heap          | [Lecture 12](https://course.ccs.neu.edu/cs4410sp19/lec_tuples_notes.html)                                                                                              |                                                 |
+| Apr 7          | Mutable tuples              | [Lecture 13](https://course.ccs.neu.edu/cs4410sp19/lec_mutable-tuples_notes.html)                                                                                      |                                                 |
+| Apr 9-11       | Spring break                |                                                                                                                                                                        |                                                 |
+| Apr 14-16      | First class functions       | [Lecture 14](https://course.ccs.neu.edu/cs4410sp19/lec_lambdas_notes.html)                                                                                             |                                                 |
+| Apr 21-23      | Objects                     | [Lecture 15](https://course.ccs.neu.edu/cs4410sp19/lec_objects_notes.html)                                                                                             |                                                 |
+| Apr 28-30      | Optimization                |                                                                                                                                                                        |                                                 |
+| May            | Advanced topics             |                                                                                                                                                                        |                                                 |
 
 ### Alternative Teaching Methods
 
