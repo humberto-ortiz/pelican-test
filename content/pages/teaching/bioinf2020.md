@@ -1,4 +1,4 @@
-Title: MATH 6685 - Computer Applications in Biology - Spring 2020
+Title: MATH 6685/CCOM 4995 - Computer Applications in Biology - Spring 2020
 date: 2019-12-25
 category: Teaching
 tags: hacking, learning
@@ -13,8 +13,8 @@ Department of Computer Science<br>
 
 ## Professor
 
-| Field | Value |
-|-----|-----|
+| Field        | Value                               |
+|--------------|-------------------------------------|
 | Name         | Humberto Ortiz-Zuazaga              |
 | Office       | NCL A-159                           |
 | Laboratory   | NCL A-158                           |
@@ -30,11 +30,11 @@ Department of Computer Science<br>
 
 ## Description
 
-Introductory graduate course in bioinformatics to be offered Spring
-2017 in UPR-RP. Topics covered will include biological sequences,
-programming in python, UNIX, sequence alignments, sequence phylogeny,
-sequence database searches, and gene expresion analysis, including
-microarray and RNA-Seq analysis, and gene set or pathway analysis.
+Introductory graduate/undergraduate course in bioinformatics. Topics covered
+will include biological sequences, programming in python, UNIX, sequence
+alignments, sequence phylogeny, sequence database searches, and gene expresion
+analysis, including microarray and RNA-Seq analysis, and gene set or pathway
+analysis.
 
 We will emphasize the fundamental theory behind the analysis, and also
 present practical problems and their solutions. The course will use
@@ -66,23 +66,23 @@ bioinformatic problems and participate in their development.
 
 The proposed schedule of lectures, subject to change:
 
-| Date     | Topic           | Reading |
-|----------|-----------------|---------|
-| Jan 18 | Introduction: History of Bioinformatics | Chapter 1, 2 | 
-| Jan 23 |	  Ethical Issues in Bioinformatics | [web page](http://www.hpcf.upr.edu/~humberto/presentations/bioethics.html) |
-| Jan 25, 30 |	  Sequences: Nucleic Acids and Proteins | Chapter 3 |
-| Feb 1, 6 |	  Computer platforms used in sequence analysis | |
-| Feb 8, 13 |	  Brute force - Restriction mapping | Chapter 4 |
-| Feb 15, 20 | 	  Greedy algorithms - Gene order | Chapter 5 |
-| Feb 22 - Mar 1 | Dynamic Programming - Pairwise Sequence Alignment | Chapter 6 |
-| Mar 6 |	  First Partial Exam | |
-| Mar 8-15 |	  Graph Algorithms - Sequence Assembly | Chapter 8 |
-| Mar 20-22 |	  Combinatorial Pattern Matching - Fasta and BLAST | Chapter 9 |
-| Mar 27 - Apr 3 | Clustering and Trees- Phylogeny | Chapter 10 |
-| Apr 5 |	  Functional Genomics: Microarrays | |
-| Apr 10-17 | Statistical Methods for Analysis of Microarray Data | |
-| Apr 19-26 | Gene Regulatory Networks: Reverse Engineering | |
-| May 1 |	  Second Partial Exam | |
+| Date           | Topic                                               | Reading                                                                    |
+|----------------|-----------------------------------------------------|----------------------------------------------------------------------------|
+| Jan 30         | Introduction: History of Bioinformatics             | Chapter 1, 2                                                               |
+| Jan 31     | Ethical Issues in Bioinformatics                    | [web page](http://www.hpcf.upr.edu/~humberto/presentations/bioethics.html) |
+| Feb 6-7     | Sequences: Nucleic Acids and Proteins               | Chapter 3                                                                  |
+| Feb 13-14      | Computer platforms used in sequence analysis        |                                                                            |
+| Feb 20-21      | Brute force - Restriction mapping                   | Chapter 4                                                                  |
+| Feb 27-28      | Greedy algorithms - Gene order                      | Chapter 5                                                                  |
+| Mar 5,6,12     | Dynamic Programming - Pairwise Sequence Alignment   | Chapter 6                                                                  |
+| Mar 13         | First Partial Exam                                  |                                                                            |
+| Mar 19,20,26   | Graph Algorithms - Sequence Assembly                | Chapter 8                                                                  |
+| Apr 2-3        | Combinatorial Pattern Matching - Fasta and BLAST    | Chapter 9                                                                  |
+| Apr 16-17      | Clustering and Trees- Phylogeny                     | Chapter 10                                                                 |
+| Apr 5          | Functional Genomics: Microarrays                    |                                                                            |
+| Apr 23-24      | Statistical Methods for Analysis of Gene Expression |                                                                            |
+| Apr 30, May 1  | Gene Regulatory Networks: Reverse Engineering       |                                                                            |
+| May 7-15       | Presentations                                       |                                                                            |
 
 ## Instructional strategies
 
@@ -98,8 +98,8 @@ our polls and forum postings.
 
 ## Textbook:
 
-<a href="https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms">An Introduction to Bioinformatics Algorithms</a>
-Neil C. Jones and Pavel A. Pevzner
+<a href="https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms">An Introduction to Bioinformatics Algorithms</a>.
+Neil C. Jones and Pavel A. Pevzner.
 ISBN-10:
 0-262-10106-8
 ISBN-13:
@@ -111,7 +111,8 @@ Students work will be evaluated on a 100% basis with the standard curve.
 
 -        Participation in course forums (online, classroom), 25% final grade
 -        Homework, 25% final grade
--        Two partial exams, 50% final grade
+-        Partial exam, 25% final grade
+-        Final presentation, 25% final grade
 
 
 ## Reasonable accomodations for students
@@ -165,9 +166,10 @@ Title IX for an orientation and/or a formal complaint.
 
 ## References
 
-1. Neil C. Jones and Pavel A. Pevzner. An Introduction to
-Bioinformatics Algorithms. The MIT Press, Cambridge, Massachusetts,
-2004. ISBN-10: 0-262-10106-8 ISBN-13: 978-0-262-10106-6.
+1. Neil C. Jones and Pavel A. Pevzner. 
+An Introduction to Bioinformatics Algorithms. 
+The MIT Press, Cambridge, Massachusetts, 2004. 
+ISBN-10: 0-262-10106-8 ISBN-13: 978-0-262-10106-6.
 
 1. Introduction to Computational Biology: Maps, sequences and
 genomes. Michael S. Waterman. Chapman & Hall/CRC. 1995.
