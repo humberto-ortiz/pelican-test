@@ -21,7 +21,7 @@ Department of Computer Science<br>
 | Telephone    | 787-764-0000 x88363                 |
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
-| Office hours | Tuesday, Thursday 8:30-10:00 AM     |
+| Office hours | Monday, Wednesday 10:00 AM - 12:00 PM    |
 |              | or by appointment                   |
 
 ## Credits
@@ -115,7 +115,7 @@ due to the [earthquakes](https://ccom.uprrp.edu/~humberto/temblores/).
 | Apr 21-23      | Objects                     | [Lecture 15](https://course.ccs.neu.edu/cs4410sp19/lec_objects_notes.html)                                                                                             |                                                 |
 | Apr 28-30      | Optimization                |                                                                                                                                                                        |                                                 |
 | May            | Advanced topics             |                                                                                                                                                                        |                                                 |
-
+ 
 ### Alternative Teaching Methods
 
 Certification No. 112 (2014-2015) of the Governing Board defines a
@@ -171,12 +171,12 @@ Students work will be evaluated on a 100% basis with the standard curve.
 
 ## Reasonable accomodations for students
 
-Students with disabilities properly registered with the Office of
-Affairs for Persons with Disabilities
-[Oficina de Asuntos para la Persona con Impedimento (O.A.P.I.)](http://estudiantes.uprrp.edu/impedimentos/impedimentos.php)
+Students with disabilities properly registered with the
+Office of Services for Students with Disabilities,
+[Oficina de Servicios a Estudiantes con Impedimentos (OSEI)](http://estudiantes.uprrp.edu/servicios-al-estudiante/oapi/),
 should notify the professor at the start of the semester. The
 professor will make reasonable accommodations to support the student,
-in consultation with OAPI.
+in consultation with OSEI.
 
 ## Academic integrity
 

@@ -21,7 +21,7 @@ Department of Computer Science<br>
 | Telephone    | 787-764-0000 x88363                 |
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
-| Office hours | Monday, Wednesday 8:00-9:30 AM      |
+| Office hours | Monday, Wednesday 10:00 AM - 12:00 PM      |
 |              | or by appointment                   |
 
 ## Credits
@@ -117,12 +117,12 @@ Students work will be evaluated on a 100% basis with the standard curve.
 
 ## Reasonable accomodations for students
 
-Students with disabilities properly registered with the Office of
-Affairs for Persons with Disabilities
-[Oficina de Asuntos para la Persona con Impedimento (O.A.P.I.)](http://estudiantes.uprrp.edu/impedimentos/impedimentos.php)
+Students with disabilities properly registered with the
+Office of Services for Students with Disabilities,
+[Oficina de Servicios a Estudiantes con Impedimentos (OSEI)](http://estudiantes.uprrp.edu/servicios-al-estudiante/oapi/),
 should notify the professor at the start of the semester. The
 professor will make reasonable accommodations to support the student,
-in consultation with OAPI.
+in consultation with OSEI.
 
 ## Academic integrity
 
