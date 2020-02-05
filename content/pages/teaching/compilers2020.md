@@ -169,54 +169,56 @@ Students work will be evaluated on a 100% basis with the standard curve.
 -        Compiler project, 25% final grade
 
 
-## Reasonable accomodations for students
+## REGULATION ON DISCRIMINATION BY SEX AND GENDER IN THE FORM OF SEXUAL VIOLENCE
 
-Students with disabilities properly registered with the
-Office of Services for Students with Disabilities,
-[Oficina de Servicios a Estudiantes con Impedimentos (OSEI)](http://estudiantes.uprrp.edu/servicios-al-estudiante/oapi/),
-should notify the professor at the start of the semester. The
-professor will make reasonable accommodations to support the student,
-in consultation with OSEI.
+The University of Puerto Rico prohibits discrimination based on sex, sexual
+orientation, and gender identity in any of its forms, including that of sexual
+harassment. According to the Institutional Policy Against Sexual Harassment at
+the University of Puerto Rico, Certification Num. 130, 2014-2015 from the Board
+of Governors, any student subjected to acts constituting sexual harassment, must
+tum to the Office of the Student Ombudsperson, the Office of the Dean of
+Students, and/or the Coordinator of the Office of Compliance with Title IX for
+an orientation and/or a formal complaint.
 
-## Academic integrity
+## REASONABLE ACCOMMODATION
 
->    The University of Puerto Rico promotes the highest standards of
->    academic and scientific integrity. Article 6.2 of the UPR Student
->    Bylaws (Certification JS 13 2009–2010) states that “academic
->    dishonesty includes but is not limited to: fraudulent actions,
->    obtaining grades or academic degrees using false or fraudulent
->    simulations, copying totally or partially academic work from
->    another person, plagiarizing totally or partially the work of
->    another person, copying totally or partially responses from
->    another person to examination questions, making another person to
->    take any test, oral or written examination on his/hers behalf, as
->    well as assisting or facilitating any person to incur in the
->    aforementioned conduct”. Fraudulent conduct refers to “behavior
->    with the intent to defraud, including but not limited to,
->    malicious alteration or falsification of grades, records,
->    identification cards or other official documents of the UPR or
->    any other institution.” Any of these actions shall be subject to
->    disciplinary sanctions in accordance with the disciplinary
->    procedure, as stated in the existing UPR Student Bylaws.
+The University of Puerto Rico complies with all state and federal laws and
+regulations related to discrimination, including “The American Disabilities Act”
+(ADA law) and Law #51 from the Puerto Rico Commonwealth (Estado Libre Asociado
+de Puerto Rico). Every student has the right to request and receive reasonable
+accommodation and Vocational Rehabilitation Services (VRS). Those students with
+special needs that require some type of particular assistance or accommodation
+shall explicitly communicate it directly to the professor. Students who are
+receiving VRS services shall communicate it to the professor at the beginning of
+the semester so that appropriate planning and the necessary equipment may be
+requested according to the Disabilities Persons Affairs Office (Oficina de
+Servicios a Estudiantes con Impedimentos –OSEI) from the Students’ Deanship
+office. Any other student requiring assistance or special accommodation shall
+also communicate directly with the professor. Reasonable accommodations requests
+or services DO NOT exempt the student from complying and fulfilling academic and
+course related requirements and responsibilities.
 
-DISCLAIMER: The above statement is an English translation, prepared at
-the Deanship of Academic Affairs of the Medical Sciences Campus, of
-certain parts of Article 6.2 of the UPR Student Bylaws “Reglamento
-General de Estudiantes de la Universidad de Puerto Rico”,
-(Certificación JS 13 2009-2010). It is in no way intended to be a
-legal substitute for the original document, written in Spanish.
+## ACADEMIC INTEGRITY
 
-## Policy on sexual discrimination or harassment
+The University of Puerto Rico promotes the highest standards of academic and
+scientific integrity. Article 6.2 of the UPR Students General Bylaws (Board of
+Trustees Certification 13, 2009-2010) states that academic dishonesty includes,
+but is not limited to: fraudulent actions; obtaining grades or academic degrees
+by false or fraudulent simulations; copying the whole or part of the academic
+work of another person; plagiarizing totally or partially the work of another
+person; copying all or part of another person answers to the questions of an
+oral or written exam by taking or getting someone else to take the exam on
+his/her behalf; as well as enabling and facilitating another person to perform
+the aforementioned behavior. Any of these behaviors will be subject to
+disciplinary action in accordance with the disciplinary procedure laid down in
+the UPR Students General Bylaws.
 
-The University of Puerto Rico prohibits discrimination based on sex,
-sexual orientation, and gender identity in any of its forms, including
-that of sexual harassment. According to the Institutional Policy
-Against Sexual Harassment at the University of Puerto Rico,
-Certification Num. 130, 2014-2015 from the Board of Governors, any
-student subjected to acts constituting sexual harassment, may turn to
-the Office of the Student Ombudsperson, the Office of the Dean of
-Students, and/or the Coordinator of the Office of Compliance with
-Title IX for an orientation and/or a formal complaint.
+To ensure user data integrity and security, hybrid and distance education
+courses are offered through the institutional learning management system, which
+employs secure connection and authentication protocols. The system authenticates
+the users’ identity with the username and password of their institutional
+accounts. Users are responsible for keeping their password secure and not
+sharing with others.
 
 ## References
 
