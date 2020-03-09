@@ -459,6 +459,20 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 
 ### Conferences
 
+1. Briknie Báez Rodríguez; Luis F. Mieses Gómez; **Humberto
+   Ortiz-Zuazaga**. Diffhash, a More Efficient Way of Finding
+   Differentially Expressed Genes. XXXV Seminario Interuniversitario
+   de Investigación en Ciencias Matemáticas. University of Puerto
+   Rico, Cayey, Puerto Rico. March 6-7, 2020.
+
+1. Miguel A. Hernández-Betancourt, Juan F. Hernández-José, Roberto
+   C. Lopéz-Rivera, Humberto G. Ortiz-Zuazaga. Autoencoders vs LASSO:
+   Applications To Breast Cancer Research.  XXXV Seminario
+   Interuniversitario de Investigación en Ciencias
+   Matemáticas. University of Puerto Rico, Cayey, Puerto Rico. March
+   6-7, 2020.
+
+
 1. Sebastian Cruz-Gonzalez, David Quispe-Parra, **Humberto
    Ortiz-Zuazaga** and Jose E. Garcia-Arraras.  “Gene set enrichment
    analysis of early intestinal regeneration in the sea cucumber
