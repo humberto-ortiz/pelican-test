@@ -459,6 +459,18 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 
 ### Conferences
 
+1. David Quispe, Sebastián Cruz, Joshua Medina, **Humberto Ortiz-Zuazaga** and
+   José García-Arrarás. Differential Gene Expression during Early Stages of
+   Regeneration in Holothuria glaberrima. Accepted for presentation at RECOMB
+   2020 (The 24th International Conference on Research in Computational
+   Molecular Biology). Padova, Italy. 2020.
+
+1. Sebastian Cruz-Gonzalez, Eduardo Quesada-Diaz, **Humberto Ortiz-Zuazaga** and
+   Jose Garcia-Arraras. Identification and characterization of genes of the
+   Central Nervous System of the sea cucumber Holothuria glaberrima. Accepted
+   for presentation at RECOMB 2020 (The 24th International Conference on
+   Research in Computational Molecular Biology). Padova, Italy. 2020.
+
 1. Briknie Báez Rodríguez; Luis F. Mieses Gómez; **Humberto
    Ortiz-Zuazaga**. Diffhash, a More Efficient Way of Finding
    Differentially Expressed Genes. XXXV Seminario Interuniversitario
@@ -466,7 +478,7 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
    Rico, Cayey, Puerto Rico. March 6-7, 2020.
 
 1. Miguel A. Hernández-Betancourt, Juan F. Hernández-José, Roberto
-   C. Lopéz-Rivera, Humberto G. Ortiz-Zuazaga. Autoencoders vs LASSO:
+   C. Lopéz-Rivera, **Humberto G. Ortiz-Zuazaga**. Autoencoders vs LASSO:
    Applications To Breast Cancer Research.  XXXV Seminario
    Interuniversitario de Investigación en Ciencias
    Matemáticas. University of Puerto Rico, Cayey, Puerto Rico. March
