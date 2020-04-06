@@ -4,8 +4,7 @@ save_as: index.html
 
 <div class="jumbotron"> <p> I'm an Associate  Professor of <a
 href="//ccom.uprrp.edu/">Computer Science</a> in the <a
-href="http://www.uprrp.edu/">UPRRP</a>, and Adjunct Professor at the
-<a href="http://www.rcm.upr.edu/">UPR-RCM</a>. I am also the Director,
+href="http://www.uprrp.edu/">UPRRP</a>. I am also the Director,
 <a
 href="{filename}programmer-archaeologist.md">Programmer-Archaeologist</a>,
 and <a href="{filename}troglodita.md">resident troglodyte</a> of the

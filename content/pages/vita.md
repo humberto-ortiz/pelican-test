@@ -59,7 +59,7 @@ Piedras Campus, University of Puerto Rico, January 21, 2010 to June 30, 2015.
 
 Adjunct Professor
 : Deanship for Academic Affairs, Medical
-Sciences Campus, University of Puerto Rico, since January 21, 2010.
+Sciences Campus, University of Puerto Rico, January 21, 2010 to December 31, 1010.
 
 Director
 : High Performance Computing facility, University of
