@@ -82,7 +82,7 @@ The proposed schedule of lectures, subject to change:
 | Apr 5          | Functional Genomics: Microarrays                    |                                                                            |
 | Apr 23-24      | Statistical Methods for Analysis of Gene Expression |                                                                            |
 | Apr 30, May 1  | Gene Regulatory Networks: Reverse Engineering       |                                                                            |
-| May 7-15       | Presentations                                       |                                                                            |
+| May 7-15       | [Final Projects]({filename}bioinf2020/project.md)                                       |                                                                            |
 
 ### Alternative Teaching Methods
 
