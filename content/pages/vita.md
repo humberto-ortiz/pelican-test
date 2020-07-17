@@ -1057,11 +1057,11 @@ conjunction with the bioinfomatics core personnel, bioinformatics
 support for INBRE researchers.  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9282454&icde=35427079>
 
-1. UPR/MDACC Partnership for Excellence in Cancer Research
-NIH National Cancer Institute U54CA096297
-PI: Brad R. Weiner, Reynold Lopez-Enriquez, Ana Patricia Ortiz, Elizabeth L. Travis
-Role on Project: Bioinformatics director, Data and Omics Science Core. 
-Funds: $13M
+1. UPR/MDACC Partnership for Excellence in Cancer Research  
+NIH National Cancer Institute U54CA096297  
+PI: Brad R. Weiner, Reynold Lopez-Enriquez, Ana Patricia Ortiz, Elizabeth L. Travis  
+Role on Project: Bioinformatics director, Data and Omics Science Core.  
+Funds: $13M  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9848093&icde=4757569> 
 
 ### Completed Research Support
@@ -1105,8 +1105,8 @@ NIH	NIGMS P20GM103475
 PI:  José Rodriguez Medina  
 Start date: August 1, 2009  
 End Date July 31, 2014  
-Funds $18,050,756  
-Role on project: Director of the Bioinformatics Resource Center (BiRC), providing bioinformatics hardware, software and consulting support to all INBRE researchers in Puerto Rico, at all INBRE institutions on the island.  This grant was awarded in 2001 with $4M in NCRR funding, and was successfully renewed in 2004 for 5 years and $10M. A third cycle has been awarded in 2009 for an additional 5 years at $18M.
+Funds: USD 18,050,756  
+Role on project: Director of the Bioinformatics Resource Center (BiRC), providing bioinformatics hardware, software and consulting support to all INBRE researchers in Puerto Rico, at all INBRE institutions on the island.  This grant was awarded in 2001 with USD 4M in NCRR funding, and was successfully renewed in 2004 for 5 years and USD 10M. A third cycle has been awarded in 2009 for an additional 5 years at USD 18M.
 
 1. EPSCoR Research Infrastructure Improvement Track 1  
 NSF Award # EPS-0701525  
