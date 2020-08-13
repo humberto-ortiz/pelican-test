@@ -467,6 +467,13 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 
 ### Conferences
 
+1. Patricia Ordóñez Franco, Juan S. Ramírez-Lugo, **Humberto Ortiz Zuazaga**,
+   Maria-Eglée Pérez Hernández, Luis Raul Pericchi and José E. García Arrarás
+   Enhancing Undergraduate Education and Curriculum through an Interdisciplinary
+   and Quantitative Initiative to Broaden Participation in Big Data. Virtual
+   presentation at LACCEI 2020: 18TH LACCEI INTERNATIONAL MULTI-CONFERENCE FOR
+   ENGINEERING, EDUCATION, AND TECHNOLOGY. July 28, 2020.
+
 1. David Quispe, Sebastián Cruz, Joshua Medina, **Humberto Ortiz-Zuazaga** and
    José García-Arrarás. Differential Gene Expression during Early Stages of
    Regeneration in Holothuria glaberrima. Accepted for presentation at RECOMB
