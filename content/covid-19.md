@@ -47,4 +47,4 @@ One of these days I'll turn it into a web app.
 
 I hope infection rates continue to fall and we can consider reopening campus.
 Rafa Irizarry is publishing great plots on rates of positivity,
-hospitalizations, and more at <https://tpr.covidpr.info>.
+hospitalizations, and more at <http://tpr.covidpr.info>.
