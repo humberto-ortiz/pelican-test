@@ -49,9 +49,13 @@ in chemistry, 1983-1987.
 
 ## Experience
 
+Professor
+: Department of Computer Science, Rio Piedras Campus, University of Puerto Rico,
+  since August 25, 2020.
+
 Associate Professor
 : Department of Computer Science, Rio
-Piedras Campus, University of Puerto Rico, since July 1, 2015.
+Piedras Campus, University of Puerto Rico, July 1, 2015 to August 25, 2020.
 
 Assistant Professor
 : Department of Computer Science, Rio
