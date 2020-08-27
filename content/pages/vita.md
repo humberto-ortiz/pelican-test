@@ -191,8 +191,8 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ### Book Chapters
 
-1. Ordóñez Franco P., Pérez Hernández M.E., Ortiz-Zuazaga H., García Arrarás J.
-   (2020) Building a Data Science Program Through Hackathons and Informal
+1. Ordóñez Franco P., Pérez Hernández M.E., **Ortiz-Zuazaga H.**, García Arrarás
+   J. (2020) Building a Data Science Program Through Hackathons and Informal
    Training in Puerto Rico. In: Celi L., Majumder M., Ordóñez P., Osorio J.,
    Paik K., Somai M. (eds) Leveraging Data Science for Global Health. Springer,
    Cham. <https://doi.org/10.1007/978-3-030-47994-7_29>
