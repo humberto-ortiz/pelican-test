@@ -20,11 +20,11 @@ airplane, because the only system that had the same hardware issues
 ours had was in a hurricane hunter airplane. (I think the alternate
 rounds of heating and cooling popped a part loose on ours).
 
-After Hurricane Maria, we spent several months without power, and we
-used a variety of alternative energy sources. A small inverter hooked
-up to a running car engine, an inverter with a 100W solar panel and
-battery, a portable generator. These energy sources have continued to
-be useful, the power in Puerto Rico hasn't been the most stable.
+After Hurricane Maria, we spent several months without power, and we used a
+variety of alternative energy sources. A small inverter hooked up to a running
+car engine, an inverter with a [100W solar panel]({filename}solar-panel.md) and
+battery, a portable generator. These energy sources have continued to be useful,
+the power in Puerto Rico hasn't been the most stable.
 
 As I've used these sources, I've also looked at computing. A 13" or
 15" laptop can draw 85-100 watts, about the same as an electric
