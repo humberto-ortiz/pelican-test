@@ -2,7 +2,7 @@ Title: Welcome
 Slug: welcome
 save_as: index.html
 
-<div class="jumbotron"> <p> I'm an Associate  Professor of <a
+<div class="jumbotron"> <p> I'm an Professor of <a
 href="//ccom.uprrp.edu/">Computer Science</a> in the <a
 href="http://www.uprrp.edu/">UPRRP</a>. I am also the Director,
 <a
