@@ -54,13 +54,15 @@ out).
 # Android OTG
 
 Working on the kindle is OK, but it's a little slow. Android phones and tablets
-have a bit more oomph, and with termux, a linux environment is available. Termux
+have a bit more oomph, and with [termux](https://termux.com/), a linux
+environment is available. There's python, a C compiler, emacs, vi. I downloaded
+the dropbear ssh package, and can connect to remote computers with ssh. Termux
 supports USB On-The-Go (OTG), so I bought a little micro USB OTG cable and can
-plug a keyboard into a phone or tablet and run [termux](https://termux.com/).
-This will actually make a nice front-end for a raspberry pi, and power is OK.
-The only issue is with my cable I can't charge the phone or tablet while I'm
-using it. A forced break every once in a while isn't much of a price to pay for
-low power computing.
+plug a keyboard into a phone or tablet. This will actually make a nice front-end
+for a raspberry pi, and power is OK. The only issue is with my cable I can't
+charge the phone or tablet while I'm using it. A forced break every once in a
+while isn't much of a price to pay for low power computing, and might actually
+be considered a feature.
 
 # Official Raspberry pi touchscreen
 
