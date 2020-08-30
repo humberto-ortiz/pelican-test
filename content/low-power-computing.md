@@ -1,6 +1,7 @@
 Title: Low-power computing
 Slug: low-power-computing
 Date: 2020-08-27 11:22:41
+Modified: 2020-08-29 21:26:15
 Category: Blog
 Tags: hacking, learning
 
@@ -70,13 +71,11 @@ I likes the pi enough I decided to get another one. I got a rpi 4,
 with a case and the official 7" touchscreen. The rpi4 comes with 2, 4,
 or even 8 GB RAM, which is more than my personal laptop. It also wants
 more power, moving to USB-C connectors, and the recommended power
-supply is 3.5 A.
+supply is 3.5A.
 
-I bought a 3.1 A car USB-C charger, but it can't run the pi 4 off the solar
-panel. I want to see if I can get another charger or run power to the screen and
-the pi separately. I can run the pi off the inverter, but that's basically
-converting 12V DC to 120 V AC, then back to 5V DC. I'd rather go straight 12V-5V
-DC. I figure 15W can keep me running, and have power left over to charge the
-battery. I hope I can continue to communicate and compute after the next storm.
-Laura missed us, but there's already another wave coming off the coast of
-Africa, and another in the MDR.
+I bought a 3.1A car USB-C charger, it has USB-A and USB-C connectors,
+so I can run power to the screen and the pi separately. I figure 15W
+can keep me running, and have power left over to charge the battery. I
+hope I can continue to communicate and compute after the next storm.
+Laura missed us, but there's already another wave coming off the coast
+of Africa, and another in the MDR.
