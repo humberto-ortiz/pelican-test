@@ -197,6 +197,13 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    Paik K., Somai M. (eds) Leveraging Data Science for Global Health. Springer,
    Cham. <https://doi.org/10.1007/978-3-030-47994-7_29>
 
+### Manuscripts
+
+1. David J. Quispe-Parra, Joshua Medina-Feliciano, Sebastián Cruz-González,
+   **Humberto Ortiz-Zuazaga**, José E. García-Arrarás. Transcriptomic Analysis
+   of Early Stages of Intestinal Regeneration in *Holothuria glaberrima*.
+   Submitted to Scientific Reports on 13 September 2020.
+
 ### Journal Articles
 
 1. Pedraza-Marrón, Carmen; Silva, Raimundo; Deeds, Johnathan ; Van
@@ -779,6 +786,10 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
     2019 (Version v2019.06.1). Zenodo. <http://doi.org/10.5281/zenodo.3246985>
  
 ## Invited Talks
+
+1. **Ortiz-Zuazaga, Humberto** (2020): Detection of Anomalies in Network
+   Traffic. Online seminar for Women in Cybersecurity, University of Puerto Rico
+   , Bayamon Campus. Puerto Rico, September 17, 2020.
 
 1. **Ortiz-Zuazaga, Humberto** (2019): A short introduction to LaTeX. Workshop
    (based on [material by Andre
