@@ -790,6 +790,13 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
 1. **Ortiz-Zuazaga, Humberto** (2020): Detection of Anomalies in Network
    Traffic. Online seminar for Women in Cybersecurity, University of Puerto Rico
    , Bayamon Campus. Puerto Rico, September 17, 2020.
+   
+!. **Humberto Ortiz-Zuazaga**, Patricia Ordoñez, Sofia Melendez, Wilson Lozano.
+    Helpers: Sebastian Cruz Gonzalez, Joshua Medina Feliciano, Laura Ospina,
+    David Quispe, Dayanlee de Leon-Cordero, José Constantino Sánchez Curet,
+    Christopher L. Ayala-Griffin. IQ-BIO-REU Software Carpentry Workshop.
+    Offered online June 1-5 and 8-9, 2020.
+    <https://idi-bd2k.github.io/2020-06-01-puerto-rico/>
 
 1. **Ortiz-Zuazaga, Humberto** (2019): A short introduction to LaTeX. Workshop
    (based on [material by Andre
