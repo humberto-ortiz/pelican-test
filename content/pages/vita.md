@@ -791,7 +791,7 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
    Traffic. Online seminar for Women in Cybersecurity, University of Puerto Rico
    , Bayamon Campus. Puerto Rico, September 17, 2020.
    
-!. **Humberto Ortiz-Zuazaga**, Patricia Ordoñez, Sofia Melendez, Wilson Lozano.
+1. **Humberto Ortiz-Zuazaga**, Patricia Ordoñez, Sofia Melendez, Wilson Lozano.
     Helpers: Sebastian Cruz Gonzalez, Joshua Medina Feliciano, Laura Ospina,
     David Quispe, Dayanlee de Leon-Cordero, José Constantino Sánchez Curet,
     Christopher L. Ayala-Griffin. IQ-BIO-REU Software Carpentry Workshop.
