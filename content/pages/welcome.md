@@ -2,7 +2,7 @@ Title: Welcome
 Slug: welcome
 save_as: index.html
 
-<div class="jumbotron"> <p> I'm a Professor of <a
+<div class="jumbotron"> <p> I'm the Interim Chairperson and a Professor of <a
 href="//ccom.uprrp.edu/">Computer Science</a> in the <a
 href="http://www.uprrp.edu/">UPRRP</a>. I am also the Director,
 <a
@@ -11,12 +11,6 @@ and <a href="{filename}troglodita.md">resident troglodyte</a> of the
 <a href="http://www.hpcf.upr.edu/">UPR High Performance Computing
 facility</a>. My PGP keys <a href="{filename}/pages/keys.md">are
 online</a>.
-
-<p> I did my PhD at the <a href="http://www.uprm.edu/">UPRM</a> <a
-href="http://cisephd.uprm.edu/">CISE program</a>. My dissertation is
-on the analysis of gene expression using microarrays with Oscar
-Moreno.  My <a href="vita.html">CV</a> is online. This set of static
-pages holds links to most of the stuff I do.
 
 </div>
 
