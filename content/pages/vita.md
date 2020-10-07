@@ -49,6 +49,10 @@ in chemistry, 1983-1987.
 
 ## Experience
 
+Interim Chairperson
+: Department of Computer Science, Rio Piedras Campus, University of Puerto Rico,
+  since September 1, 2020.
+
 Professor
 : Department of Computer Science, Rio Piedras Campus, University of Puerto Rico,
   since August 25, 2020.
@@ -203,6 +207,14 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    **Humberto Ortiz-Zuazaga**, José E. García-Arrarás. Transcriptomic Analysis
    of Early Stages of Intestinal Regeneration in *Holothuria glaberrima*.
    Submitted to Scientific Reports on 13 September 2020.
+
+### Preprints
+
+1. David J. Quispe-Parra, Joshua Medina-Feliciano, Sebastián
+   Cruz-González, **Humberto Ortiz-Zuazaga**, José
+   E. García-Arrarás. Transcriptomic Analysis of Early Stages of
+   Intestinal Regeneration in Holothuria glaberrima.  bioRxiv
+   2020.09.23.310599; doi: <https://doi.org/10.1101/2020.09.23.310599>
 
 ### Journal Articles
 
