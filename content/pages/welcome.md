@@ -12,6 +12,10 @@ and <a href="{filename}troglodita.md">resident troglodyte</a> of the
 facility</a>. My PGP keys <a href="{filename}/pages/keys.md">are
 online</a>.
 
+<p>This is my "new" webpage (since 2015, with articles from 2014 and 2013).
+Older stuff is on <a href="https://www.hpcf.upr.edu/~humberto/">my old webpage
+at the HPCf</a>.</p>
+
 </div>
 
 <div class="row">
