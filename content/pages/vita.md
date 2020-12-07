@@ -201,22 +201,12 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
    Paik K., Somai M. (eds) Leveraging Data Science for Global Health. Springer,
    Cham. <https://doi.org/10.1007/978-3-030-47994-7_29>
 
-### Manuscripts
+### Journal Articles
 
 1. David J. Quispe-Parra, Joshua Medina-Feliciano, Sebastián Cruz-González,
    **Humberto Ortiz-Zuazaga**, José E. García-Arrarás. Transcriptomic Analysis
    of Early Stages of Intestinal Regeneration in *Holothuria glaberrima*.
-   Submitted to Scientific Reports on 13 September 2020.
-
-### Preprints
-
-1. David J. Quispe-Parra, Joshua Medina-Feliciano, Sebastián
-   Cruz-González, **Humberto Ortiz-Zuazaga**, José
-   E. García-Arrarás. Transcriptomic Analysis of Early Stages of
-   Intestinal Regeneration in Holothuria glaberrima.  bioRxiv
-   2020.09.23.310599; doi: <https://doi.org/10.1101/2020.09.23.310599>
-
-### Journal Articles
+   Accepted for publication in *Scientific Reports* on December 4, 2020.
 
 1. Pedraza-Marrón, Carmen; Silva, Raimundo; Deeds, Johnathan ; Van
    Belleghem, Steven; Mastretta-Yanes, Alicia; Dominguez-Dominguez,
