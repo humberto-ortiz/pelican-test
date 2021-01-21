@@ -92,7 +92,7 @@ Due to the COVID-19 pandemic, class will meet *online* Tuesday and Thursday from
 
 | Date           | Topic                       | Reading                                                                                                                                                                | Assignment |
 |----------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Jan       | Introduction to OCaml       | [Learn OCaml in Y minutes](https://learnxinyminutes.com/docs/ocaml/)                                                                                                   |            |
+| Jan       | Introduction to OCaml       | [Learn OCaml in Y minutes](https://learnxinyminutes.com/docs/ocaml/)                                                                                                   | [Warmup]({filename}compilers2021/warmup.md) |
 |           | Introduction                | [Lecture 1](https://course.ccs.neu.edu/cs4410/lec_intro_notes.html)                                                                                                |            |
 | Feb           | Integers compiler           | [Lecture 2](https://course.ccs.neu.edu/cs4410/lec_neonate_notes.html)                                                                                              |            |
 |       | Lexing and Parsing          | [Real World OCaml Parsing](http://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)                                                                        |            |
