@@ -372,6 +372,12 @@ muscle. <EM>Innov. et Tech. en Biol. et Med.</EM>,
 
 ### Refereed Proceedings
 
+1. P. Ordóñez, H. Ortiz-Zuazaga and J. S. Ramírez-Lugo, "Broadening
+   Participation in Computing through a Biology Summer Research Experience for
+   Undergraduates," 2020 Research on Equity and Sustained Participation in
+   Engineering, Computing, and Technology (RESPECT), Portland, OR, USA, 2020,
+   pp. 1-2, doi: <https://dx.doi.org/10.1109/RESPECT49803.2020.9272417>.
+
 1. Patricia Ordóñez Franco, María-Eglée Pérez Hernández, **Humberto
 Ortiz Zuazaga**.  Estimulando la Innovación en Ciencia de Datos
 Interdisciplinaria a Través de "Hackathons".  16th LACCEI
