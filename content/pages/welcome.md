@@ -15,7 +15,9 @@ online</a>.
 <p>This is my "new" webpage (since 2015, with <a
 href="https://ccom.uprrp.edu/~humberto/blog/archives/">archived</a> articles
 from 2014 and 2013). Older stuff is on <a
-href="https://www.hpcf.upr.edu/~humberto/">my old webpage at the HPCf</a>.</p>
+href="https://www.hpcf.upr.edu/~humberto/">my old webpage at the HPCf</a>.
+My <a href="vita.html">CV</a> is mostly up to date.
+</p>
 
 </div>
 
