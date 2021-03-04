@@ -32,6 +32,13 @@ type expr =
   | Let of string * expr * expr
   | Ifnz of expr * expr * expr
 ```
+## Semantics
+
+The `ìfnz` expression takes 3 expressions as arguemnts: the condition, the
+then-expression and the else-expression. If the condition evaluates to a
+non-zero value, execution should continue in the then-expression, otherwise, the
+else-expression is evaluated. The `ifnz` is an expression, so it should return a
+value, as determined by the condition and expressions.
 
 ## Example code
 
@@ -76,12 +83,12 @@ the tests in test-ifnz
 ```
 
 ```
-(let (x (ifnz 10 11 12)) (add1 x))
+(let (x (ifnz 10 11 12)) (ifnz x (add1 x) (sub1 x)))
 ```
 
 # Deliverables
 
 You should turn in your modified `lexer.mll`, `parser.mly`, `compiler.ml` and
-`syntax.ml`. You shouldn't need to make changes to other files.
+`syntax.ml`. You shouldn't need to make changes to other files (really).
 
-If you want, run `dune clean` and zip up your entire directory.
+If you want, run `dune clean` and zip up your entire `parenlet` directory.
