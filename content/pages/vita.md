@@ -203,10 +203,11 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ### Journal Articles
 
-1. David J. Quispe-Parra, Joshua Medina-Feliciano, Sebastián Cruz-González,
-   **Humberto Ortiz-Zuazaga**, José E. García-Arrarás. Transcriptomic Analysis
-   of Early Stages of Intestinal Regeneration in *Holothuria glaberrima*.
-   Accepted for publication in *Scientific Reports* on December 4, 2020.
+1. Quispe-Parra, D. J., Medina-Feliciano, J. G., Cruz-González, S.,
+   **Ortiz-Zuazaga, H.***, & García-Arrarás, J. E. (2021). Transcriptomic
+   analysis of early stages of intestinal regeneration in _Holothuria
+   glaberrima_. _Scientific Reports_, 11(1), 1-14.
+   https://doi.org/10.1038/s41598-020-79436-2
 
 1. Pedraza-Marrón, Carmen; Silva, Raimundo; Deeds, Johnathan ; Van
    Belleghem, Steven; Mastretta-Yanes, Alicia; Dominguez-Dominguez,
