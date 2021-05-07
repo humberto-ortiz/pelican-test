@@ -24,10 +24,10 @@ temas aquí en mi blog.
 ## Conchita Zuazaga, PhD
 
 ![Black and white photo of Conchita Zuazaga and Toni Steinacker in front of a DEC PDP-12 and an electrophysiology rig.]({static}/images/zuazaga-steinacker-pdp12-small.jpg)
-_Foto de la Dra. Zuazaga (izq) y Dra. Steinacker (der) frente a una DEC PDP-12 (izq) y un apparato de electrofisiologia (der)._
+_Foto de la Dra. Zuazaga (izq) y Dra. Steinacker (der) frente a una DEC PDP-12 (izq) y un aparato de electrofisiologia (der)._
 
-La Dra. Zuazaga es mi mama, y la primera mujer en la ciencia que conoci. Ella
-programo su analisis de datos para su tesis en FORTRAN, y sometia sus programas
+La Dra. Zuazaga es mi mamá, y la primera mujer en la ciencia que conocí. Ella
+programó su análisis de datos para su tesis en FORTRAN, y sometía sus programas
 por correo a una computadora en Minnesota.
 
 Luego obtuvo una de las menos de 800 computadoras DEC PDP-12 que se fabricaron.
@@ -40,7 +40,7 @@ Yo aprendi a cambiar las cintas, entrar programas en binario en el panel de
 bits, e interactuar con la computadora en el teletipo, para jugar SPACEWAR!
 
 Por una tarea que me dio la colega [Patricia Ordonez,
-PhD](http://ccom.uprrp.edu/~pordonez/) me entere que una de las programadoras
+PhD](http://ccom.uprrp.edu/~pordonez/) me enteré que una de las programadoras
 principales de la computadora LINC fue [Mary Ellen
 Wilkes](https://en.wikipedia.org/wiki/Mary_Allen_Wilkes), Wilkes desarollo el
 ensamblador y el editor del LINC, y hasta el sistema operativo LAP6,
@@ -57,7 +57,7 @@ the National Academy of Sciences_, 78(12), 7806-7809.
 
 ## Elsa Ortiz Suarez
 
-Cuando yo estaba en la high, mi libro de geometria tenia unos ejemplos de BASIC,
+Cuando yo estaba en la high, mi libro de geometría tenia unos ejemplos de BASIC,
 y podiamos hacer ejercicios para la clase. Mi Titi Elsa trabajaba en sistemas de
 informacion (desarollo partes del sistema de matricula), y me llevo a la
 biblioteca de la escuela de medicina, donde podia usar BASIC en los teletipos
@@ -65,18 +65,18 @@ conectados al mainframe IBM en el sotano.
 
 ## Susan Corey, PhD
 
-Ya en la universidad, la Dra Corey me presto un floppy con WordStar y su Apple
-IIe para pasar unos trabajos de mi clase de humanidades, que habia que entregar
+Ya en la universidad, la Dra Corey me prestó un floppy con WordStar y su Apple
+II para pasar unos trabajos de mi clase de humanidades, que habia que entregar
 a maquinilla, sin errores. Poco a poco, desarolle experiencia para entender
 WordStar, y resolver problemas con WordStar, o floppies, o las Apple. Esto llevo
-a que me ofrecieran un trabajo en el Instituto de Neurobiologia, dando apoyo
+a que me ofrecieran un trabajo en el Instituto de Neurobiología, dando apoyo
 tecnico a los investigadores, y eventualmente a mi carrera como tecnico de
 computadoras.
 
 ## A la profesora desconocida
 
 En la UPR, tome el curso MATE 3028 - Introduccion a la Programacion (dos veces,
-la primera me colgue). Ponche tarjetas de papel de 80 columnas, que se
+la primera me colgue). Ponché tarjetas de papel de 80 columnas, que se
 entregaban en Facundo Bueso, y horas despues recibia los resultados de mi
 corrida, que incluian la noticia de que me faltaba un punto y coma (;) en la
 linea 20. La segunda vez, utilizamos terminales de cristal, donde podiamos
@@ -110,10 +110,10 @@ elegantes.
 weighted clique method. Abstract presented at the First International Conference
 on Computational Molecular Biology. Albuquerque, NM, January 1997.
 
-## Sandra Pena de Ortiz, PhD
+## Sandra Peña de Ortiz, PhD
 
-Mi esposa, la Dra. Sandra Pena. Llevamos mas de 30 anos colaborando en la vida,
-y el primer capitulo de mi tesis doctoral se baso en el analisis de un
+Mi esposa, la Dra. Sandra Peña. Llevamos mas de 30 anos colaborando en la vida,
+y el primer capitulo de mi tesis doctoral se basó en el analisis de un
 experimento de su laboratorio. Ella hacia experimentos para medir expresion
 genetica luego de entrenar roedores, y yo colabore en el analisis de datos de
 microarreglos. Aun trabajo en analisis de expression genetica, pero ahora en
@@ -123,6 +123,20 @@ analisis son iguales.
  * Y. Robles, P. E. Vivas, H. G. Ortiz-Zuazaga, Y. Felix, S. Peña de Ortiz.
    Hippocampal gene expression profiling in spatial learning. _Neurobiology of
    Learning and Memory_. 2003 Jul;80(1):80-95. doi:10.1016/S1074-7427(03)00025-X
+
+## Patricia Ordoñez, PhD
+
+Patti ha sido mi colaboradora en muchos proyectos desde que llegó a nuestro
+departamento. Ella me mantiene ocupado con los proyectos de ciencia de datos, y
+fue de las primeras personas en colaborar conmigo en la educacion informal en
+ciencia de datos y los [Carpentries](https://carpentries.org/). Esto resulto en
+mi primer capitulo de un libro.
+
+ * Ordóñez Franco P., Pérez Hernández M.E., Ortiz-Zuazaga H., García Arrarás J.
+(2020) Building a Data Science Program Through Hackathons and Informal Training
+in Puerto Rico. In: Celi L., Majumder M., Ordóñez P., Osorio J., Paik K., Somai
+M. (eds) Leveraging Data Science for Global Health. Springer, Cham.
+<https://doi.org/10.1007/978-3-030-47994-7_29>
 
 ## Muchas colaboradoras
 
