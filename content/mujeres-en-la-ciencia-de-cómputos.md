@@ -8,12 +8,12 @@ Status:
 ## Introduccion
 
 La [Dra. Liz Diaz](https://www.researchgate.net/profile/Liz-Diaz-3) me invitó a
-participar del Segundo Simposio El Poder de la Mujer en las Ciencia, el 15 y 16
+participar del Segundo Simposio El Poder de la Mujer en las Ciencias, el 15 y 16
 de abril de 2021. Se supone que para presentar los programas de ciencia de
 computos. Pero su invitación y el tema de la conferencia me hicieron pensar en
 el rol de las mujeres en mi carrera como cientifico de cómputos.
 
-![Volanta del simposio]({static}/images/Simposio Poder de la mujer en las ciencias-small.jpg)
+![Volanta del simposio]({static}/images/Simposio Poder de la mujer en las ciencias-small.jpg)  
 _Volanta del Segundo Simposio El Poder de la Mujer en Las Ciencias. Pequeñas fotos de muchas cientificas sobre el texto del anuncio._
 
 Para el simposio, prepare una 
@@ -23,12 +23,13 @@ temas aquí en mi blog.
 
 ## Conchita Zuazaga, PhD
 
-![Black and white photo of Conchita Zuazaga and Toni Steinacker in front of a DEC PDP-12 and an electrophysiology rig.]({static}/images/zuazaga-steinacker-pdp12-small.jpg)
+![Black and white photo of Conchita Zuazaga and Toni Steinacker in front of a DEC PDP-12 and an electrophysiology rig.]({static}/images/zuazaga-steinacker-pdp12-small.jpg)  
 _Foto de la Dra. Zuazaga (izq) y Dra. Steinacker (der) frente a una DEC PDP-12 (izq) y un aparato de electrofisiologia (der)._
 
-La Dra. Zuazaga es mi mamá, y la primera mujer en la ciencia que conocí. Ella
-programó su análisis de datos para su tesis en FORTRAN, y sometía sus programas
-por correo a una computadora en Minnesota.
+La [Dra. Zuazaga](https://ggstem.wordpress.com/2014/07/14/conchita-zuazaga/) es
+mi mamá, y la primera mujer en la ciencia que conocí. Ella programó su análisis
+de datos para su tesis en FORTRAN, y sometía sus programas por correo a una
+computadora en Minnesota.
 
 Luego obtuvo una de las menos de 800 computadoras DEC PDP-12 que se fabricaron.
 Esta computadora de 12 bits tenia alrededor de 4 kilo-palabras de memoria. La
