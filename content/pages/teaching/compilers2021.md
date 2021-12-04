@@ -1,4 +1,4 @@
-Title: CCOM 4087 - Compiler Design - Spring 2020
+Title: CCOM 4087 - Compiler Design - Spring 2021
 date: 2020-12-26
 category: Teaching
 tags: hacking, learning
