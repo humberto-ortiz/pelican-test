@@ -16,7 +16,7 @@ described below:
            BOOL
            NUMBER
            ID
-           ( let (ID <expr> ) <expr> )
+           ( let ( ID <expr> ) <expr> )
            ( add1 ‹expr› )
            ( print ‹expr› )
 ```
@@ -47,6 +47,10 @@ Here are some programs that should run in your finished compiler.
 
 ```
 (print 3)
+```
+
+```
+(print false)
 ```
 
 ```
