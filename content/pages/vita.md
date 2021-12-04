@@ -1068,6 +1068,15 @@ None
 
 ### Current research support
 
+1. Collaborative Research: Microbiota Role in Intestinal Regeneration.  
+NSF IOS 2100494  
+PI: Jose Garcia-Arraras  
+Start Date: September 15, 2021  
+End Date: June 30, 2024  
+Funds: $661,175  
+Role on project: Collaborator, consult and colaborate on metagenomic data analysis. Provide computational resources for genomics.  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=2100494>
+
 1. RII Track-2 FEC: Genomic Logic Underlying Adaptive Morphological
 Divergence.  
 NSF OIA 1736026  
