@@ -2,7 +2,7 @@ Title: Welcome
 Slug: welcome
 save_as: index.html
 
-<div class="jumbotron"> <p> I'm the Interim Chairperson and a Professor of <a
+<div class="jumbotron"> <p> I'm a Professor of <a
 href="//ccom.uprrp.edu/">Computer Science</a> in the <a
 href="http://www.uprrp.edu/">UPRRP</a>. I am also the Director,
 <a

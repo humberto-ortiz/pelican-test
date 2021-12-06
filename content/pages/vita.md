@@ -51,7 +51,7 @@ in chemistry, 1983-1987.
 
 Interim Chairperson
 : Department of Computer Science, Rio Piedras Campus, University of Puerto Rico,
-  since September 1, 2020.
+  September 1, 2020 to December 31, 2021.
 
 Professor
 : Department of Computer Science, Rio Piedras Campus, University of Puerto Rico,
