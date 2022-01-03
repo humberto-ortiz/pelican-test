@@ -36,7 +36,7 @@ When we moved back to Puerto Rico in the late '90s I was working with Rosemarie
 Plaetke on software for genetic and radiation hybrid mapping. Rosie was applying
 for a grant, and asked me to identify a mentor in Puerto Rico she could
 subcontract so I could continue on the project. Oscar was a friend of the
-family, so I asked him if he could serve as my mentor. He said no! A number of
+family*, so I asked him if he could serve as my mentor. He said no! A number of
 years later he got interested in cDNA microarrays, and found some presentations
 I had made on [gene expresison
 clustering](https://www.hpcf.upr.edu/~humberto/slides.sh/ma-cluster/index.html)
@@ -48,3 +48,7 @@ eventually grew into my PhD project.
 Warts and all, I think the entire CS community in Puerto Rico owes Moreno a
 great deal, and I cerrtainly owe him my career as a professor of computer
 science. I miss him, even though I sometimes dreaded our conversations.
+---
+\* Oscar studied with my aunt Elsa. She claimed she got thrown out of class one
+  day because Oscar kept talking during class. I asked him one day, and he
+  clamied the professor threw them out because my aunt was talking.
