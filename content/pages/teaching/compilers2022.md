@@ -86,7 +86,7 @@ and Yacc).
 
 ## Course Schedule
 
-Class will meet Tuesday and Thursday from 10:00 to 11:20 AM.
+Class will meet Tuesday and Thursday from 10:00 to 11:20 AM in NCL A-141.
 
 Due to the COVID-19 pandemic, we may have to move back to online classes on
 short notice.
