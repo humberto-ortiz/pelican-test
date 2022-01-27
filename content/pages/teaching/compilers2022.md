@@ -91,18 +91,22 @@ Class will meet Tuesday and Thursday from 10:00 to 11:20 AM in NCL A-229.
 **NOTE: Due to the COVID-19 pandemic, clases have moved online until further
 notice.**
 
+The course will be taught in face to face mode, however given the emergency
+circumstances related to COVID-19, or other emergency situation that might
+arise, the course will be switched to distance mode assisted by technology.
+
 ## Calendar
 
 | Date | Topic                       | Reading                                                                                                                                                        | Assignment                                          |
 |------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| Jan  | Introduction to OCaml       | [Learn OCaml in Y minutes](https://learnxinyminutes.com/docs/ocaml/)                                                                                           | [Warmup]({filename}compilers2021/warmup.md)         |
-|      | Introduction                | [Lecture 1](https://course.ccs.neu.edu/cs4410/lec_intro_notes.html)                                                                                            | [dedepython]({filename}compilers2021/dedepython.md) |
+| Jan  | Introduction to OCaml       | [Learn OCaml in Y minutes](https://learnxinyminutes.com/docs/ocaml/)                                                                                           | [Warmup]         |
+|      | Introduction                | [Lecture 1](https://course.ccs.neu.edu/cs4410/lec_intro_notes.html)                                                                                            | [dedepython] |
 | Feb  | Integers compiler           | [Lecture 2](https://course.ccs.neu.edu/cs4410/lec_neonate_notes.html)                                                                                          |                                                     |
-|      | Lexing and Parsing          | [Real World OCaml Parsing](http://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)                                                                | [parser]({filename}compilers2021/parser.md)         |
+|      | Lexing and Parsing          | [Real World OCaml Parsing](http://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)                                                                | [parser]         |
 |      | "variables" and stacks      | [Lecture 3](https://course.ccs.neu.edu/cs4410/lec_let-and-stack_notes.html)                                                                                    |                                                     |
-|      | Conditional expressions     | [Lecture 4](https://course.ccs.neu.edu/cs4410/lec_anf_notes.html)                                                                                              | [ifnz]({filename}compilers2021/ifnz.md) [anfed]({filename}compilers2021/anfed.md) |
+|      | Conditional expressions     | [Lecture 4](https://course.ccs.neu.edu/cs4410/lec_anf_notes.html)                                                                                              | [ifnz] [anfed] |
 | Mar  | Types                       | [Lecture 5](https://course.ccs.neu.edu/cs4410/lec_tagging-values_notes.html)                                                                                   |                                                     |
-|      | Function calls              | [Lecture 6](https://course.ccs.neu.edu/cs4410/lec_function-calls_notes.html)                                                                                   | [print]({filename}compilers2021/print.md)                                                    |
+|      | Function calls              | [Lecture 6](https://course.ccs.neu.edu/cs4410/lec_function-calls_notes.html)                                                                                   | [print]                                                    |
 |      | Function definitions        | [Lecture 7](https://course.ccs.neu.edu/cs4410/lec_function-defs_notes.html)                                                                                    |                                                     |
 |      | Type checking and inference | [Lecture 11](https://course.ccs.neu.edu/cs4410/lec_type-checking_notes.html) and [Lecture 12](https://course.ccs.neu.edu/cs4410/lec_type-inference_notes.html) |                                                     |
 | Apr  | Pairs and the heap          | [Lecture 13](https://course.ccs.neu.edu/cs4410/lec_tuples_notes.html)                                                                                          |                                                     |
