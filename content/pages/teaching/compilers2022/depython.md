@@ -62,7 +62,7 @@ let rec interp e =
     | BinOp (Add, e1, e2) -> interp e1 + interp e2
 ```
 
-I have made a [github repository](https://github.com/humberto-ortiz/compilers-s2022) with the depython data types.
+I have made a [github repository](https://github.com/humberto-ortiz/compilers-2022) with the depython data types.
 
 # Homework
 
