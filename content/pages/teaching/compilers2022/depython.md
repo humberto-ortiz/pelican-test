@@ -43,8 +43,9 @@ We can define OCaml types similar to the above representations of python ast
 type binop = Add | Sub | Mul | Div
 
 type expr =
- | BinOp of binop * expr * expr
- | Num of int
+ | BinOp of binop * expr * expr 
+ | Num of int                   
+ | Name of string               
 
 type stm =
  | Expr of expr
@@ -67,3 +68,25 @@ I have made a [github repository](https://github.com/humberto-ortiz/compilers-20
 # Homework
 
 Implement a function to compute the depth of the largest expression in a depython `prog`. Be careful to check everywhere there may be an expression.
+
+## Examples
+
+Some example depython programs and their depth:
+
+```
+Module [Expr (Num 33)]
+```
+Depth 0.
+
+
+```
+Module [Print (BinOp (Sub, Num 112, Num 23))]
+```
+Depth 1.
+
+```
+Module [Assign ("a", Num 4);
+        Expr (BinOp (Add, Num 8, 
+                          BinOp (Mul , Name "a", Name "a")))]
+```
+Depth 2.
