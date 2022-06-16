@@ -1,7 +1,7 @@
 title: The Troglodita Seal of Approval
 slug: troglodita
 
-![Troglodita seal of approval]({static}/images/troglodita-med.jpg)
+![Troglodita seal of approval: a shaggy haired penguin dressed in caveman furs weilding a club with the HPCf logo.]({static}/images/troglodita-med.jpg)
 
 I think the World Wide Web is a tool for publishing information. I
 used to think most presentation technology (flash, java, javascript, even CSS)
@@ -13,11 +13,7 @@ pages are "troglodita approved", and should render in anything. In
 fact, to qualify as "troglodita approved" you have to validate as
 Strict HTML or XHTML.
 
-<p>
-      <a href="http://validator.w3.org/check/referer"><img
-          src="http://www.w3.org/Icons/valid-html401"
-          alt="Valid HTML 4.01!" height="31" width="88"></a>
-</p>
+[![Valid HTML 4.01!](https://www.w3.org/Icons/valid-html401)](https://validator.w3.org/check/referer)
 
 Yotuel Gonzalez of the [HPCf](http://www.hpcf.upr.edu/) did the seal,
 I think he did a great job.
