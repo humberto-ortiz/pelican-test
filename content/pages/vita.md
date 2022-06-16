@@ -1064,7 +1064,13 @@ Medicine RCMI lecture series. May 1997.  </p>
 
 ### Pending awards
 
-None
+1. Increasing diversity in genomics for the next generation.  
+NIH-NHGRI  
+PI: Jose Garcia Arraras  
+Start date: August 1, 2022  
+End date: July 31, 2027
+Funds: $1,373,000  
+Role on project: Train undergraduate students in genomics and bioinformatics, provide resources for computational research.
 
 ### Current research support
 
@@ -1089,18 +1095,6 @@ and phenotypes for data analysis, collaborate on the analysis of
 sequence and morphometric data.  
 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1736026>
 
-1. Increasing Diversity in Interdisiplinary Big Data to Knowledge  
-NIH NIMHD R25 MD010399  
-PI: José E. García-Arrarás  
-Other PI: Patricia Ordonez, María-Egleé Pérez Hernández  
-Start Date: September 25, 2015  
-End Date: June 30, 2020  
-Funds: $1,067,600  
-Role on project: Support undergraduate training in biomedical big data
-analysis, research mentoring of undergraduates, coordinate seminars
-and workshops in biomedical big data.  
-<https://projectreporter.nih.gov/project_info_description.cfm?aid=9303202&icde=35426999>
-
 1. ADVANCING COMPETITIVE BIOMEDICAL RESEARCH IN PUERTO RICO  
 NIH NIGMS P20GM103475  
 PI: Jose Rodriguez Medina  
@@ -1120,6 +1114,18 @@ Funds: $13M
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9848093&icde=4757569> 
 
 ### Completed Research Support
+
+1. Increasing Diversity in Interdisiplinary Big Data to Knowledge  
+NIH NIMHD R25 MD010399  
+PI: José E. García-Arrarás  
+Other PI: Patricia Ordonez, María-Egleé Pérez Hernández  
+Start Date: September 25, 2015  
+End Date: June 30, 2020  
+Funds: $1,067,600  
+Role on project: Support undergraduate training in biomedical big data
+analysis, research mentoring of undergraduates, coordinate seminars
+and workshops in biomedical big data.  
+<https://projectreporter.nih.gov/project_info_description.cfm?aid=9303202&icde=35426999>
 
 1. UPR/MDACC Partnership for Excellence in Cancer Research  
 NIH National Cancer Institute U54CA096297  
