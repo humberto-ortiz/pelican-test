@@ -796,6 +796,12 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
  
 ## Invited Talks
 
+1.  Airined Montes Mercado, Carlos Morales Rivera, Diego Rosado Tristani,
+    **Humberto Ortiz Zuazaga**, Angelica Rosado Quinones, Juan Ramirez Lugo,
+    Noah A Auger (2022) IDGeNe Data Carpentry Genomics Workshop. San Juan,
+    Puerto Rico, June 27 - July 1.
+    <https://idi-bd2k.github.io/2022-06-27-uprrp-genomics/>
+
 1. Rosado-Quinones, Angelica, **Ortiz-Zuazaga, Humberto**, Ramirez-Lugo, Juan S.
    (2022) IQBio/IDGeNe Software Carpentry in Python Workshop. San Juan, Puerto
    Rico, June 9-15. <https://idi-bd2k.github.io/2022-06-09-uprrp-python/>
@@ -804,10 +810,15 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
    Ramirez Lugo, Noah A Auger, **Humberto Ortiz-Zuazaga** (2022) IQBio/IDGeNe
    Software Carpentry in R Workshop. San Juan, Puerto Rico, June 9-15.
    <https://idi-bd2k.github.io/2022-06-09-uprrp-r/>
+   
+1. Patricia Ordóñez, Wilson Lozano Rolón, **Humberto Ortiz Zuazaga**, Diego
+   Rosado, Laura Ospina Gomez, Carlos Morales Rivera, Airined Montes Mercado,
+   David Quispe (2021) IQ-Bio-REU Introduction to Programming Workshop. Online,
+   May 31 - June 4. <https://idi-bd2k.github.io/2021-05-31-iqbio/>
 
 1. **Ortiz-Zuazaga, Humberto** (2020): Detection of Anomalies in Network
-   Traffic. Online seminar for Women in Cybersecurity, University of Puerto Rico
-   , Bayamon Campus. Puerto Rico, September 17, 2020.
+   Traffic. Online seminar for Women in Cybersecurity, University of Puerto
+   Rico, Bayamon Campus. Puerto Rico, September 17, 2020.
    
 1. **Humberto Ortiz-Zuazaga**, Patricia Ordoñez, Sofia Melendez, Wilson Lozano.
     Helpers: Sebastian Cruz Gonzalez, Joshua Medina Feliciano, Laura Ospina,
