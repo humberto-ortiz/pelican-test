@@ -796,6 +796,15 @@ for Neurochemistry, Buenos Aires Argentina, 2001.
  
 ## Invited Talks
 
+1. Rosado-Quinones, Angelica, **Ortiz-Zuazaga, Humberto**, Ramirez-Lugo, Juan S.
+   (2022) IQBio/IDGeNe Software Carpentry in Python Workshop. San Juan, Puerto
+   Rico, June 9-15. <https://idi-bd2k.github.io/2022-06-09-uprrp-python/>
+   
+1. Airined Montes Mercado, Carlos Morales Rivera, Diego Rosado Tristani, Juan
+   Ramirez Lugo, Noah A Auger, **Humberto Ortiz-Zuazaga** (2022) IQBio/IDGeNe
+   Software Carpentry in R Workshop. San Juan, Puerto Rico, June 9-15.
+   <https://idi-bd2k.github.io/2022-06-09-uprrp-r/>
+
 1. **Ortiz-Zuazaga, Humberto** (2020): Detection of Anomalies in Network
    Traffic. Online seminar for Women in Cybersecurity, University of Puerto Rico
    , Bayamon Campus. Puerto Rico, September 17, 2020.
