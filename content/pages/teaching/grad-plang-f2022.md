@@ -4,6 +4,8 @@ category: Teaching
 tags: hacking, learning
 slug: teaching/grad-plang-f2022
 
+## Also MATE 6681 - Data Structures I
+
 <h3>
 University of Puerto Rico<br>
 Rio Piedras Campus<br>
@@ -71,9 +73,18 @@ arise, the course will be switched to distance mode assisted by technology.
 
 ## Calendar
 
-| Date | Topic                       | Reading                                                                                                                                                        | Assignment                                      |
-|------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Aug  | Introduction to Pyret       | [Getting Started](https://papl.cs.brown.edu/2020/getting-started.html)                                                                                           |      |
+| Date | Topic                 | Reading                                                                                                                  | Assignment |
+|------|-----------------------|--------------------------------------------------------------------------------------------------------------------------|------------|
+| Aug  | Introduction to Pyret | [Getting Started](https://papl.cs.brown.edu/2020/getting-started.html)                                                   |            |
+| Sep  | Syntax and semantics  | [Parsing](https://papl.cs.brown.edu/2020/Processing_Programs__Parsing.html)                                              |            |
+|      | Interpretation        | [First interpreter](https://papl.cs.brown.edu/2020/first-interp.html)                                                    |            |
+|      | Conditionals          | [Conditionals](https://papl.cs.brown.edu/2020/growing-lang.html)                                                         |            |
+| Oct  | Functions             | [Functions](https://papl.cs.brown.edu/2020/Interpreting_Functions.html)                                                  |            |
+|      | Types                 | [A first look at types](https://papl.cs.brown.edu/2020/types.html)                                                       |            |
+|      | Type inference        | [Type inference](https://papl.cs.brown.edu/2020/Type_Inference.html)                                                     |            |
+| Nov  | Mutation              | [Mutation in pyret](https://papl.cs.brown.edu/2020/State__Change__and_More_Equality.html#%28part._mutable-structures%29) |            |
+|      |                       | [Structures and variables](https://papl.cs.brown.edu/2020/implementing-mutation.html)                                    |            |
+|      | Objects               | [Objects](https://papl.cs.brown.edu/2020/objects.html)                                                                   |            |
  
 ### Alternative Teaching Methods
 
@@ -178,4 +189,4 @@ sharing with others.
 
 1. Abelson, H., & Sussman, G. J. (1996). Structure and interpretation
 of computer programs (p. 688). The MIT Pres.
-<https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html>
+<http://sarabander.github.io/sicp/>
