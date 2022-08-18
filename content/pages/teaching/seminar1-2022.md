@@ -17,7 +17,8 @@ Status: published
 | Telephone    | 787-764-0000 x88363                |
 | email        | <mailto:humberto.ortiz@upr.edu>    |
 | Web page     | <http://ccom.uprrp.edu/~humberto/> |
-| Office hours | by appointment                     |
+| Office hours | Monday and Tuesday 1:00 - 2:00 PM  |
+| Office hours | or by appointment                  |
 
 ## Description
 
@@ -40,36 +41,30 @@ None
  - References
  - Areas related to computer science
  - Undergraduate research
- - Introduction to Latex
- - Preparing a technical report
- - How to give an effective talk
  - Undergraduate research opportunities
  - Research talks
  - Mathematicians and computer scientists
 
 ## Objectives
 
- - The student will know the advantages of undergraduate research.
- - The student will have a positive attitude towards research in computer science.
- - The student will know and discuss the principles of academic integrity.
- - The student will know the research areas at the Department of Computer Science.
- -  The  student  will  choose  and  describe  one  of  the  research  topics  presented  in  the  seminar  and  will
+ 1. The student will know the advantages of undergraduate research.
+ 1. The student will have a positive attitude towards research in computer science.
+ 1. The student will know and discuss the principles of academic integrity.
+ 1. The student will know the research areas at the Department of Computer Science.
+ 1.  The  student  will  choose  and  describe  one  of  the  research  topics  presented  in  the  seminar  and  will
 discuss why he/she chose this topic.
- - The student will learn about the contribution of mathematicians and computer scientists.
- - The student will give a short oral presentation about a mathematician or computer scientist.
- - The student will learn about current topics in computer science.
- - The student will learn about research and internship summer opportunities.
- - The student will learn how to find references and prepare a technical article.
- - The student will learn the basics of how to give an oral presentation about computer science.
- - The student will learn how to use Latex.
- - The student will write a technical work using Latex.
- - The student will write an essay about her/his interest in computer science.
- - The student understands the importance of diversity in science.
+ 1. The student will learn about the contribution of mathematicians and computer scientists.
+ 1. The student will give a short oral presentation about a mathematician or computer scientist.
+ 1. The student will learn about current topics in computer science.
+ 1. The student will learn about research and internship summer opportunities.
+ 1. The student will learn how to find references and prepare a technical article.
+ 1. The student will write an resume and a personal essay about her/his interest in computer science.
+ 1. The student understands the importance of diversity in science.
 
 ## Course schedule
 
    Class will meet Mondays from 11:30 AM to 12:50 PM in NCL
-   A-141. In UPR-RP attendance is compulsory.
+   A-141. Attendance is strongly encouraged.
 
 ## Instructional resources
 
@@ -91,7 +86,7 @@ such as Overleaf or ShareLaTeX are available.
 Students work will be evaluated on a 100% basis with the standard curve.
 
  -        Participation in course forums (online, classroom), 25% final grade
- -        Latex document, 25% final grade
+ -        Draft essay, 25% final grade
  -        References and presentation, 25% final grade
  -        Writing assignments, 25% final grade
 
