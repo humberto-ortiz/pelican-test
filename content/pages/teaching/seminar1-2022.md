@@ -51,20 +51,37 @@ None
  1. The student will have a positive attitude towards research in computer science.
  1. The student will know and discuss the principles of academic integrity.
  1. The student will know the research areas at the Department of Computer Science.
- 1.  The  student  will  choose  and  describe  one  of  the  research  topics  presented  in  the  seminar  and  will
-discuss why he/she chose this topic.
  1. The student will learn about the contribution of mathematicians and computer scientists.
  1. The student will give a short oral presentation about a mathematician or computer scientist.
  1. The student will learn about current topics in computer science.
  1. The student will learn about research and internship summer opportunities.
  1. The student will learn how to find references and prepare a technical article.
  1. The student will write an resume and a personal essay about her/his interest in computer science.
- 1. The student understands the importance of diversity in science.
 
 ## Course schedule
 
    Class will meet Mondays from 11:30 AM to 12:50 PM in NCL
    A-141. Attendance is strongly encouraged.
+
+### Contingency plan
+
+In case circumstances beyond our control impede the ability to hold presential
+clases, the professor will communicate to the students alternative methods for
+completing the work.
+
+### Alternative Teaching Methods
+
+Certification No. 112 (2014-2015) of the Governing Board defines a
+classroom course as a course in which 75% or more of the hours of
+instruction require the physical presence of the students and the
+teacher in the classroom.  This means that 25% of a classroom course
+could be offered without requiring the physical presence of the
+students and the teacher in the classroom.  If necessary, this course
+will be able to complete up to 25% of the contact hours (11.25 hours)
+on a non-face-to-face basis by alternative methods such as:
+videoconferences, instructional modules, discussion forums and
+others. If so, the calendar/agenda will be modified to include the
+topics that will be covered by alternative methods.
 
 ## Instructional resources
 
@@ -75,11 +92,6 @@ Register and stay tuned for our polls and forum postings.
 ## Textbook
 
 None
-
-## Software
-
-Students will need access to a text editor and LaTeX. Online services
-such as Overleaf or ShareLaTeX are available.
 
 ## Evaluation
 

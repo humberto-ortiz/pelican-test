@@ -67,6 +67,8 @@ None
 
 Class will meet Monday and Wednesday from 2:30 to 3:50 PM in CN 114A.
 
+### Contingency Plan
+
 The course will be taught in face to face mode, however given the emergency
 circumstances related to COVID-19, or other emergency situation that might
 arise, the course will be switched to distance mode assisted by technology.

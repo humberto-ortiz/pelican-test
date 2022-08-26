@@ -56,6 +56,26 @@ By agreement
 
 By agreement
 
+### Contingency plan
+
+In case circumstances beyond our control impede the ability to hold presential
+clases, the professor will communicate to the students alternative methods for
+completing the work.
+
+### Alternative Teaching Methods
+
+Certification No. 112 (2014-2015) of the Governing Board defines a
+classroom course as a course in which 75% or more of the hours of
+instruction require the physical presence of the students and the
+teacher in the classroom.  This means that 25% of a classroom course
+could be offered without requiring the physical presence of the
+students and the teacher in the classroom.  If necessary, this course
+will be able to complete up to 25% of the contact hours (11.25 hours)
+on a non-face-to-face basis by alternative methods such as:
+videoconferences, instructional modules, discussion forums and
+others. If so, the calendar/agenda will be modified to include the
+topics that will be covered by alternative methods.
+
 ## Instructional resources
 
 
