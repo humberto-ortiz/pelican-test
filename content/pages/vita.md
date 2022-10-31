@@ -203,6 +203,17 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ### Journal Articles
 
+1. Cruz-González, S.; Quesada-Díaz, E.; Miranda-Negrón, Y.; García-Rosario, R.;
+   **Ortiz-Zuazaga, H.**; García-Arrarás, J.E. Molecular Characterization of the
+   Stress Response of the Holothurian Central Nervous System. Accepted for
+   publication October 2022 in *International Journal of Molecular Sciences*.
+
+1. Cruz-González, S.; Quesada-Díaz, E.; Miranda-Negrón, Y.; García-Rosario, R.;
+   **Ortiz-Zuazaga, H.**; García-Arrarás, J.E. Molecular Characterization of the
+   Stress Response of the Holothurian Central Nervous System. Preprints 2022,
+   2022100087 
+   (doi: [10.20944/preprints202210.0087.v1](https://dx.doi.org/10.20944/preprints202210.0087.v1)).
+
 1. Quispe-Parra, D. J., Medina-Feliciano, J. G., Cruz-González, S.,
    **Ortiz-Zuazaga, H.**, & García-Arrarás, J. E. (2021). Transcriptomic
    analysis of early stages of intestinal regeneration in _Holothuria
