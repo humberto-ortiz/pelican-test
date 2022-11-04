@@ -204,9 +204,9 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 ### Journal Articles
 
 1. Cruz-González, S.; Quesada-Díaz, E.; Miranda-Negrón, Y.; García-Rosario, R.;
-   **Ortiz-Zuazaga, H.**; García-Arrarás, J.E. Molecular Characterization of the
-   Stress Response of the Holothurian Central Nervous System. Accepted for
-   publication October 2022 in *International Journal of Molecular Sciences*.
+   **Ortiz-Zuazaga, H.**; García-Arrarás, J.E. The Stress Response of the
+   Holothurian Central Nervous System: A Transcriptomic Analysis. *Int. J. Mol.
+   Sci.* 2022, 23, 13393. <https://doi.org/10.3390/ijms232113393>
 
 1. Cruz-González, S.; Quesada-Díaz, E.; Miranda-Negrón, Y.; García-Rosario, R.;
    **Ortiz-Zuazaga, H.**; García-Arrarás, J.E. Molecular Characterization of the
