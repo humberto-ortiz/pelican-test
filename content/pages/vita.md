@@ -1095,15 +1095,24 @@ Medicine RCMI lecture series. May 1997.  </p>
 
 ### Pending awards
 
-1. Increasing diversity in genomics for the next generation.  
+1. Subaward to "Building an inclusive community and framework for teaching and learning computational genomic data science with Bioconductor, Galaxy, and AnVIL"  
 NIH-NHGRI  
+PI: Vincent Carey (Harvard University)  
+Subaward PI: **Humberto Ortiz-Zuazaga** (UPR)
+Start date: April 1, 2023  
+End date: May 31, 2028  
+Funds: $405,240 (subaward)__
+Role on project: Subaward PI, coordinate a group of researchers integrating computational genomic data science (CGDS) in their education and research practices, develop materials for CGDS.
+
+### Current research support
+
+1. Increasing diversity in genomics for the next generation.  
+NIH-NHGRI 1R25HG012702-01  
 PI: Jose Garcia Arraras  
-Start date: August 1, 2022  
+Start date: September 9, 2022  
 End date: July 31, 2027
 Funds: $1,373,000  
 Role on project: Train undergraduate students in genomics and bioinformatics, provide resources for computational research.
-
-### Current research support
 
 1. Collaborative Research: Microbiota Role in Intestinal Regeneration.  
 NSF IOS 2100494  
