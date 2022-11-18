@@ -1112,7 +1112,8 @@ PI: Jose Garcia Arraras
 Start date: September 9, 2022  
 End date: July 31, 2027
 Funds: $1,373,000  
-Role on project: Train undergraduate students in genomics and bioinformatics, provide resources for computational research.
+Role on project: Train undergraduate students in genomics and bioinformatics, provide resources for computational research.  
+<https://reporter.nih.gov/project-details/10533583>
 
 1. Collaborative Research: Microbiota Role in Intestinal Regeneration.  
 NSF IOS 2100494  
