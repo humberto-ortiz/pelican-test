@@ -80,7 +80,7 @@ arise, the course will be switched to distance mode assisted by technology.
 | Date | Topic                     | Reading                                                          | Assignment |
 |------|---------------------------|------------------------------------------------------------------|------------|
 | Jan  | Introduction to languages |                                                                  |            |
-| Feb  | Rust                      | [The Rust Book](https://rust-book.cs.brown.edu/)                 |            |
+| Feb  | Javascript                | [Software Design by Example](https://third-bit.com/sdxjs/)       |            |
 | Mar  | Racket                    | [How to Design Programs](http://htdp.org/)                       |            |
 | Apr  | Interpreters              | [Programming Languges and Interpretation](https://www.plai.org/) |            |
 | May  | Presentations             |                                                                  |            |
@@ -114,14 +114,14 @@ our polls and forum postings.
 ## Textbooks
 
 As described in the calendar, we will be using at least 3 texts for this course:
-[The Rust Book](https://rust-book.cs.brown.edu/), 
+[Software Design by Example](https://third-bit.com/sdxjs/),
 [How to Design Programs](http://htdp.org/), 
 [Programming Languges and Interpretation](https://www.plai.org/).
  
 ## Software
 
-We will use Rust and racket. You can obtain both in your package manager, or
-using the recommended sites: <https://www.rust-lang.org/tools/install> and
+We will use node and racket. You can obtain both in your package manager, or
+using the recommended sites: <https://github.com/nvm-sh/nvm> and
 <https://download.racket-lang.org/>. Both languages are cross-platform and
 should run on almost anything.
 
