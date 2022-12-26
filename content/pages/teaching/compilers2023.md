@@ -86,10 +86,7 @@ and Yacc).
 
 ## Course Schedule
 
-Class will meet Tuesday and Thursday from 10:00 to 11:20 AM in NCL A-229.
-
-**NOTE: Due to the COVID-19 pandemic, clases have moved online until further
-notice.**
+Class will meet Monday and Wednesday from 8:30 to 9:50 AM in NCL A-143.
 
 The course will be taught in face to face mode, however given the emergency
 circumstances related to COVID-19, or other emergency situation that might
@@ -153,7 +150,7 @@ an additional text on OCaml.  I can suggest the free textbook by
 Jason Hickey 
 [Introduction to Objective Caml](http://courses.cms.caltech.edu/cs134/cs134b/book.pdf).
 Or the textbook by Michael R. Clarkson
-[Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/).
+[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html).
 
 ## Software
 
