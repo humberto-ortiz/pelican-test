@@ -1,4 +1,4 @@
-Title: CCOM 4029 - High Level Languages - Spring 2023
+Title: CCOM 4029-001 - High Level Languages - Spring 2023
 date: 2022-12-22
 category: Teaching
 tags: hacking, learning
@@ -67,7 +67,7 @@ CCOM 3034 - Data Structures
 
 ## Course Schedule
 
-Class will meet Monday and Wednesday from 10:00 to 11:20 AM in NCL A-143.
+Class will meet Monday and Wednesday from 10:00 to 11:20 AM in NCL A-141.
 
 ### Contingency Plan
 
