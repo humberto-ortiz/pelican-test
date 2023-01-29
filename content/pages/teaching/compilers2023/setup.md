@@ -11,6 +11,15 @@ $ uname -ms
 Linux x86_64
 ```
 
+If you're running on a Mac with Apple Silicon (M1/M2) you'll need to look for
+ways to run x86\_64 images. I can suggest looking at
+[UTM](https://mac.getutm.app/) or [finch](https://github.com/runfinch/finch),
+which are free and open source software that can run emulated virtual machines
+across architectures. In particular, if the output of your `uname -ms` command
+is `Darwin arm64` or `Linux arm64`, you can do the first exercises, but you will
+have trouble completing the compiler assignments, as we will be generating
+x86\_64 assembly, and producing linux elf x86_64 executables.
+
 I'm using Ubuntu Jammy Jellyfish (22.04), which has long term support for at
 least 5 years.
 
