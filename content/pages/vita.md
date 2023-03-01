@@ -1112,6 +1112,8 @@ End date: May 31, 2028
 Funds: $405,240 (subaward)  
 Role on project: Subaward PI, coordinate a group of researchers integrating computational genomic data science (CGDS) in their education and research practices, develop materials for CGDS.
 
+### Current research support
+
 1. Landsliding and rhizobiota link the short- and long-term carbon cycles: A “multi-omic” approach  
 Puerto Rico Science Trust: Catalyzer Research Grant Program  
 PI: Carla Restrepo  
@@ -1120,8 +1122,6 @@ Start date: January 1, 2023
 End date: December 31, 2024  
 Funds: $69,476  
 Role on project: Co-PI, mentor graduate and undergraduate students in metagenomic analysis of samples on local and remote HPC resources, develop methods and procedures to analize and plot data and results.
-
-### Current research support
 
 1. Increasing diversity in genomics for the next generation.  
 NIH-NHGRI 1R25HG012702-01  
