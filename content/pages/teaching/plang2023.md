@@ -80,7 +80,7 @@ arise, the course will be switched to distance mode assisted by technology.
 | Date | Topic                     | Reading                                                          | Assignment |
 |------|---------------------------|------------------------------------------------------------------|------------|
 | Jan  | Introduction to languages |                                                                  |            |
-| Feb  | Javascript                | [Software Design by Example](https://third-bit.com/sdxjs/)       |            |
+| Feb  | Javascript                | [Software Design by Example](https://third-bit.com/sdxjs/)       | [Tarea 1]({filename}plang2023/hw1.md)           |
 | Mar  | Racket                    | [How to Design Programs](http://htdp.org/)                       |            |
 | Apr  | Interpreters              | [Programming Languges and Interpretation](https://www.plai.org/) |            |
 | May  | Presentations             |                                                                  |            |
@@ -121,7 +121,7 @@ As described in the calendar, we will be using at least 3 texts for this course:
 ## Software
 
 We will use node and racket. You can obtain both in your package manager, or
-using the recommended sites: <https://github.com/nvm-sh/nvm> and
+using the recommended sites: <https://nodejs.org/en/> and
 <https://download.racket-lang.org/>. Both languages are cross-platform and
 should run on almost anything.
 
