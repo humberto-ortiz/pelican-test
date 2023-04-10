@@ -82,7 +82,7 @@ arise, the course will be switched to distance mode assisted by technology.
 | Jan  | Introduction to languages |                                                                  |            |
 | Feb  | Javascript                | [Software Design by Example](https://third-bit.com/sdxjs/)       | [Tarea 1]({filename}plang2023/hw1.md)           |
 | Mar  | Racket                    | [How to Design Programs](http://htdp.org/)                       |            |
-| Apr  | Interpreters              | [Programming Languges and Interpretation](https://www.plai.org/) |            |
+| Apr  | Interpreters              | [Programming Languges and Interpretation](https://www.plai.org/) | [Tarea 4]({filename}plang2023/hw4.md)           |
 | May  | Presentations             |                                                                  |            |
  
 ### Alternative Teaching Methods
