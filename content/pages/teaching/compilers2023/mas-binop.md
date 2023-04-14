@@ -12,7 +12,7 @@ multiplicacion.
 
 Modifica el compilador de
 [ifzero](https://github.com/humberto-ortiz/compilers-2023/tree/main/ifzero) para
-que reconozca los operadores binarios de suma (`+`) y multiplicacion (`*`).
+que reconozca los operadores binarios de resta (`-`) y multiplicacion (`*`).
 
 
 Entreguen  el archivo `compiler.ml` con sus modificaciones en
