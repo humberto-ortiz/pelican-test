@@ -383,7 +383,7 @@ muscle. <EM>Innov. et Tech. en Biol. et Med.</EM>,
 
 ### Refereed Proceedings
 
-1. P. Ordóñez, H. Ortiz-Zuazaga and J. S. Ramírez-Lugo, "Broadening
+1. P. Ordóñez, **H. Ortiz-Zuazaga** and J. S. Ramírez-Lugo, "Broadening
    Participation in Computing through a Biology Summer Research Experience for
    Undergraduates," 2020 Research on Equity and Sustained Participation in
    Engineering, Computing, and Technology (RESPECT), Portland, OR, USA, 2020,
