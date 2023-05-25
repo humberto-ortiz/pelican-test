@@ -184,7 +184,7 @@ University of Cincinnati student chapter of the Association for
 
 ## Patents
 
-United States Patent <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8868349.PN.&OS=PN%2F8868349&RS=PN%2F8868349">8,868,349</a>
+United States Patent [8868349](https://ppubs.uspto.gov/pubwebapp/external.html?q=(8868349).pn.&type=ids) ([pdf](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8868349))
 : Methods,
 systems, and products for quantitatively measuring the degree of
 concordance between or among microarray probe level data sets. Cheung; Philip; (San Diego, CA) ;
