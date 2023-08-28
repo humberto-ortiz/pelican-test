@@ -78,7 +78,7 @@ arise, the course will be switched to distance mode assisted by technology.
 
 | Date | Topic                  | Reading                                                                                                    | Assignment |
 |------|------------------------|------------------------------------------------------------------------------------------------------------|------------|
-| Aug  | Introduction to Racket | [Quick](https://docs.racket-lang.org/quick/index.html)                                                     |            |
+| Aug  | Introduction to Racket | [Quick](https://docs.racket-lang.org/quick/index.html)                                                     | [Flag day]({filename}/grad-plang-f2023/flag-day.md)           |
 |      | Learning SMoL          | [SMoL tutor](https://www.plai.org/#direct-links-to-the-tutor)                                              |            |
 | Sep  | Evaluation             | [Evaluation](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.88u3rz2zeb67)              |            |
 |      | Syntax and semantics   | [Parsing](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.lwn8ow5i4shv)                 |            |
