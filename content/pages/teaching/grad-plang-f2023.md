@@ -76,18 +76,19 @@ arise, the course will be switched to distance mode assisted by technology.
 
 ## Calendar
 
-| Date | Topic                  | Reading                                                                                                    | Assignment |
-|------|------------------------|------------------------------------------------------------------------------------------------------------|------------|
-| Aug  | Introduction to Racket | [Quick](https://docs.racket-lang.org/quick/index.html)                                                     | [Flag day]({filename}/grad-plang-f2023/flag-day.md)           |
-|      | Learning SMoL          | [SMoL tutor](https://www.plai.org/#direct-links-to-the-tutor)                                              |            |
-| Sep  | Evaluation             | [Evaluation](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.88u3rz2zeb67)              |            |
-|      | Syntax and semantics   | [Parsing](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.lwn8ow5i4shv)                 |            |
-|      | Conditionals           | [Evaluating Conditionals](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.6z3vae3v0z5t) |            |
-| Oct  | Functions              | [Evaluating Functions](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.a2w1ddriw2x4)    |            |
-|      | Objects                | [Objects](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.25npr165inek)                 |            |
-|      | Types                  | [Types](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.7rb3ecnk20em)                   |            |
-| Nov  | Concurrency            | [Control on the web](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.pywusgfikk5t)                                                                                                           |            |
-|      |                        |                                                                                                            |            |
+| Date | Topic                  | Reading                                                                                                    | Assignment                                                              |
+|------|------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Aug  | Introduction to Racket | [Quick](https://docs.racket-lang.org/quick/index.html)                                                     | [Flag day]({filename}grad-plang-f2023/flag-day.md)                      |
+|      | Learning SMoL          | [SMoL tutor](https://www.plai.org/#direct-links-to-the-tutor)                                              |                                                                         |
+| Sep  | Evaluation             | [Evaluation](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.88u3rz2zeb67)              |                                                                         |
+|      | Syntax and semantics   | [Parsing](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.lwn8ow5i4shv)                 |                                                                         |
+|      | Conditionals           | [Evaluating Conditionals](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.6z3vae3v0z5t) |                                                                         |
+| Oct  | Functions              | [Evaluating Functions](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.a2w1ddriw2x4)    |                                                                         |
+|      | Macros                 | Syntactic Sugar                                                                                            | [Multiplication and subtraction]({filename}grad-plang-f2023/mul-sub.md) |
+|      | Objects                | [Objects](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.25npr165inek)                 |                                                                         |
+|      | Types                  | [Types](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.7rb3ecnk20em)                   |                                                                         |
+| Nov  | Concurrency            | [Control on the web](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20electronic.pdf#h.pywusgfikk5t)      | [Presentaciones]({filename}grad-plang-f2023/present.md)            |
+|      |                        |                                                                                                            |                                                                         |
 
 ### Alternative Teaching Methods
 
