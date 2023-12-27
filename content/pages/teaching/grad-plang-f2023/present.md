@@ -10,7 +10,7 @@ minutos, sobre algun tema de lenguages de programacion. Para el mismo, espero
 que ustedes lean algun articulo de lenguages de programacion.
 
 Pueden utilizar cualquier articulo academico, si no tienen, pueden buscar en
-google, Google Scholar, o CiteSeerX.
+google, [Google Scholar](https://scholar.google.com/), o [CiteSeerX](https://citeseerx.ist.psu.edu/) (ahora hay un nuevo servicio de [internet archive scholar](https://scholar.archive.org/)).
 
 Hay varias collecciones de articulos:
 

@@ -26,7 +26,7 @@ LINKS = (('Google Scholar', 'https://scholar.google.com/citations?user=jlRDnO8AA
 # Social widget
 SOCIAL = (#('Facebook', 'https://www.facebook.com/humberto.ortiz.zuazaga'),
 #          ('GitHub', 'http://github.com/humberto-ortiz'),
-          ('Twitter', 'http://twitter.com/hortizzuazaga'),
+#          ('Twitter', 'http://twitter.com/hortizzuazaga'),
           ('LinkedIn', 'http://pr.linkedin.com/in/humbertoortizzuazaga/'),
           #("Google+", "https://plus.google.com/+HumbertoOrtizZuazaga"),)
         )
@@ -55,7 +55,9 @@ PLUGIN_PATHS = ["../pelican-plugins"]
 ##PLUGINS = ['liquid_tags.notebook', 'render_math', "pelican-bootstrapify"]
 
 ## bootswatch-markdown applies table class to tables (much nicer)
-PLUGINS = ['liquid_tags.notebook', 'render_math', "bootswatch_markdown_css", 'i18n_subsites']
+##PLUGINS = ['liquid_tags.notebook', 'render_math', "bootswatch_markdown_css", 'i18n_subsites']
+
+LIQUID_TAGS = ['notebook']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
