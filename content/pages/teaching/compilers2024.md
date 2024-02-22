@@ -21,7 +21,8 @@ Department of Computer Science<br>
 | Telephone    | 787-764-0000 x88363                 |
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
-| Office hours | online by appointment               |
+| Office hours | Mon 2:30-3:30, Tue 11:00-12:00      |
+|              | or by appointment                   |
 
 ## Credits
 
@@ -97,7 +98,7 @@ arise, the course will be switched to distance mode assisted by technology.
 | Date | Topic                       | Reading                                                                                                                                                                | Assignment                                                                              |
 |------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Jan  | Introduction to OCaml       | [Learn OCaml in Y minutes](https://learnxinyminutes.com/docs/ocaml/)                                                                                                   | [Setup]({filename}compilers2023/setup.md) |
-|      | Introduction                | [Lecture 1](https://course.ccs.neu.edu/cs4410sp22/lec_intro_notes.html)                                                                                                |                                                                                         |
+|      | Introduction                | [Lecture 1](https://course.ccs.neu.edu/cs4410sp22/lec_intro_notes.html)                                                                                                | [depython]({filename}compilers2024/depython.md)                                                                                        |
 | Feb  | Integers compiler           | [Lecture 2](https://course.ccs.neu.edu/cs4410sp22/lec_neonate_notes.html)                                                                                              |                                                                                         |
 |      | Lexing and Parsing          | [Real World OCaml Parsing](http://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)                                                                        |                                                                                         |
 |      | "variables" and stacks      | [Lecture 3](https://course.ccs.neu.edu/cs4410sp22/lec_let-and-stack_notes.html)                                                                                        |                                                                                         |
