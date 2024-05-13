@@ -506,6 +506,21 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 
 ### Conferences
 
+1. *Dharsy D. Rodriguez-Velazquez*, **Humberto G. Ortiz-Zuazaga**. A new horizon
+   for differential expression using binarization as a tool for scRNA-seq.
+   Poster presented at the 2024 NHGRI Training Meeting. April 7-10, 2024,
+   Seattle, Washington, USA.
+
+1. *Dharsy D. Rodriguez-Velazquez*, **Humberto G. Ortiz-Zuazaga**. A new horizon
+   for differential expression using binarization as a tool for scRNA-seq.
+   Poster presented at the 2024 SACNAS Local Conference UPRRP. March 9, 2024,
+   UPRRP, Rio Piedras, PR.
+
+1. *Juan F. Hernandez José*, **Humberto Ortiz-Zuazaga**. Binarizing scRNA-seq
+   Data with Alevin Fry Method: Assessing Efficiency in Diabetes and COVID-19
+   Models. Presented at 39th Seminario Interuniversitario de Investigación en
+   Ciencias Matemáticas (SIDIM), UPR Humacao. March 1-2, 2024.
+
 1. Patricia Ordóñez Franco, Juan S. Ramírez-Lugo, **Humberto Ortiz Zuazaga**,
    Maria-Eglée Pérez Hernández, Luis Raul Pericchi and José E. García Arrarás
    Enhancing Undergraduate Education and Curriculum through an Interdisciplinary
