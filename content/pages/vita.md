@@ -641,6 +641,12 @@ Molecular Relations Between Butterfly And Human Eye
 Development". ABRCMS or Annual Biomedical Research Conference for
 Minority Students San Jose, California (USA). November 7-10, 2012. Poster.
 
+1. Medina, Jose & Ruiz, Mayt & Papa, Riccardo & **Ortiz-Zuazaga, Humberto**.
+   (2012). Challenges and improvements in bioinformatics analysis of Next
+   Generation Sequencing applied to natural population. Presented at 2012
+   Society for Advancement of Hispanics/Chicanos and Native Americans in Science
+   National Conference (SACNAS). October 2012.
+
 1. Daniel Velez Costas, Eduardo Galindez Cintron, Jorge
 Ortiz-Carpena, Amneris Hernandez Figueroa, Adrinel Vazquez Montes,
 <b>Humberto Ortiz-Zuazaga</b>, Sandra Pe&ntilde;a de Ortiz. High throughput
