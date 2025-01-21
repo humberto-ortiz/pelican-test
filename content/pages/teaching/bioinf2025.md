@@ -21,7 +21,7 @@ Department of Computer Science<br>
 | Telephone    | 787-764-0000 x88363                 |
 | email        | <mailto:humberto.ortiz@upr.edu>     |
 | Web page     | <https://ccom.uprrp.edu/~humberto/> |
-| Office hours | Tuesday 11:00 AM - 12:00 PM      |
+| Office hours | Tuesday 11:00 AM - 12:00 PM         |
 |              | or by appointment                   |
 
 ## Credits
@@ -66,23 +66,21 @@ bioinformatic problems and participate in their development.
 
 The proposed schedule of lectures, subject to change:
 
-| Date           | Topic                                               | Reading                                                                    |
-|----------------|-----------------------------------------------------|----------------------------------------------------------------------------|
-| Jan         | Introduction: History of Bioinformatics             | Chapter 1, 2                                                               |
-|      | Ethical Issues in Bioinformatics                    | [web page](http://www.hpcf.upr.edu/~humberto/presentations/bioethics.html) |
-| Feb     | Sequences: Nucleic Acids and Proteins               | Chapter 3                                                                  |
-|       | Computer platforms used in sequence analysis        |                                                                            |
-|       | Brute force - Restriction mapping                   | Chapter 4                                                                  |
-|       | Greedy algorithms - Gene order                      | Chapter 5                                                                  |
-| Mar     | Dynamic Programming - Pairwise Sequence Alignment   | Chapter 6                                                                  |
-| Mar          | First Partial Exam                                  |                                                                            |
-| Mar    | Graph Algorithms - Sequence Assembly                | Chapter 8                                                                  |
-| Apr         | Combinatorial Pattern Matching - Fasta and BLAST    | Chapter 9                                                                  |
-|        | Clustering and Trees- Phylogeny                     | Chapter 10                                                                 |
-|           | Functional Genomics: Microarrays                    |                                                                            |
-|       | Statistical Methods for Analysis of Gene Expression |                                                                            |
-| May   | Gene Regulatory Networks: Reverse Engineering       |                                                                            |
-|        | [Final Projects]({filename}bioinf2020/project.md)                                       |                                                                            |
+| Date | Topic                                             | Reading                                                                    |
+|------|---------------------------------------------------|----------------------------------------------------------------------------|
+| Jan  | Introduction, DNA replication                     | Chapter 1                                                                  |
+|      | Ethical Issues in Bioinformatics                  | [web page](http://www.hpcf.upr.edu/~humberto/presentations/bioethics.html) |
+| Feb  | Motif finding                                     | Chapter 2                                                                  |
+|      | Computer platforms used in sequence analysis      |                                                                            |
+|      | Genome assembly                                   | Chapter 3                                                                  |
+| Mar  | Mass spectrometry                                 | Chapter 4                                                                  |
+|      | Sequence Alignment                                | Chapter 5                                                                  |
+|      | First Partial Exam                                |                                                                            |
+| Apr  | Recombination                                     | Chapter 6                                                                  |
+|      | Clustering and Trees- Phylogeny                   | Chapter 7, 8                                                               |
+|      | Read mappping                                     | Chapter 9                                                                  |
+| May  | Machine learning                                  | Chapter 10                                                                 |
+|      | [Final Projects]({filename}bioinf2020/project.md) |                                                                            |
 
 ### Alternative Teaching Methods
 
