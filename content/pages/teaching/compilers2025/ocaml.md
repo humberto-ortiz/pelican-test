@@ -28,7 +28,7 @@ let t1 = Node (3, EmptyNode, EmptyNode);;
 
 let t2 = Node (1, Node (5, EmptyNode, EmptyNode), EmptyNode);;
 ```
-Podemos definir una funcion `sumtree` que reciba un bintree y devuelva el mayor de los enteros contenidos en el arbol:
+Podemos definir una funcion `sumtree` que reciba un bintree y devuelva la suma de los enteros contenidos en el arbol:
 ```ocaml
 let rec sumtree (tree : bintree) : int =
   (* FIXME - return the sum of all the nodes *)
