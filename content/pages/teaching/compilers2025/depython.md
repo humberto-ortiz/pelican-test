@@ -132,7 +132,7 @@ We can simplify this by saying an `If` will take a tuple of 1 expression: the te
 ```ocaml
 type stm =
   ...
-  If of expr * stm * stm
+  | If of expr * stm * stm
 ```
 
 Here's an example depython program with an if:
