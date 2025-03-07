@@ -203,6 +203,11 @@ Juan, PR) ; Moreno; Oscar; (Rio Piedras, PR). October 21, 2014.
 
 ### Journal Articles
 
+1. Terrefortes-Rosado, M. H., Nieves-Rivera, A. V., **Ortiz-Zuazaga, H.**, &
+   Lluberes-Contreras, M. (2025). ViBEx: A Visualization Tool for Gene
+   Expression Analysis. BioMedInformatics, 5(1), 13.
+   <https://doi.org/10.3390/biomedinformatics5010013>
+
 1. Auger, N.A.; Medina-Feliciano, J.G.; Quispe-Parra, D.J.; Colón-Marrero, S.;
    **Ortiz-Zuazaga, H.**; García-Arrarás, J.E. Characterization and Expression
    of Holothurian Wnt Signaling Genes during Adult Intestinal Organogenesis.
