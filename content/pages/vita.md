@@ -511,6 +511,11 @@ Conference on Computational Molecular Biology (RECOMB 2003), April
 
 ### Conferences
 
+1. *Dharsy D. Rodriguez-Velazquez*, **Humberto G. Ortiz-Zuazaga**. The
+   Sociogenomics of Positive Actions for Mental Health: A Holistic Approach.
+   Integral Wellness Symposium: Mental Health, Emotional and Nutrition, Rio
+   Piedras, PR, April 24-25, 2025.
+
 1. *Dharsy D. Rodriguez-Velazquez*, **Humberto G. Ortiz-Zuazaga**. A new horizon
    for differential expression using binarization as a tool for scRNA-seq.
    Poster presented at the 2024 NHGRI Training Meeting. April 7-10, 2024,
