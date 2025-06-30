@@ -1134,6 +1134,15 @@ Medicine RCMI lecture series. May 1997.  </p>
 
 ### Current research support
 
+1. E-RISE RII: Cracking the developmental blueprint of life: Omics, computational science, and artificial intelligence.  
+NSF-OIA 2435987.  
+PI: Riccardo Papa  
+Co-PI: Remi Megret, Michelle Borrero, Abel Baerga, Hector Franco  
+Start date: October 1, 2024  
+End date: March 31, 2029 (Estimated)  
+Role on project: Director HPCf; manage cyberinfrastructure for genomic and phenotypic analysis, including AI/ML infrastructure. Collaborate on bioinformatics analysis and training.  
+Total funds: $6,999,491.00.
+
 1. Landsliding and rhizobiota link the short- and long-term carbon cycles: A “multi-omic” approach  
 Puerto Rico Science Trust: Catalyzer Research Grant Program  
 PI: Carla Restrepo  
@@ -1184,14 +1193,14 @@ conjunction with the bioinfomatics core personnel, bioinformatics
 support for INBRE researchers.  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9282454&icde=35427079>
 
+### Completed Research Support
+
 1. UPR/MDACC Partnership for Excellence in Cancer Research  
 NIH National Cancer Institute U54CA096297  
 PI: Brad R. Weiner, Reynold Lopez-Enriquez, Ana Patricia Ortiz, Elizabeth L. Travis  
 Role on Project: Bioinformatics director, Data and Omics Science Core.  
 Funds: $13M  
 <https://projectreporter.nih.gov/project_info_description.cfm?aid=9848093&icde=4757569> 
-
-### Completed Research Support
 
 1. Increasing Diversity in Interdisiplinary Big Data to Knowledge  
 NIH NIMHD R25 MD010399  

@@ -23,4 +23,6 @@ spoken to people on airplanes.
 
 Meshtastic (and LoRa) send text messages over LoRa, I've paired a
 phone or tether a computer to the T-Echo units to use with the
-meshtastic app on Android or linux.
+meshtastic app on Android or linux. The meshtastic python module can
+[tunnel TCP/IP over the LoRa (only on linux)](https://meshtastic.org/docs/software/python/cli/#tunnel-arguments),
+but I haven't tried it yet.
