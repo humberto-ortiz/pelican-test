@@ -1142,6 +1142,7 @@ Start date: October 1, 2024
 End date: March 31, 2029 (Estimated)  
 Role on project: Director HPCf; manage cyberinfrastructure for genomic and phenotypic analysis, including AI/ML infrastructure. Collaborate on bioinformatics analysis and training.  
 Total funds: $6,999,491.00.
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435987>
 
 1. Landsliding and rhizobiota link the short- and long-term carbon cycles: A “multi-omic” approach  
 Puerto Rico Science Trust: Catalyzer Research Grant Program  
@@ -1151,7 +1152,6 @@ Start date: January 1, 2023
 End date: December 31, 2024  
 Funds: $69,476  
 Role on project: Co-PI, mentor graduate and undergraduate students in metagenomic analysis of samples on local and remote HPC resources, develop methods and procedures to analize and plot data and results.  
-<https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435987>
 
 1. Increasing diversity in genomics for the next generation.  
 NIH-NHGRI 1R25HG012702-01  
