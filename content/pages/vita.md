@@ -1150,7 +1150,8 @@ Co-PI: **Humberto Ortiz-Zuazaga**
 Start date: January 1, 2023  
 End date: December 31, 2024  
 Funds: $69,476  
-Role on project: Co-PI, mentor graduate and undergraduate students in metagenomic analysis of samples on local and remote HPC resources, develop methods and procedures to analize and plot data and results.
+Role on project: Co-PI, mentor graduate and undergraduate students in metagenomic analysis of samples on local and remote HPC resources, develop methods and procedures to analize and plot data and results.  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435987>
 
 1. Increasing diversity in genomics for the next generation.  
 NIH-NHGRI 1R25HG012702-01  
