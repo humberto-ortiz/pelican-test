@@ -1134,6 +1134,21 @@ Medicine RCMI lecture series. May 1997.  </p>
 
 ### Current research support
 
+1. Characterizing radial glia-like cells and their involvement in nervous system regeneration.  
+NSF-IOS 2440073  
+PI: José E. García-Arrarás  
+Co-PI: **Humberto Ortiz-Zuazaga**  
+Start Date: 09/01/2025  
+End Date: 08/31/2028  
+Role on project: Bioinformatics analysis to determine the molecular
+and cellular mechanisms underlying radial glia-like cells (RGLC)
+function and nervous system regeneration in echinoderms. The project's
+specific aims include the characterization of echinoderm RGLCs,
+identification of genes involved in RGLC dedifferentiation, and
+elucidation of signaling pathways promoting CNS regeneration.  
+Award Amount: $477,331  
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=2440073>
+
 1. E-RISE RII: Cracking the developmental blueprint of life: Omics, computational science, and artificial intelligence.  
 NSF-OIA 2435987.  
 PI: Riccardo Papa  
@@ -1141,7 +1156,7 @@ Co-PI: Remi Megret, Michelle Borrero, Abel Baerga, Hector Franco
 Start date: October 1, 2024  
 End date: March 31, 2029 (Estimated)  
 Role on project: Director HPCf; manage cyberinfrastructure for genomic and phenotypic analysis, including AI/ML infrastructure. Collaborate on bioinformatics analysis and training.  
-Total funds: $6,999,491.00.
+Total funds: $6,999,491.00.  
 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435987>
 
 1. Landsliding and rhizobiota link the short- and long-term carbon cycles: A “multi-omic” approach  
