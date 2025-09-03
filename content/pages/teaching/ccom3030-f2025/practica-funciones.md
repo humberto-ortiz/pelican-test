@@ -24,7 +24,7 @@ tests and documentation.
 pair of arguments (see [Number
 Functions](https://pyret.org/docs/latest/numbers.html#%28part._.Number_.Functions%29)
 in the pyret manual). Write a function to find the smallest element of
-three numbers passed to the function. `num-mid(a, b, c)` should return
+three numbers passed to the function. `num-smallest(a, b, c)` should return
 the smallest of a, b, or c argument.
 
 HINT: use function composition
